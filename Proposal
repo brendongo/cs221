@@ -1,35 +1,50 @@
-Proposal (2 pages max): 
+Proposal (2 pages max):
 
 Define the input-output behavior of the system and the scope of the project.
-    Input: Encrypted text
-    Output: Decrypted Text
-    Scope: English. Encrypted using substitution cypher.
+- Input: Encrypted text 
+- Output: Decrypted Text
+- Scope: English. Encrypted using substitution cypher.
 
 What is your evaluation metric for success? 
-    How many of the 26 letters were substituted correctly?
-    Edit Distance
-    Weighted substitution error
+- How many of the 26 letters were substituted correctly?
+- Edit Distance
+- Weighted substitution error
+- Likelyhood of the language model of output
 
 Collect some preliminary data, and give concrete examples of inputs and outputs.
-    gfd => the
+- gfd => the
 
 
 Implement a baseline and an oracle and discuss the gap.
-    
-
-
+    Baseline:
+        Get the counts of words from the corpus and calculate frequencies of letters.
+        Calculate the frequencies of letters in the input and map them to the known frequencies from the corpus.
+        Use mapping as decryption for substitution cipher.
+    Oracle:
+        Knows Correct Answer
+        Or a human goes through all 26! possible answers
+        Or really good code breaker
 
 What are the challenges? Which topics (e.g., search, MDPs, etc.) might be able to address those challenges (at a high-level, since we haven't covered any techniques in detail at this point)? 
+    Figuring out best substitution for letters
+    Distinguishing meaningful sentence from random english words
+    Holes in the fact that training corpus isn’t entirety of english language so n-gram language models will have missing features from training.
 
-
+    Search will help address challenges related to obtaining meaningful sentences
 
 
 Search the Internet for similar projects and mention the related work.
-
-
-
+    Solving Substitution Ciphers - Quipster -94%
+    https://people.csail.mit.edu/hasinoff/pubs/hasinoff-quipster-2003.pdf
+    Solving Substitution Ciphers with Genetic Algorithms
+    http://repo.hackerzvoice.net/depot_madchat/crypto/papers/SubstGen.pdf
+    Breaking Substitution Ciphers Using a Relaxation Algorithm
+    http://www.cs.huji.ac.il/~peleg/papers/cacm79-cipher.pdf
+    Solving Substitution Ciphers with Combined Language Models
+    http://www.aclweb.org/anthology/C14-1218
 
 You should basically have all the infrastructure (e.g., building a simulator, cleaning data) completed to do something interesting by now.
+
 
 
 
