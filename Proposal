@@ -7,16 +7,15 @@ Define the input-output behavior of the system and the scope of the project.
 
 What is your evaluation metric for success? 
     How many of the 26 letters were substituted correctly?
-    
-    
+    Edit Distance
+    Weighted substitution error
 
 Collect some preliminary data, and give concrete examples of inputs and outputs.
-
-
+    gfd => the
 
 
 Implement a baseline and an oracle and discuss the gap.
-
+    
 
 
 
