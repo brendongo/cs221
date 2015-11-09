@@ -11,17 +11,17 @@ class InputFile():
             matches = bodyRegex.findall(data)
             for match in matches:
                 text = "%s" % match
-                self.texts.append[text]
+                self.texts.append(text)
 
     def next_string(self):
-        if self.index < len(self.text):
+        if self.index < len(self.texts):
             index = self.index
             self.index += 1
-            return self.text[index]
+            return self.texts[index]
         
 
 def main():
-    inputs_file = InputFile()
+    inputs_file = InputFile("reut2-000.sgm")
     print inputs_file.next_string()
 
 
