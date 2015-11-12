@@ -1,0 +1,5 @@
+substitution cipher
+noisy channel
+noise
+logic
+decipher

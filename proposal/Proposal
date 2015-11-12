@@ -1,0 +1,49 @@
+CS 221 Project Proposal
+Decrypting Noisy Substitution Ciphertexts
+Brendon Go (bgo) Colin Man (colinman) Spencer Yee (spencery)
+
+Background:
+A substitution cipher is a way of encoding plaintext into a ciphertext. In a simple substitution cipher, first a substitution alphabet is created. The letters of the alphabet is mapped one-to-one with a (not necessarily different) letter. For example, “ABCDEFJHIJKLMNOPQRSTUVWXYZ” can be mapped to “CVNXKFGPMOQBWYUHRIZALTEJSD”. Then a message like “this is an example of a plain text message” can be encrypted with the substitution alphabet into “apmz mz cy kjcwhbk uf c hbcmy akja wkzzcgk” (‘t’ maps to ‘a’, ‘h’ maps to ‘p’ etc.). To decrypt the message, one needs to supply the reverse mapping of the substitution alphabet to the regular alphabet.
+
+If there is ‘noise’ in transmitting a message, each letter has a chance to be accidentally lost, or changed to another letter. There is also a chance that a letter is received when it was not there originally. That is if the sender intended to send the ciphertext “apmz mz cy kjcwhbk uf c hbcmy akja wkzzcgk” but the channel used to send it was noisy, the receiver may instead have received “afmz mm cy kjwhk uf cz hbamy kja wkzclk”. When decoding this message with the substitution alphabet, one gets “tfis ii an exmpe of as pltin ext mesaue”, clearly not the original message.
+
+Scope:
+This project hopes to create an AI that can decipher a noisy ciphertext that has been encrypted using a substitution cipher. We will limit the scope of the problem to deciphering text that was originally in english and only letters will be substituted (numbers and punctuation are left alone). We will also set the chance of a letter to be “noised” as 15% (the chance of deleting, substituting or inserting a letter is 5% for every letter in the ciphertext). Our AI will have knowledge of the English language (a dictionary and samples of english writing).
+
+Input-Output Behavior:
+The input of our program will be a noisy ciphertext of varying length (from 9 words to 200+ words). The output of the program will be a best guess of the original plain text message. 
+
+Example Input Output:
+Using the example above, a sample input would be “afmz mm cy kjwhk uf cz hbamy kja wkzclk” and the output would be “this is an example of a plain text message”. We will generate our own sample inputs and outputs for training and testing by writing a program that encrypts a given plaintext using a random substitution cipher and then randomly adds noise. We will write these onto files so our test and training data do not change.
+
+Metric for Success:
+Our evaluation metric for success will be the accuracy of the best guess which we can measure as the percentage of words it got correct.
+
+Baseline:
+Get the counts of words from the corpus and calculate frequencies of letters. Calculate the frequencies of letters in the input and map them to the known frequencies from the corpus. Use mapping as decryption for substitution cipher. Accuracy: < 1%
+Oracle:
+Average accuracy rate of two human code breakers with access to an online tool (http://www.cryptoclub.org/tools/cracksub_topframe.php) that provides letter frequency counts (for both the english language and the cipher text) and substitutes letters in a given text (just to help speed up the deciphering process). Average Accuracy: 95%
+Gap
+The (obviously very naive) baseline shows that there is more to deciphering texts than just letter frequencies. Even if a more impressive baseline AI is implemented (which we probably will in the future) it will not be anywhere near as accurate as the oracle. This is because humans are able to make the jump from a noisy word to the correct word. That is given a noisy plain text like “tfis ii an exmpe of as pltin ext mesaue” as before, a human can easily make out most if not all the words to be the correct “this is an example of a plain text message” and this jump is difficult for an algorithm to do.
+
+Challenges and Possible Solutions:
+Figuring out a way to tell what is noise and what isn’t
+Determining if a letter substitution is due to the substitution cipher or just noise.
+Distinguishing meaningful sentences from random english words
+Holes in the fact that training corpus isn’t entirety of english language so n-gram language models will have missing features from training
+Search will help address challenges related to obtaining meaningful sentences
+Maybe Logic will help in deciphering since a lot of logic is used by manual human code breakers
+MDPs may help with dealing with the random noise
+
+Related Literature:
+Solving Substitution Ciphers https://people.csail.mit.edu/hasinoff/pubs/hasinoff-quipster-2003.pdf
+Substitution Decrypter using N-gram language model and stochastic local search.
+Solving Substitution Ciphers with Genetic Algorithms
+http://repo.hackerzvoice.net/depot_madchat/crypto/papers/SubstGen.pdf
+Using genetic algorithms to decrypt substitution ciphertexts.
+Breaking Substitution Ciphers Using a Relaxation Algorithm
+http://www.cs.huji.ac.il/~peleg/papers/cacm79-cipher.pdf
+Using Relaxation Algorithm to decipher substitution ciphertexts
+Solving Substitution Ciphers with Combined Language Models
+http://www.aclweb.org/anthology/C14-1218
+Using Monte Carlo search tree to decipher short ciphers, noisy ciphers, and ciphers without spaces.
