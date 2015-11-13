@@ -1,6 +1,7 @@
 from copy import copy,deepcopy
 from collections import Counter
 import util
+import math
 import string
 
 class HashableDict(dict):
@@ -21,7 +22,7 @@ class SubstitutionProblem(util.SearchProblem):
 
     def startState(self): return HashableDict()
 
-    def isGoal(self, state): return len(state) == 15
+    def isGoal(self, state): return len(state) == 12
 
     def succAndCost(self, state):
         succ = []
@@ -32,7 +33,12 @@ class SubstitutionProblem(util.SearchProblem):
         for c in availableChars:
             newState = deepcopy(state)
             newState[cipherChar] = c
-            weight = abs(self.cipherFreqMap[cipherChar] - self.dictFreqMap[c])/self.dictFreqMap[c]
+            # error margin
+            # weight = abs(self.cipherFreqMap[cipherChar] - self.dictFreqMap[c])/self.dictFreqMap[c]
+            # quotient
+            # weight = abs(self.cipherFreqMap[cipherChar] / self.dictFreqMap[c])
+            # difference
+            weight = abs(self.cipherFreqMap[cipherChar] - self.dictFreqMap[c])
             succ.append(((cipherChar,c), newState, weight))
 
         return succ
