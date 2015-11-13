@@ -15,7 +15,6 @@ def main():
     cipher_baseline = baseline.Baseline()
     guess_scores = []
 
-
     for original_text, key, cipher_text in izip(original_text_file, keys_file, cipher_text_file):
         baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text)
         guess_text, guess_key = cipher_solver.decrypt(cipher_text)

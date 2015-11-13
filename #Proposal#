@@ -1,0 +1,35 @@
+Proposal (2 pages max): 
+
+Define the input-output behavior of the system and the scope of the project.
+    Input: Encrypted text
+    Output: Decrypted Text
+    Scope: English. Encrypted using substitution cypher.
+
+What is your evaluation metric for success? 
+    How many of the 26 letters were substituted correctly?
+    Edit Distance
+    Weighted substitution error
+
+Collect some preliminary data, and give concrete examples of inputs and outputs.
+    gfd => the
+
+
+Implement a baseline and an oracle and discuss the gap.
+    
+
+
+
+What are the challenges? Which topics (e.g., search, MDPs, etc.) might be able to address those challenges (at a high-level, since we haven't covered any techniques in detail at this point)? 
+
+
+
+
+Search the Internet for similar projects and mention the related work.
+
+
+
+
+You should basically have all the infrastructure (e.g., building a simulator, cleaning data) completed to do something interesting by now.
+
+
+
