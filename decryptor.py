@@ -5,7 +5,7 @@ def score_accuracy(key, guess_key):
     return sum([1 for i in xrange(len(key.strip())) if key[i] == guess_key[i]])/float(26)
 
 def main():
-    learnfile = "test"
+    learnfile = "newstest2012.en"
     testfile = "original"
     verbose = False
     noise = 0.0
@@ -43,7 +43,7 @@ def main():
         decrypted_alpha = util.encrypt(util.encrypt(string.ascii_uppercase, key), guess_key)
         solver_accuracy.append(score_accuracy(string.ascii_uppercase, decrypted_alpha))
 
-    print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
+    # print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
     print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)
     print "Over %d cipher texts" % len(solver_accuracy)
 

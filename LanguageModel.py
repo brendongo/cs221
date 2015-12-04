@@ -16,7 +16,7 @@ class LanguageModel:
     nGramsFile = open(corpus, 'r')
     for line in nGramsFile: # split into words first
       line = " " + line + " "
-      # line = line.upper()
+      line = line.upper()
       lineLen = len(line)
       for i in xrange(0, lineLen - 2):
         self.characterUnigramCounts[line[i]] += 1
