@@ -1,8 +1,16 @@
 import csv, util, solver, baseline, LanguageModel, string
 from itertools import izip
 
-def score_accuracy(key, guess_key):
-    return sum([1 for i in xrange(len(key.strip())) if key[i] == guess_key[i]])/float(26)
+def score_accuracy(encryption_key, decryption_key, cipher_text):
+    decrypted_alpha = util.encrypt(util.encrypt(string.ascii_uppercase, encryption_key), decryption_key)
+    usedletters = [i in cipher_text.upper() for i in string.ascii_uppercase]
+    print encryption_key
+    print decryption_key
+    print string.ascii_letters
+    print decrypted_alpha
+    print usedletters
+    print sum([1 for i in xrange(len(string.ascii_uppercase)) if string.ascii_uppercase[i] == decrypted_alpha[i] and usedletters[i]])/float(sum(usedletters))
+    return sum([1 for i in xrange(len(string.ascii_uppercase)) if string.ascii_uppercase[i] == decrypted_alpha[i] and usedletters[i]])/float(sum(usedletters))
 
 def main():
     learnfile = "newstest2012.en"
@@ -22,9 +30,10 @@ def main():
 
     for original_text in original_text_file:
         numIterations += 1
+        if numIterations == 1: continue
         if numIterations > 30: break
-        key = util.generateKey()
-        cipher_text = util.encryptCase(original_text, key)
+        encryption_key = util.generateKey()
+        cipher_text = util.encryptCase(original_text, encryption_key)
         cipher_text_noised = util.add_noise(cipher_text, noise)
 
         if verbose:
@@ -33,17 +42,20 @@ def main():
             print "Cipher Text", cipher_text
             print "Noised", cipher_text_noised
         
-        # baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text_noised)
-        # baseline_accuracy.append(score_accuracy(original_text, key, baseline_text, baseline_key));
-
-        guess_text, guess_key = cipher_solver.decrypt(cipher_text_noised)
+        baseline_text, baseline_decryption_key = cipher_baseline.decrypt(cipher_text_noised)
+        guess_text, guess_decryption_key = cipher_solver.decrypt(cipher_text_noised)
         
-        print util.encrypt(string.ascii_uppercase, key)
-        print util.encrypt(util.encrypt(string.ascii_uppercase, key), guess_key)
-        decrypted_alpha = util.encrypt(util.encrypt(string.ascii_uppercase, key), guess_key)
-        solver_accuracy.append(score_accuracy(string.ascii_uppercase, decrypted_alpha))
 
-    # print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
+        baseline_score = score_accuracy(encryption_key, baseline_decryption_key, cipher_text_noised)
+        baseline_accuracy.append(baseline_score)
+        solver_score = score_accuracy(encryption_key, guess_decryption_key, cipher_text_noised)
+        solver_accuracy.append(solver_score)
+        print "Baseline Accuracy: ", baseline_score
+        print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
+        print "Solver Accuracy: ", solver_score
+        print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)
+
+    print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
     print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)
     print "Over %d cipher texts" % len(solver_accuracy)
 
