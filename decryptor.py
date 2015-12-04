@@ -18,11 +18,7 @@ def main():
     solver_accuracy = []
     baseline_accuracy = []
 
-    counter = 0
     for original_text in original_text_file:
-        counter += 1
-        if counter == 0 or counter == 1: continue
-        if counter == 4: break
         key = util.generateKey()
         cipher_text = util.encryptCase(original_text, key)
         cipher_text_noised = util.add_noise(cipher_text, noise)
