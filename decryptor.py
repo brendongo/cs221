@@ -5,10 +5,11 @@ def score_accuracy(original_text, key, guess_text, guess_key):
     return sum([1 for i in xrange(len(key.strip())) if key[i] == guess_key[i]])/float(26)
 
 def main():
-    learnfile = "test"
+    learnfile = "newstest2012.en"
     testfile = "original"
     verbose = False
     noise = 0.0
+    numtrials = 50
 
     languagemodel = LanguageModel.LanguageModel(learnfile)
     original_text_file = open(testfile, "r")
@@ -19,6 +20,9 @@ def main():
     baseline_accuracy = []
 
     for original_text in original_text_file:
+        numtrials -= 1
+        if numtrials < 0: break
+
         key = util.generateKey()
         cipher_text = util.encrypt(original_text, key)
         cipher_text_noised = util.add_noise(cipher_text, noise)

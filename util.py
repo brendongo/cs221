@@ -40,7 +40,7 @@ def add_noise(text, noise):
             letter = random_letter.upper() if letter.isupper() else random_letter.lower()
         result += letter
     return result
-    
+
 # From CS221 Text Reconstruction Assignment
 
 class SearchProblem:
