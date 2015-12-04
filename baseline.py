@@ -30,5 +30,5 @@ class Baseline:
                 cipher_char_frequency[i.upper()] = cipher_char_frequency.get(i.upper()) + 1
 
         cipher_letters_by_freq = "".join(sorted(cipher_char_frequency, key=cipher_char_frequency.get, reverse=True))
-        key = util.encrypt(string.ascii_uppercase, cipher_letters_by_freq, self.letters_by_freq)
-        return (key, util.encrypt(text, string.ascii_uppercase, key))
+        # key = util.encrypt(string.ascii_uppercase, cipher_letters_by_freq, self.letters_by_freq)
+        # return (key, util.encrypt(text, string.ascii_uppercase, key))

@@ -3,26 +3,45 @@ import random, string, collections, heapq
 # Subsitutes character if mapping exists from current to substitution
 # Assumes current and substitution are Capital Strings with no repeating characters
 # Case of return character is same as input character
-def substitute(character, current, substitution):
-    if character.upper() not in current:
-        return character
-    index_in_substitution = current.find(character.upper())
-    if character.isupper():
-        return substitution[index_in_substitution]
-    return substitution[index_in_substitution].lower()
+# def substitute(character, current, substitution):
+#     if character.upper() not in current:
+#         return character
+#     index_in_substitution = current.find(character.upper())
+#     if character.isupper():
+#         return substitution[index_in_substitution]
+#     return substitution[index_in_substitution].lower()
 
-# Uses substitution cipher to encrypt text
-# To encrypt just call encrypt(text, key) where
-# key is a permutation of sting.ascii_uppercase
-# 
-# To decrypt, just call encrypt(text, string.ascii_uppercase, key)
-# with the key used to encrypt
-def encrypt(text, key, original=string.ascii_uppercase):
-    result = ""
-    for char in text:
-        letter = substitute(char, original, key)
-        result += letter
-    return result
+# # Uses substitution cipher to encrypt text
+# # To encrypt just call encrypt(text, key) where
+# # key is a permutation of sting.ascii_uppercase
+# # 
+# # To decrypt, just call encrypt(text, string.ascii_uppercase, key)
+# # with the key used to encrypt
+# def encrypt(text, key, original=string.ascii_uppercase):
+#     result = ""
+#     for char in text:
+#         letter = substitute(char, original, key)
+#         result += letter
+#     return result
+
+def encryptCase(text, key):
+    textLen = len(text)
+    upperText = text.upper()
+    chars = list(upperText)
+    for i in xrange(textLen): 
+        if not chars[i].isalpha(): continue
+        chars[i] = key[ord(chars[i]) - 65]
+    for i in xrange(textLen):
+        if text[i].islower(): chars[i] = chars[i].lower()
+    return "".join(chars)
+
+def encrypt(text, key):
+    textLen = len(text)
+    chars = list(text)
+    for i in xrange(textLen): 
+        if not chars[i].isalpha(): continue
+        chars[i] = key[ord(chars[i]) - 65]
+    return "".join(chars)
 
 # Returns random permutation (as a string) of string.ascii_uppercase
 def generateKey():

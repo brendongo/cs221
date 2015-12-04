@@ -20,7 +20,7 @@ def main():
 
     for original_text in original_text_file:
         key = util.generateKey()
-        cipher_text = util.encrypt(original_text, key)
+        cipher_text = util.encryptCase(original_text, key)
         cipher_text_noised = util.add_noise(cipher_text, noise)
 
         if verbose:
@@ -29,8 +29,8 @@ def main():
             print "Cipher Text", cipher_text
             print "Noised", cipher_text_noised
         
-        baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text_noised)
-        baseline_accuracy.append(score_accuracy(original_text, key, baseline_text, baseline_key))
+        # baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text_noised)
+        # baseline_accuracy.append(score_accuracy(original_text, key, baseline_text, baseline_key));
 
         guess_text, guess_key = cipher_solver.decrypt(cipher_text_noised)
         solver_accuracy.append(score_accuracy(original_text, key, guess_text, guess_key))

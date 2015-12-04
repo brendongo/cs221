@@ -6,10 +6,7 @@ import string
 import LanguageModel
 import random
 import operator
-
-class HashableDict(dict):
-  def __hash__(self):
-    return hash(tuple(sorted(self.iteritems())))
+import sys
 
 class Solver:
   def __init__(self, languagemodel):
@@ -17,7 +14,7 @@ class Solver:
     self.languagemodel = languagemodel
 
   def decrypt(self, cipherText):
-    lowerCipher = cipherText.lower()
+    lowerCipher = cipherText.upper()
     def swapIndices(a, b, key):
       tempKey = list(key)
       tempKey[a], tempKey[b] = tempKey[b], tempKey[a]
@@ -38,7 +35,7 @@ class Solver:
           swaps = []
           for b in xrange(len(key)):
             temp_key = swapIndices(a, b, key)
-            temp_score = self.languagemodel.score(util.encrypt(lowerCipher, string.ascii_uppercase, temp_key))
+            temp_score = self.languagemodel.score(util.encrypt(lowerCipher, temp_key))
             swap = (temp_score, temp_key)
             if swap[0] > best_swap[0]: best_swap = swap
             swaps.append(swap)
@@ -59,15 +56,19 @@ class Solver:
 
           # check for convergence
           if sum([abs((swap[2] - best_swap[0])/best_swap[0]) < .0005 for swap in last_n]) == 10: return best_swap
-        decrypted = util.encrypt(lowerCipher, string.ascii_uppercase, best_swap[1])
-        print i, best_swap[0], self.languagemodel.score(decrypted), decrypted
+        decrypted = util.encrypt(lowerCipher, best_swap[1])
+        sys.stdout.write('.')
+        sys.stdout.flush()
 
     best_swap = (float('-inf'),"")
     for i in xrange(10):
       key = util.generateKey()
       swap = gibbs(key)
       if swap[0] > best_swap[0]: best_swap = swap
-    
-    translated = util.encrypt(cipherText, string.ascii_uppercase, best_swap[1])
-    print "BEST: ", best_swap[0], translated
+
+      sys.stdout.write(str(float(i+1)/10 * 100) + "%")
+      sys.stdout.flush()
+
+    translated = util.encryptCase(cipherText, best_swap[1])
+    print "\nBEST: ", best_swap[0], translated
     return translated, best_swap[1]
