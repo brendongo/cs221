@@ -6,7 +6,6 @@ import string
 import LanguageModel
 import random
 import operator
-import cProfile
 
 class HashableDict(dict):
   def __hash__(self):
@@ -17,20 +16,8 @@ class Solver:
     self.todo = 0
     self.languagemodel = languagemodel
 
-  def do_cprofile(func):
-    def profiled_func(*args, **kwargs):
-      profile = cProfile.Profile()
-      try:
-        profile.enable()
-        result = func(*args, **kwargs)
-        profile.disable()
-        return result
-      finally:
-        profile.print_stats()
-    return profiled_func
-
-  @do_cprofile
   def decrypt(self, cipherText):
+    lowerCipher = cipherText.lower()
     def swapIndices(a, b, key):
       tempKey = list(key)
       tempKey[a], tempKey[b] = tempKey[b], tempKey[a]
@@ -51,7 +38,7 @@ class Solver:
           swaps = []
           for b in xrange(len(key)):
             temp_key = swapIndices(a, b, key)
-            temp_score = self.languagemodel.score(util.encrypt(cipherText, string.ascii_uppercase, temp_key))
+            temp_score = self.languagemodel.score(util.encrypt(lowerCipher, string.ascii_uppercase, temp_key))
             swap = (temp_score, temp_key)
             if swap[0] > best_swap[0]: best_swap = swap
             swaps.append(swap)
@@ -72,7 +59,8 @@ class Solver:
 
           # check for convergence
           if sum([abs((swap[2] - best_swap[0])/best_swap[0]) < .0005 for swap in last_n]) == 10: return best_swap
-        print i, best_swap[0], util.encrypt(cipherText, string.ascii_uppercase, best_swap[1])
+        decrypted = util.encrypt(lowerCipher, string.ascii_uppercase, best_swap[1])
+        print i, best_swap[0], self.languagemodel.score(decrypted), decrypted
 
     best_swap = (float('-inf'),"")
     for i in xrange(10):

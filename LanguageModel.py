@@ -1,4 +1,4 @@
-import math, collections
+import math, collections, string
 
 class LanguageModel:
 
@@ -9,128 +9,66 @@ class LanguageModel:
     self.characterBigramCounts = collections.defaultdict(lambda: 0)
     self.characterTrigramCounts = collections.defaultdict(lambda: 0)
     self.characterUnigramCounts = collections.defaultdict(lambda: 0)
-    self.unigramtotal = 0
-    self.bigramtotal = 0
-    self.trigramtotal = 0
-    self.characterUnigramTotal = 0
     self.train(corpus)
 
   def train(self, corpus):
     '''Train Language Model on Corpus'''
     nGramsFile = open(corpus, 'r')
-    for line in nGramsFile:
-      for j in xrange(0, len(line) - 2):
-        char1 = line[j]
-        char2 = line[j+1]
-        char3 = line[j+2]
-
-        charBigram = char1 + '&' + char2
-        charTrigram = char1 + '&' + char2 + '&' + char3
-        self.characterBigramCounts[charBigram] += 1
-        self.characterTrigramCounts[charTrigram] += 1
-        self.characterUnigramCounts[char1] += 1
-        self.characterUnigramTotal += 1
+    for line in nGramsFile: # split into words first
+      line = " " + line + " "
+      lineLen = len(line)
+      for i in xrange(0, lineLen - 2):
+        self.characterUnigramCounts[line[i].lower()] += 1
+        self.characterBigramCounts[line[i:i+2].lower()] += 1
+        self.characterTrigramCounts[line[i:i+3].lower()] += 1
+      self.characterBigramCounts[line[lineLen-2:lineLen].lower()] += 1
+      self.characterUnigramCounts[line[lineLen-2].lower()] += 1
 
       sentence = line.split()
-      for i in xrange(0, len(sentence) - 2):
+      sentenceLen = len(sentence)
+      for i in xrange(0, sentenceLen - 2):
         first = sentence[i]
         second = sentence[i+1]
         third = sentence[i+2]
 
-        trigram = first + "&" + second + "&" + third
-        self.trigramCounts[trigram] += 1
-        self.trigramtotal += 1
-
-        bigram = first + "&" + second
-        self.bigramCounts[bigram] += 1
-        self.bigramtotal += 1
-
+        self.trigramCounts[(first, second, third)] += 1
+        self.bigramCounts[(first, second)] += 1
         self.unigramCounts[first] += 1
-        self.unigramtotal += 1
 
-
-    # Code below to initialize with ngrams file with format count word word word in each line
-    # nGramsFile = open(corpus, 'r')
-    # for line in nGramsFile:
-    #   count, first, second, third = line.split()
-    #   count = int(count)
-
-    #   trigram = first + "&" + second + "&" + third
-    #   self.trigramCounts[trigram] += count
-
-    #   bigram = first + "&" + second
-    #   self.bigramCounts[bigram] += count
-    #   bigram = second + "&" + third
-    #   self.bigramCounts[bigram] += count
-
-    #   self.unigramCounts[first] += count
-    #   self.unigramCounts[second] += count
-    #   self.unigramCounts[third] += count
-    #   self.unigramtotal += 3*count
+    for char in self.characterUnigramCounts:
+      self.characterUnigramCounts[char] = math.log(self.characterUnigramCounts[char])
+    for bigram in self.characterBigramCounts:
+      self.characterBigramCounts[bigram] = math.log(self.characterBigramCounts[bigram])
+    for trigram in self.characterTrigramCounts:
+      self.characterTrigramCounts[trigram] = math.log(self.characterTrigramCounts[trigram])
+    for word in self.unigramCounts:
+      self.unigramCounts[word] = math.log(self.unigramCounts[word])
+    for bigram in self.bigramCounts:
+      self.bigramCounts[bigram] = math.log(self.bigramCounts[bigram])
+    for trigram in self.trigramCounts:
+      self.trigramCounts[trigram] = math.log(self.trigramCounts[trigram])
 
   def score(self, sentence):
     # sentence is a string
     words = sentence.split()
 
     characterScore = 1.0
-    for word in words:
-      for i in xrange(len(word)):
-        unigramcount = self.characterUnigramCounts[word[i]]
-        unigramScore = math.log(float(unigramcount + 1))
-        characterScore += unigramScore
+    wordScore = 1.0
+
+    for i, word in enumerate(words):
+      wordScore += self.unigramCounts[word]
+
+      length = len(word)
+
+      for j in xrange(length):
+        characterScore += self.characterUnigramCounts[word[j]]
 
       word = " " + word + " "
 
-      for i in xrange(len(word) - 1):
-        bigramcount = self.characterBigramCounts[word[i] + "&" + word[i + 1]]
-        bigramScore = math.log(float(bigramcount + 1))
-        characterScore += bigramScore
+      for j in xrange(length - 1):
+        characterScore += self.characterBigramCounts[word[j:j+2]]
 
-      for i in xrange(len(word) - 2):
-        trigramcount = self.characterTrigramCounts[word[i] + "&" + word[i + 1] + "&" + word[i + 2]]
-        trigramScore = math.log(float(trigramcount + 1))
-        characterScore += trigramScore
-
-    wordScore = 1.0
-    for i in xrange(len(words)):
-      unigramcount = self.unigramCounts[words[i]]
-      unigramScore = math.log(float(unigramcount + 1))
-      wordScore += unigramScore
+      for j in xrange(length - 2):
+        characterScore += self.characterTrigramCounts[word[j:j+3]]
 
     return characterScore + wordScore
-
-
-    # wordScore = 0.0
-    # sentence = sentence.split()
-    # for i in xrange(0,len(sentence) - 2):
-    #   first = sentence[i]
-    #   second = sentence[i+1]
-    #   third = sentence[i+2]
-
-    #   trigram = first + "&" + second + "&" + third
-    #   trigramcount = self.trigramCounts[trigram]
-
-    #   bigram = first + "&" + second
-    #   bigramcount = self.bigramCounts[bigram]
-
-    #   trigramScore = 0.0
-    #   if trigramcount > 0:
-    #     #tri-gram
-    #     trigramScore = float(trigramcount)/bigramcount
-    #     # trigramScore += math.log(trigramcount)
-        # trigramScore -= math.log(bigramcount)
-
-      # Trigram works better without backing up
-      # bigramScore = 0.0
-      # if bigramcount > 0:
-      #   #Bi-gram
-      #   bigramScore += math.log(bigramcount)
-      #   bigramScore -= math.log(self.unigramCounts[first])
-
-      # unigramScore = 0.0
-      # unigramScore += math.log(self.unigramCounts[second] + 1)
-      # unigramScore -= math.log(self.unigramtotal + len(self.unigramCounts))
-
-      # wordScore += trigramScore # + unigramScore + bigramScore;
-
-    return characterScore
