@@ -24,6 +24,13 @@ def encrypt(text, key, original=string.ascii_uppercase):
         result += letter
     return result
 
+# Returns random permutation (as a string) of string.ascii_uppercase
+def generateKey():
+    key = list(string.ascii_uppercase)
+    random.shuffle(key)
+    return ''.join(key)
+
+
 # From CS221 Text Reconstruction Assignment
 
 class SearchProblem:
