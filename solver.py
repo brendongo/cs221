@@ -50,4 +50,4 @@ class Solver:
                 # sample randomly
                 key = sample(swaps)[1]
 
-            print i, key, util.encrypt(cipherText, string.ascii_uppercase, key)
+            print i, key, self.languagemodel.score(util.encrypt(cipherText, string.ascii_uppercase, key)), util.encrypt(cipherText, string.ascii_uppercase, key)

@@ -31,7 +31,7 @@ def main():
         key = util.generateKey()
         cipher_text = util.encrypt(original_text, key)
         baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text)
-        return
+        
         guess_text, guess_key = cipher_solver.decrypt(cipher_text)
         score = score_guess(original_text, key, guess_text, guess_key)
         guess_scores.append(score)
