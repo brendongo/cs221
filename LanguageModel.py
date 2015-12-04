@@ -26,7 +26,7 @@ class LanguageModel:
         charTrigram = char1 + '&' + char2 + '&' + char3
         self.characterBigramCounts[charBigram] += 1
         self.characterTrigramCounts[charTrigram] += 1
-        self.characterUnigramCounts[line] += 1
+        self.characterUnigramCounts[char1] += 1
         self.characterUnigramTotal += 1
 
       sentence = line.split()
@@ -80,7 +80,9 @@ class LanguageModel:
       bigram = first + "&" + second
       bigramcount = self.characterBigramCounts[bigram]
       
-      trigramScore = float(trigramcount + 1)/(bigramcount + len(self.characterBigramCounts) + 1)     
+      bigramScore = math.log(float(bigramcount + 1)) - math.log(len(sentence) + 26 ** 2)
+      trigramScore = math.log(float(trigramcount + 1))
+      # trigramScore = float(trigramcount + 1)/(bigramcount + len(self.characterBigramCounts) + 1)     
 
       # trigramScore = 0.0
       # if trigramcount > 0:
@@ -100,7 +102,7 @@ class LanguageModel:
       # unigramScore += math.log(self.characterUnigramCounts[second] + 1) 
       # unigramScore -= math.log(self.characterUnigramTotal + len(self.characterUnigramCounts))  
 
-      characterScore += trigramScore # + unigramScore + bigramScore
+      characterScore += bigramScore # + unigramScore + bigramScore
 
 
     wordScore = 0.0 
