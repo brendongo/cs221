@@ -10,6 +10,8 @@ class LanguageModel:
     self.characterTrigramCounts = collections.defaultdict(lambda: 0)
     self.characterUnigramCounts = collections.defaultdict(lambda: 0)
     self.unigramtotal = 0
+    self.bigramtotal = 0
+    self.trigramtotal = 0
     self.characterUnigramTotal = 0
     self.train(corpus)
 
@@ -37,9 +39,11 @@ class LanguageModel:
 
         trigram = first + "&" + second + "&" + third
         self.trigramCounts[trigram] += 1
+        self.trigramtotal += 1
 
         bigram = first + "&" + second
         self.bigramCounts[bigram] += 1
+        self.bigramtotal += 1
 
         self.unigramCounts[first] += 1
         self.unigramtotal += 1
@@ -66,23 +70,34 @@ class LanguageModel:
 
   def score(self, sentence):
     # sentence is a string
+    words = sentence.split()
 
     characterScore = 1.0
-    # Character Score
-    for i in xrange(0, len(sentence) - 2):
-      first = sentence[i]
-      second = sentence[i + 1]
-      third = sentence[i + 2]
+    for word in words:
+      for i in xrange(len(word)):
+        unigramcount = self.characterUnigramCounts[word[i]]
+        unigramScore = math.log(float(unigramcount + 1))
+        characterScore += unigramScore
 
-      trigram = first + "&" + second + "&" + third
-      trigramcount = self.characterTrigramCounts[trigram]
+      word = " " + word + " "
 
-      bigram = first + "&" + second
-      bigramcount = self.characterBigramCounts[bigram]
+      for i in xrange(len(word) - 1):
+        bigramcount = self.characterBigramCounts[word[i] + "&" + word[i + 1]]
+        bigramScore = math.log(float(bigramcount + 1))
+        characterScore += bigramScore
 
-      bigramScore = math.log(float(bigramcount + 1)) - math.log(len(sentence) + 26 ** 2)
-      trigramScore = math.log(float(trigramcount + 1)) - math.log(len(sentence) + 26 ** 3)
-      characterScore += trigramScore
+      for i in xrange(len(word) - 2):
+        trigramcount = self.characterTrigramCounts[word[i] + "&" + word[i + 1] + "&" + word[i + 2]]
+        trigramScore = math.log(float(trigramcount + 1))
+        characterScore += trigramScore
+
+    wordScore = 1.0
+    for i in xrange(len(words)):
+      unigramcount = self.unigramCounts[words[i]]
+      unigramScore = math.log(float(unigramcount + 1))
+      wordScore += unigramScore
+
+    return characterScore + wordScore
 
 
     # wordScore = 0.0
