@@ -70,8 +70,6 @@ class LanguageModel:
 
   def score(self, sentence):
     # sentence is a string
-    sentence = " " + sentence + " "
-
     characterScore = 1.0
     for word in sentence.split():
       for i in xrange(len(word)):
@@ -79,17 +77,19 @@ class LanguageModel:
         unigramScore = math.log(float(unigramcount + 1))
         characterScore += unigramScore
 
-    #  for i in xrange(len(word) - 1):
-     #   bigramcount = self.characterBigramCounts[word[i] + "&" + word[i + 1]]
-      #  bigramScore = math.log(float(bigramcount + 1))
-       # characterScore += bigramScore
+      word = " " + word + " "
+
+      for i in xrange(len(word) - 1):
+        bigramcount = self.characterBigramCounts[word[i] + "&" + word[i + 1]]
+        bigramScore = math.log(float(bigramcount + 1))
+        characterScore += bigramScore
 
       for i in xrange(len(word) - 2):
         trigramcount = self.characterTrigramCounts[word[i] + "&" + word[i + 1] + "&" + word[i + 2]]
         trigramScore = math.log(float(trigramcount + 1))
         characterScore += trigramScore
 
-    #return characterScore
+    return characterScore
 
     # Character Score
     for i in xrange(0, len(sentence) - 2):
