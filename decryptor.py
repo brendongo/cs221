@@ -7,7 +7,7 @@ def score_accuracy(original_text, key, guess_text, guess_key):
 def main():
     verbose = False
     keys_file = open("keys", 'r')
-    cipher_text_file = open("substitute", 'r') # or open("substitute_noise", 'r')
+    cipher_text_file = open("substitute_noise", 'r') # or open("substitute_noise", 'r')
     original_text_file = open("original", "r")
 
     cipher_solver = solver.Solver()
