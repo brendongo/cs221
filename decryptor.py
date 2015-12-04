@@ -20,11 +20,13 @@ def main():
             print "Original Text", original_text
             print "Cipher Text", cipher_text
         
-        original_text = "Along with a 93-year-old man who is savouring his last meeting with his family , sitting firmly wedged in his pillows while toasts are drunk in his honour , a 36-year-young man is dying tragically , surrounded by his parents , his wife and his two young children , after having tried everything to survive ."
+        # original_text = "Along with a 93-year-old man who is savouring his last meeting with his family , sitting firmly wedged in his pillows while toasts are drunk in his honour , a 36-year-young man is dying tragically , surrounded by his parents , his wife and his two young children , after having tried everything to survive ."
         # key = util.generateKey()
         # cipher_text = util.encrypt(original_text, key)
         baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text)
-        baseline_accuracy = score_accuracy(original_text, key, baseline_text, baseline_key)
+        baseline_accuracy.append(score_accuracy(original_text, key, baseline_text, baseline_key))
+        print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
+        continue
         guess_text, guess_key = cipher_solver.decrypt(cipher_text)
         accuracy = score_accuracy(original_text, key, guess_text, guess_key)
         solver_accuracy.append(accuracy)
