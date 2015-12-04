@@ -30,7 +30,8 @@ def main():
         original_text = "Along with a 93-year-old man who is savouring his last meeting with his family , sitting firmly wedged in his pillows while toasts are drunk in his honour , a 36-year-young man is dying tragically , surrounded by his parents , his wife and his two young children , after having tried everything to survive ."
         key = util.generateKey()
         cipher_text = util.encrypt(original_text, key)
-        # baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text)
+        baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text)
+        return
         guess_text, guess_key = cipher_solver.decrypt(cipher_text)
         score = score_guess(original_text, key, guess_text, guess_key)
         guess_scores.append(score)
