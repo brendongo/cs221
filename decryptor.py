@@ -22,7 +22,7 @@ def main():
 
     for original_text in original_text_file:
         numIterations += 1
-        if numIterations >= 30: break
+        if numIterations > 30: break
         key = util.generateKey()
         cipher_text = util.encryptCase(original_text, key)
         cipher_text_noised = util.add_noise(cipher_text, noise)
