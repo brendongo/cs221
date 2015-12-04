@@ -8,7 +8,7 @@ def score_guess(original_text, key, guess_text, guess_key):
 def main():
     verbose = False
     keys_file = open("keys", 'r')
-    cipher_text_file = open("substitute", 'r') # or open("substitute_noise", 'r')
+    cipher_text_file = open("substitute_noise", 'r') # or open("substitute_noise", 'r')
     original_text_file = open("original", "r")
 
     cipher_solver = solver.Solver()
@@ -27,7 +27,7 @@ def main():
         # x = "January potato herald dog phone execute"
         # print cipher_solver.languagemodel.score(x), x
         # return
-        original_text = "Along with a 93-year-old man who is savouring his last meeting with his family , sitting firmly wedged in his pillows while toasts are drunk in his honour , a 36-year-young man is dying tragically , surrounded by his parents , his wife and his two young children , after having tried everything to survive ."
+        original_text = "The arsenal suggested a level of planning that added to investigators' concern that Wednesday's shootings, which left 14 dead and 21 injured, were far more than a spontaneous response to a workplace dispute."
         key = util.generateKey()
         cipher_text = util.encrypt(original_text, key)
         # baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text)
