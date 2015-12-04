@@ -16,13 +16,14 @@ class LanguageModel:
     nGramsFile = open(corpus, 'r')
     for line in nGramsFile: # split into words first
       line = " " + line + " "
+      # line = line.upper()
       lineLen = len(line)
       for i in xrange(0, lineLen - 2):
-        self.characterUnigramCounts[line[i].upper()] += 1
-        self.characterBigramCounts[line[i:i+2].upper()] += 1
-        self.characterTrigramCounts[line[i:i+3].upper()] += 1
-      self.characterBigramCounts[line[lineLen-2:lineLen].upper()] += 1
-      self.characterUnigramCounts[line[lineLen-2].upper()] += 1
+        self.characterUnigramCounts[line[i]] += 1
+        self.characterBigramCounts[line[i:i+2]] += 1
+        self.characterTrigramCounts[line[i:i+3]] += 1
+      self.characterBigramCounts[line[lineLen-2:lineLen]] += 1
+      self.characterUnigramCounts[line[lineLen-2]] += 1
 
       sentence = line.split()
       sentenceLen = len(sentence)

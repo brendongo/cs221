@@ -1,7 +1,7 @@
-import csv, util, solver, baseline, LanguageModel
+import csv, util, solver, baseline, LanguageModel, string
 from itertools import izip
 
-def score_accuracy(original_text, key, guess_text, guess_key):
+def score_accuracy(key, guess_key):
     return sum([1 for i in xrange(len(key.strip())) if key[i] == guess_key[i]])/float(26)
 
 def main():
@@ -18,7 +18,11 @@ def main():
     solver_accuracy = []
     baseline_accuracy = []
 
+    counter = 0
     for original_text in original_text_file:
+        counter += 1
+        if counter == 0 or counter == 1: continue
+        if counter == 4: break
         key = util.generateKey()
         cipher_text = util.encryptCase(original_text, key)
         cipher_text_noised = util.add_noise(cipher_text, noise)
@@ -33,7 +37,11 @@ def main():
         # baseline_accuracy.append(score_accuracy(original_text, key, baseline_text, baseline_key));
 
         guess_text, guess_key = cipher_solver.decrypt(cipher_text_noised)
-        solver_accuracy.append(score_accuracy(original_text, key, guess_text, guess_key))
+        
+        print util.encrypt(string.ascii_uppercase, key)
+        print util.encrypt(util.encrypt(string.ascii_uppercase, key), guess_key)
+        decrypted_alpha = util.encrypt(util.encrypt(string.ascii_uppercase, key), guess_key)
+        solver_accuracy.append(score_accuracy(string.ascii_uppercase, decrypted_alpha))
 
     print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
     print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)

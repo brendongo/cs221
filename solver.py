@@ -14,7 +14,7 @@ class Solver:
     self.languagemodel = languagemodel
 
   def decrypt(self, cipherText):
-    lowerCipher = cipherText.upper()
+    upperCipher = cipherText.upper()
     def swapIndices(a, b, key):
       tempKey = list(key)
       tempKey[a], tempKey[b] = tempKey[b], tempKey[a]
@@ -35,10 +35,10 @@ class Solver:
           swaps = []
           for b in xrange(len(key)):
             temp_key = swapIndices(a, b, key)
-            temp_score = self.languagemodel.score(util.encrypt(lowerCipher, temp_key))
-            swap = (temp_score, temp_key)
-            if swap[0] > best_swap[0]: best_swap = swap
-            swaps.append(swap)
+            temp_score = self.languagemodel.score(util.encrypt(upperCipher, temp_key))
+            temp_swap = (temp_score, temp_key)
+            if temp_swap[0] > best_swap[0]: best_swap = temp_swap
+            swaps.append(temp_swap)
 
           # convert to probabilities
           maxSwap = max(swaps, key=operator.itemgetter(0))
@@ -52,13 +52,18 @@ class Solver:
 
           # keep last n swaps
           last_n.append(selected)
-          last_n = last_n[:10]
+          last_n = last_n[-10:]
 
           # check for convergence
-          if sum([abs((swap[2] - best_swap[0])/best_swap[0]) < .0005 for swap in last_n]) == 10: return best_swap
-        decrypted = util.encrypt(lowerCipher, best_swap[1])
-        sys.stdout.write('.')
+          if sum([abs((swap[2] - best_swap[0])/best_swap[0]) == 0 for swap in last_n]) == 10:
+            return best_swap
+
+        decrypted = util.encrypt(upperCipher, best_swap[1])
+        print best_swap[0], decrypted
+        # sys.stdout.write('.')
         sys.stdout.flush()
+
+      return best_swap
 
     best_swap = (float('-inf'),"")
     for i in xrange(10):
