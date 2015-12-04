@@ -59,8 +59,7 @@ class Solver:
             return best_swap
 
         decrypted = util.encrypt(upperCipher, best_swap[1])
-        print best_swap[0], decrypted
-        # sys.stdout.write('.')
+        sys.stdout.write('.')
         sys.stdout.flush()
 
       return best_swap
