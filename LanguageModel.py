@@ -81,7 +81,7 @@ class LanguageModel:
       bigramcount = self.characterBigramCounts[bigram]
       
       bigramScore = math.log(float(bigramcount + 1)) - math.log(len(sentence) + 26 ** 2)
-      trigramScore = math.log(float(trigramcount + 1))
+      trigramScore = math.log(float(trigramcount + 1)) - math.log(len(sentence) + 26 ** 3)
       # trigramScore = float(trigramcount + 1)/(bigramcount + len(self.characterBigramCounts) + 1)     
 
       # trigramScore = 0.0
@@ -102,7 +102,7 @@ class LanguageModel:
       # unigramScore += math.log(self.characterUnigramCounts[second] + 1) 
       # unigramScore -= math.log(self.characterUnigramTotal + len(self.characterUnigramCounts))  
 
-      characterScore += bigramScore # + unigramScore + bigramScore
+      characterScore += trigramScore # + unigramScore + bigramScore
 
 
     wordScore = 0.0 
