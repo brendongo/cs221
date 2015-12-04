@@ -12,9 +12,9 @@ class HashableDict(dict):
         return hash(tuple(sorted(self.iteritems())))
 
 class Solver:
-    def __init__(self):
+    def __init__(self, languagemodel):
         self.todo = 0
-        self.languagemodel = LanguageModel.LanguageModel('test')
+        self.languagemodel = languagemodel
 
     def decrypt(self, cipherText):
 

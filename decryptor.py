@@ -1,35 +1,39 @@
-import csv, util, solver, baseline
+import csv, util, solver, baseline, LanguageModel
 from itertools import izip
 
 def score_accuracy(original_text, key, guess_text, guess_key):
     return sum([1 for i in xrange(len(key.strip())) if key[i] == guess_key[i]])/float(26)
 
 def main():
+    learnfile = "test"
+    testfile = "original"
     verbose = False
-    keys_file = open("keys", 'r')
-    cipher_text_file = open("substitute_noise", 'r') # or open("substitute_noise", 'r')
-    original_text_file = open("original", "r")
+    noise = 0.0
 
-    cipher_solver = solver.Solver()
+    languagemodel = LanguageModel.LanguageModel(learnfile)
+    original_text_file = open(testfile, "r")
+
+    cipher_solver = solver.Solver(languagemodel)
     cipher_baseline = baseline.Baseline()
     solver_accuracy = []
     baseline_accuracy = []
 
-    for original_text, key, cipher_text in izip(original_text_file, keys_file, cipher_text_file):
+    for original_text in original_text_file:
+        key = util.generateKey()
+        cipher_text = util.encrypt(original_text, key)
+        cipher_text_noised = util.add_noise(cipher_text, noise)
+
         if verbose:
             print "Original Text", original_text
+            print "Key"
             print "Cipher Text", cipher_text
+            print "Noised", cipher_text_noised
         
-        # original_text = "Along with a 93-year-old man who is savouring his last meeting with his family , sitting firmly wedged in his pillows while toasts are drunk in his honour , a 36-year-young man is dying tragically , surrounded by his parents , his wife and his two young children , after having tried everything to survive ."
-        # key = util.generateKey()
-        # cipher_text = util.encrypt(original_text, key)
-        baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text)
+        baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text_noised)
         baseline_accuracy.append(score_accuracy(original_text, key, baseline_text, baseline_key))
-        print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
-        continue
-        guess_text, guess_key = cipher_solver.decrypt(cipher_text)
-        accuracy = score_accuracy(original_text, key, guess_text, guess_key)
-        solver_accuracy.append(accuracy)
+
+        guess_text, guess_key = cipher_solver.decrypt(cipher_text_noised)
+        solver_accuracy.append(score_accuracy(original_text, key, guess_text, guess_key))
 
     print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
     print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)

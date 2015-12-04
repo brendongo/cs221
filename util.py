@@ -30,7 +30,17 @@ def generateKey():
     random.shuffle(key)
     return ''.join(key)
 
-
+# Returnes text with added noise.
+# Each alphabet character has noise chance of getting changed to another random alphabet letter of same case
+def add_noise(text, noise):
+    result = ""
+    for letter in text:
+        if letter in string.ascii_letters and random.random() < noise:
+            random_letter = randomLetter()
+            letter = random_letter.upper() if letter.isupper() else random_letter.lower()
+        result += letter
+    return result
+    
 # From CS221 Text Reconstruction Assignment
 
 class SearchProblem:
