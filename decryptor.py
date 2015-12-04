@@ -4,12 +4,6 @@ from itertools import izip
 def score_accuracy(encryption_key, decryption_key, cipher_text):
     decrypted_alpha = util.encrypt(util.encrypt(string.ascii_uppercase, encryption_key), decryption_key)
     usedletters = [i in cipher_text.upper() for i in string.ascii_uppercase]
-    print encryption_key
-    print decryption_key
-    print string.ascii_letters
-    print decrypted_alpha
-    print usedletters
-    print sum([1 for i in xrange(len(string.ascii_uppercase)) if string.ascii_uppercase[i] == decrypted_alpha[i] and usedletters[i]])/float(sum(usedletters))
     return sum([1 for i in xrange(len(string.ascii_uppercase)) if string.ascii_uppercase[i] == decrypted_alpha[i] and usedletters[i]])/float(sum(usedletters))
 
 def main():
