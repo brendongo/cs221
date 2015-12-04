@@ -30,6 +30,49 @@ def generateKey():
     random.shuffle(key)
     return ''.join(key)
 
+def learnPredictor(trainExamples, testExamples, featureExtractor):
+    '''
+    Given |trainExamples| and |testExamples| (each one is a list of (x,y)
+    pairs), a |featureExtractor| to apply to x, and the number of iterations to
+    train |numIters|, return the weight vector (sparse feature vector) learned.
+
+    You should implement stochastic gradient descent.
+
+    Note: only use the trainExamples for training!
+    You should call evaluatePredictor() on both trainExamples and testExamples
+    to see how you're doing as you learn after each iteration.
+    numIters refers to a variable you need to declare. It is not passed in.
+    '''
+    weights = {}  # feature => weight
+    # BEGIN_YOUR_CODE (around 15 lines of code expected)
+    numIters = 17
+    numUpdates = 0
+    for i in range(numIters):
+        for example, label in trainExamples:
+            features = featureExtractor(example)
+            score = dotProduct(weights,features)
+            margin = score*label
+            if margin < 1:
+                # Gradient = -phi(x)y 
+                # stepSize = 1
+                numUpdates += 1
+                stepSize = 1.0/numUpdates** 0.5
+                increment(weights, label*stepSize, features)
+
+        def predict(x):
+            this_weights = weights
+            this_features = featureExtractor(x)
+            this_score = dotProduct(this_weights,this_features)
+            if this_score > 0:
+                return 1
+            return -1
+
+        print "Train: ", evaluatePredictor(trainExamples, predict)
+        print "Test: ", evaluatePredictor(testExamples, predict)
+
+    # END_YOUR_CODE
+    return weights
+
 
 # From CS221 Text Reconstruction Assignment
 

@@ -1,9 +1,8 @@
-import csv, util, solver, baseline
+import csv, util, solver, baseline, string
 from itertools import izip
 
-def score_guess(original_text, key, guess_text, guess_key):
-    # TODO
-    return 0.0
+def score_accuracy(original_text, key, guess_text, guess_key):
+    return sum([1 for i in xrange(len(key.strip())) if key[i] == guess_key[i]])/float(26)
 
 def main():
     verbose = False
@@ -13,31 +12,26 @@ def main():
 
     cipher_solver = solver.Solver()
     cipher_baseline = baseline.Baseline()
-    guess_scores = []
+    solver_accuracy = []
+    baseline_accuracy = []
 
     for original_text, key, cipher_text in izip(original_text_file, keys_file, cipher_text_file):
-        # print original_text
-        # print cipher_text
-        # x = "Along with a 93-year-old man who is savouring his last meeting with his family , sitting firmly wedged in his pillows while toasts are drunk in his honour , a 36-year-young man is dying tragically , surrounded by his parents , his wife and his two young children , after having tried everything to survive ."
-        # print cipher_solver.languagemodel.score(x), x
-        # x = "Showers continued throughout the week in the Bahia cocoa zone, alleviating the drought since early January and improving prospects for the coming temporao, although normal humidity levels have not been restored, Comissaria Smith said in its weekly review."
-        # print cipher_solver.languagemodel.score(x), x
-        # x = "aafsd wertwerewt sdgfhghertsd sgdftwrehr htrthsthere aegrergargr sdfjkhdsfjkh sr sdg trtyk udf rg rdfdgdsf"
-        # print cipher_solver.languagemodel.score(x), x
-        # x = "January potato herald dog phone execute"
-        # print cipher_solver.languagemodel.score(x), x
-        # return
-        original_text = "Along with a 93-year-old man who is savouring his last meeting with his family , sitting firmly wedged in his pillows while toasts are drunk in his honour , a 36-year-young man is dying tragically , surrounded by his parents , his wife and his two young children , after having tried everything to survive ."
-        key = util.generateKey()
-        cipher_text = util.encrypt(original_text, key)
-        # baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text)
+        if verbose:
+            print "Original Text", original_text
+            print "Cipher Text", cipher_text
+        
+        # original_text = "The arsenal suggested a level of planning that added to investigators' concern that Wednesday's shootings, which left 14 dead and 21 injured"
+        # key = util.generateKey()
+        # cipher_text = util.encrypt(original_text, key)
+        baseline_text, baseline_key = cipher_baseline.decrypt(cipher_text)
+        baseline_accuracy = score_accuracy(original_text, key, baseline_text, baseline_key)
         guess_text, guess_key = cipher_solver.decrypt(cipher_text)
-        score = score_guess(original_text, key, guess_text, guess_key)
-        guess_scores.append(score)
+        accuracy = score_accuracy(original_text, key, guess_text, guess_key)
+        solver_accuracy.append(accuracy)
 
-        return
-
-    print sum(guess_scores)/len(guess_scores)
+    print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
+    print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)
+    print "Over %d cipher texts" % len(solver_accuracy)
 
 if __name__ == '__main__':
     main()

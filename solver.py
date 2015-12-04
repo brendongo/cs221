@@ -65,7 +65,7 @@ class Solver:
         best_score = self.languagemodel.score(util.encrypt(cipherText, string.ascii_uppercase, best_cipher_key))
         curr_cipher_key = best_cipher_key
         curr_score = best_score
-        for i in xrange(100000):
+        for i in xrange(2000):
             temp = swap(curr_cipher_key)
             temp_score = self.languagemodel.score(util.encrypt(cipherText, string.ascii_uppercase, temp))
             if temp_score > curr_score:
@@ -75,11 +75,11 @@ class Solver:
               if temp_score > best_score:
                 best_cipher_key = temp
                 best_score = temp_score
-                print best_score, i, util.encrypt(cipherText, string.ascii_uppercase, temp)
+                # print best_score, i, util.encrypt(cipherText, string.ascii_uppercase, temp)
 
-            elif random.random() * best_score < temp_score:
-              curr_cipher_key = temp
-              curr_score = temp_score
+            # elif random.random() * best_score < temp_score:
+            #   curr_cipher_key = temp
+            #   curr_score = temp_score
 
         return (util.encrypt(cipherText, string.ascii_uppercase, best_cipher_key), best_cipher_key)
 

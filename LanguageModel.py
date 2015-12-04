@@ -102,7 +102,7 @@ class LanguageModel:
       # unigramScore += math.log(self.characterUnigramCounts[second] + 1) 
       # unigramScore -= math.log(self.characterUnigramTotal + len(self.characterUnigramCounts))  
 
-      characterScore += trigramScore # + unigramScore + bigramScore
+      characterScore += trigramScore + bigramScore #unigramScore +
 
 
     wordScore = 0.0 
