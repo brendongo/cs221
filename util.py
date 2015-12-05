@@ -11,6 +11,9 @@ def substitute(character, current, substitution):
         return substitution[index_in_substitution]
     return substitution[index_in_substitution].lower()
 
+def getDecryptionKey(encryption_key):
+    return "".join([y for (x,y) in sorted(zip(encryption_key, string.ascii_uppercase))])
+
 # # Uses substitution cipher to encrypt text
 # # To encrypt just call encrypt(text, key) where
 # # key is a permutation of sting.ascii_uppercase
@@ -59,6 +62,10 @@ def add_noise(text, noise):
             letter = random_letter.upper() if letter.isupper() else random_letter.lower()
         result += letter
     return result
+
+# Returns a random letter. Could be upper or lower case
+def randomLetter():
+    return random.choice(string.ascii_letters)
 
 # From CS221 Text Reconstruction Assignment
 

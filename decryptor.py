@@ -2,15 +2,20 @@ import csv, util, solver, baseline, LanguageModel, string
 from itertools import izip
 
 def score_accuracy(encryption_key, decryption_key, cipher_text):
-    decrypted_alpha = util.encrypt(util.encrypt(string.ascii_uppercase, encryption_key), decryption_key)
-    usedletters = [i in cipher_text.upper() for i in string.ascii_uppercase]
-    return sum([1 for i in xrange(len(string.ascii_uppercase)) if string.ascii_uppercase[i] == decrypted_alpha[i] and usedletters[i]])/float(sum(usedletters))
+    ''' 
+    Scores how accurate a decryption key was in decrypting a given cipher_text encrypted using a given encryption_key
+    The score is given as a percent of correct letters in the encryption key that are mapped back to their original letters
+    '''
+    true_decryption_key = util.getDecryptionKey(encryption_key)
+    matches = [(true_decryption_key[i] == decryption_key[i]) for i in xrange(len(string.ascii_uppercase)) if string.ascii_uppercase[i] in cipher_text or string.ascii_lowercase[i].upper()]
+    return sum(matches)/float(len(matches))
 
 def main():
     learnfile = "newstest2012.en"
     testfile = "original"
     verbose = False
     noise = 0.0
+    numIterations = 0
 
     languagemodel = LanguageModel.LanguageModel(learnfile)
     original_text_file = open(testfile, "r")
@@ -19,8 +24,6 @@ def main():
     cipher_baseline = baseline.Baseline()
     solver_accuracy = []
     baseline_accuracy = []
-
-    numIterations = 0
 
     for original_text in original_text_file:
         numIterations += 1
@@ -32,18 +35,17 @@ def main():
 
         if verbose:
             print "Original Text", original_text
-            print "Key"
+            print "Key", encryption_key
             print "Cipher Text", cipher_text
             print "Noised", cipher_text_noised
         
         baseline_text, baseline_decryption_key = cipher_baseline.decrypt(cipher_text_noised)
         guess_text, guess_decryption_key = cipher_solver.decrypt(cipher_text_noised)
-        
-
         baseline_score = score_accuracy(encryption_key, baseline_decryption_key, cipher_text_noised)
         baseline_accuracy.append(baseline_score)
         solver_score = score_accuracy(encryption_key, guess_decryption_key, cipher_text_noised)
         solver_accuracy.append(solver_score)
+
         print "Baseline Accuracy: ", baseline_score
         print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
         print "Solver Accuracy: ", solver_score

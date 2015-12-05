@@ -58,6 +58,8 @@ class LanguageModel:
 
     for i, word in enumerate(words):
       wordScore += self.unigramCounts[word]
+      if i < len(words) - 1: 
+        wordScore += self.bigramCounts[(word, words[i+1])]
 
       length = len(word)
 
@@ -72,4 +74,5 @@ class LanguageModel:
       for j in xrange(length - 2):
         characterScore += self.characterTrigramCounts[word[j:j+3]]
 
-    return characterScore + wordScore
+    # print characterScore, wordScore
+    return characterScore + wordScore * 10

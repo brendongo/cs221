@@ -30,4 +30,4 @@ class Baseline:
 
         cipher_letters_by_freq = "".join(sorted(cipher_char_frequency, key=cipher_char_frequency.get, reverse=True))
         decryption_key = "".join([y for (x,y) in sorted(zip(self.letters_by_freq, cipher_letters_by_freq))])
-        return (util.encrypt(text, decryption_key), decryption_key)
+        return (util.encryptCase(text, decryption_key), decryption_key)
