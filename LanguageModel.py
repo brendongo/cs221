@@ -12,6 +12,7 @@ class LanguageModel:
     self.wildcardWords = collections.defaultdict(lambda: set())
     self.KWildcards = 10
     self.train(corpus)
+    self.logs = [math.log(i+1) ** 2 for i in xrange(50)]
 
   def addToWildcardWords(self, word):
     chars = list(word)
@@ -71,7 +72,7 @@ class LanguageModel:
     bestPossibleSentences = [([], 0)]
 
     for i, word in enumerate(words):
-      wordScore += self.unigramCounts[word]
+      wordScore += self.unigramCounts[word] #* self.logs[length]
 
       # if i < len(words) - 1: 
       #   wordScore += self.bigramCounts[(word, words[i+1])]      

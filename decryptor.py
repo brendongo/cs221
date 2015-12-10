@@ -12,10 +12,11 @@ def score_accuracy(encryption_key, decryption_key, cipher_text):
 
 def main():
     learnfile = "newstest2012.en"
-    testfile = "original"
+    testfile = "europarl-v7.es-en.en"
     verbose = False
     noise = 0.0
     numIterations = 0
+    minLength = 100
 
     languagemodel = LanguageModel.LanguageModel(learnfile)
     original_text_file = open(testfile, "r")
@@ -24,8 +25,10 @@ def main():
     cipher_baseline = baseline.Baseline()
     solver_accuracy = []
     baseline_accuracy = []
+    max_counts = []
 
     for original_text in original_text_file:
+        if len(original_text) < minLength: continue
         numIterations += 1
         if numIterations == 1: continue
         if numIterations > 30: break
@@ -40,16 +43,18 @@ def main():
             print "Noised", cipher_text_noised
         
         baseline_text, baseline_decryption_key = cipher_baseline.decrypt(cipher_text_noised)
-        guess_text, guess_decryption_key = cipher_solver.decrypt(cipher_text_noised)
-        baseline_score = score_accuracy(encryption_key, baseline_decryption_key, cipher_text_noised)
+        guess_text, guess_decryption_key, num_guesses = cipher_solver.decrypt(cipher_text_noised)
+        baseline_score = score_accuracy(encryption_key, baseline_decryption_key, cipher_text)
         baseline_accuracy.append(baseline_score)
-        solver_score = score_accuracy(encryption_key, guess_decryption_key, cipher_text_noised)
+        solver_score = score_accuracy(encryption_key, guess_decryption_key, cipher_text)
         solver_accuracy.append(solver_score)
+        max_counts.append(num_guesses)
 
         print "Baseline Accuracy: ", baseline_score
         print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
         print "Solver Accuracy: ", solver_score
         print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)
+        print "Reached same thing many times", max_counts
 
     print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
     print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)
