@@ -12,7 +12,7 @@ class Solver:
   def __init__(self, languagemodel):
     self.todo = 0
     self.languagemodel = languagemodel
-    self.numIters = 20
+    self.numIters = 10
 
   def decrypt(self, cipherText):
     upperCipher = cipherText.upper()
@@ -52,14 +52,15 @@ class Solver:
           key = selected[1]
 
         # keep last n swaps
+        converge_n = 5
         last_n.append(best_swap)
-        last_n = last_n[-10:]
+        last_n = last_n[-converge_n:]
 
         # print best_swap[0], util.encrypt(upperCipher, best_swap[1])
 
         # check for convergence
-        avgSwap = sum([swap[0] for swap in last_n]) / float(10)
-        if sum([abs(swap[0] - avgSwap) <= 1 for swap in last_n]) == 10:
+        avgSwap = sum([swap[0] for swap in last_n]) / float(converge_n)
+        if sum([abs(swap[0] - avgSwap) <= 1 for swap in last_n]) == converge_n:
           return best_swap
 
         decrypted = util.encrypt(upperCipher, best_swap[1])
