@@ -14,10 +14,11 @@ def main():
     learnfile = "ngrams.txt"
     testfile = "europarl-v7.es-en.en"
     verbose = False
-    noise = 0.00
+    noise = 0.05
     numIterations = 0
     minLength = 100
 
+    print "Learning..."
     languagemodel = LanguageModel.LanguageModel(learnfile)
     original_text_file = open(testfile, "r")
 
