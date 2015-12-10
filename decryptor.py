@@ -1,4 +1,4 @@
-import csv, util, solver, baseline, LanguageModel, string, sys, getopt
+import csv, util, solver, baseline, LanguageModel, string, sys, getopt, datetime
 from itertools import izip
 
 def score_accuracy(encryption_key, decryption_key, cipher_text, original_text):
@@ -19,7 +19,7 @@ def main(argv):
     verbose = False
     noise = 0.05
     numIterations = 0
-    minLength = 100
+    minLength = 0
 
     def printHelpMessage():
         print 'decryptor.py [-i <n-gram file> -t <testfile> -n <noise level>]'
@@ -53,13 +53,16 @@ def main(argv):
     for original_text in original_text_file:
         if len(original_text) < minLength: continue
         numIterations += 1
-        if numIterations == 1: continue
-        if numIterations > 30: break
         encryption_key = util.generateKey()
         original_text_noised = util.add_noise(original_text, noise)
         cipher_text = util.encryptCase(original_text_noised, encryption_key)
+        startTime = datetime.datetime.now()
 
         if verbose:
+            print "============================"
+            print "Iteration ", numIterations
+            print "Length ", len(original_text)
+            print "Start Time", startTime
             print "Original Text", original_text
             print "Original Text Noised", original_text_noised
             print "Key", encryption_key
@@ -75,11 +78,15 @@ def main(argv):
         solver_accuracy.append(solver_score)
         max_counts.append(num_guesses)
 
-        print "Baseline Accuracy: ", baseline_score
-        print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
-        print "Solver Accuracy: ", solver_score
-        print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)
-        print "Reached same thing many times", max_counts
+        if verbose:
+            print "End Time", datetime.datetime.now()
+            print "Duration", datetime.datetime.now() - startTime
+            print "Length, Accuracy, Duration,", len(original_text), ',', solver_score, ',', datetime.datetime.now() - startTime
+            print "Baseline Accuracy: ", baseline_score
+            print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
+            print "Solver Accuracy: ", solver_score
+            print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)
+            print "Reached same thing many times", max_counts
 
     print "Average Accuracy of Baseline: ", sum(baseline_accuracy)/len(baseline_accuracy)
     print "Average Accuracy of Solver: ", sum(solver_accuracy)/len(solver_accuracy)
