@@ -9,7 +9,15 @@ class LanguageModel:
     self.characterBigramCounts = collections.defaultdict(lambda: 0)
     self.characterTrigramCounts = collections.defaultdict(lambda: 0)
     self.characterUnigramCounts = collections.defaultdict(lambda: 0)
+    self.wildcardWords = collections.defaultdict(lambda: {})
     self.train(corpus)
+
+  def addToWildcardWords(self, word):
+    chars = list(word)
+    for i in xrange(len(word)):
+      chars[i] = '_'
+      self.wildcardWords[''.join(chars)] = word
+      chars[i] = word[i]
 
   def train(self, corpus):
     '''Train Language Model on Corpus'''
@@ -32,9 +40,17 @@ class LanguageModel:
         second = sentence[i+1]
         third = sentence[i+2]
 
+        self.addToWildcardWords(first)
+
         self.trigramCounts[(first, second, third)] += 1
         self.bigramCounts[(first, second)] += 1
         self.unigramCounts[first] += 1
+
+      if len(sentence) >= 1: self.addToWildcardWords(sentence[-1])
+      if len(sentence) >= 2: self.addToWildcardWords(sentence[-2])
+
+    for key in self.wildcardWords:
+      if self.wildcardWords[key] == 'ADVENTURE': print key
 
     for char in self.characterUnigramCounts:
       self.characterUnigramCounts[char] = math.log(self.characterUnigramCounts[char])
