@@ -55,6 +55,8 @@ class Solver:
           last_n.append(selected)
           last_n = last_n[-10:]
 
+          # print best_swap[0], util.encrypt(upperCipher, best_swap[1])
+
           # check for convergence
           if sum([abs((swap[2] - best_swap[0])/best_swap[0]) == 0 for swap in last_n]) == 10:
             return best_swap

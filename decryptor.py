@@ -11,10 +11,10 @@ def score_accuracy(encryption_key, decryption_key, cipher_text):
     return sum(matches)/float(len(matches))
 
 def main():
-    learnfile = "newstest2012.en"
+    learnfile = "ngrams.txt"
     testfile = "europarl-v7.es-en.en"
     verbose = False
-    noise = 0.0
+    noise = 0.00
     numIterations = 0
     minLength = 100
 

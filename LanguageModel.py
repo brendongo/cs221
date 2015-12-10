@@ -109,7 +109,7 @@ class LanguageModel:
         characterScore += self.characterTrigramCounts[word[j:j+3]]
 
     maxSentence = max([([], 0)] + bestPossibleSentences, key=operator.itemgetter(1))
-    print maxSentence[0]
+    # print maxSentence[0]
     sentenceScore = maxSentence[1]
 
     return characterScore + wordScore + sentenceScore * 10
