@@ -23,9 +23,21 @@ class LanguageModel:
 
   def train(self, corpus):
     '''Train Language Model on Corpus'''
+
+    # Code below to initialize with ngrams file with format count word word word in each line
     nGramsFile = open(corpus, 'r')
-    for line in nGramsFile: # split into words first
-      line = " " + line + " "
+    for entry in nGramsFile:
+      count, first, second, third = entry.upper().split()
+      count = int(count)
+      
+      self.trigramCounts[(first, second, third)] += count
+      self.bigramCounts[(first, second)] += count
+      self.bigramCounts[(second, third)] += count
+      self.unigramCounts[first] += count
+      self.unigramCounts[second] += count
+      self.unigramCounts[third] += count
+
+      line = " " + first + " " + second + " " + third + " "
       line = line.upper()
       lineLen = len(line)
       for i in xrange(0, lineLen - 2):
@@ -35,21 +47,9 @@ class LanguageModel:
       self.characterBigramCounts[line[lineLen-2:lineLen]] += 1
       self.characterUnigramCounts[line[lineLen-2]] += 1
 
-      sentence = line.split()
-      sentenceLen = len(sentence)
-      for i in xrange(0, sentenceLen - 2):
-        first = sentence[i]
-        second = sentence[i+1]
-        third = sentence[i+2]
-
-        self.addToWildcardWords(first)
-
-        self.trigramCounts[(first, second, third)] += 1
-        self.bigramCounts[(first, second)] += 1
-        self.unigramCounts[first] += 1
-
-      if len(sentence) >= 1: self.addToWildcardWords(sentence[-1])
-      if len(sentence) >= 2: self.addToWildcardWords(sentence[-2])
+      self.addToWildcardWords(first)
+      self.addToWildcardWords(second)
+      self.addToWildcardWords(third)
 
     for char in self.characterUnigramCounts:
       self.characterUnigramCounts[char] = math.log(self.characterUnigramCounts[char])
