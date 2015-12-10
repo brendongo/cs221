@@ -76,7 +76,7 @@ class LanguageModel:
       # if i < len(words) - 1: 
       #   wordScore += self.bigramCounts[(word, words[i+1])]      
 
-      possibleCompletions = set([(word, 0)])
+      possibleCompletions = set()
       chars = list(word)
       for i in xrange(len(word)):
         chars[i] = '_'
@@ -85,9 +85,10 @@ class LanguageModel:
       
       partialSentences = []
       for sentence in bestPossibleSentences:
+        if len(possibleCompletions) == 0: partialSentences.append((sentence[0] + [''], sentence[1]))
         for completion in possibleCompletions:
           realWord = completion[0]
-          distanceWeight = .3 if completion[1] == 1 else 1
+          distanceWeight = 1 if realWord == word else .3
           score = 0 if len(sentence[0]) < 1 else sentence[1] + self.bigramCounts[(sentence[0][-1], realWord)] * distanceWeight
           partialSentences.append((sentence[0] + [realWord], score))
 
@@ -107,7 +108,7 @@ class LanguageModel:
         characterScore += self.characterTrigramCounts[word[j:j+3]]
 
     maxSentence = max([([], 0)] + bestPossibleSentences, key=operator.itemgetter(1))
-    # print ' '.join(maxSentence[0])
+    print maxSentence[0]
     sentenceScore = maxSentence[1]
 
     return characterScore + wordScore + sentenceScore * 10
