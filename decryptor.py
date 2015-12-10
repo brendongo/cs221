@@ -1,20 +1,23 @@
 import csv, util, solver, baseline, LanguageModel, string
 from itertools import izip
 
-def score_accuracy(encryption_key, decryption_key, cipher_text):
+def score_accuracy(encryption_key, decryption_key, cipher_text, original_text):
     ''' 
     Scores how accurate a decryption key was in decrypting a given cipher_text encrypted using a given encryption_key
     The score is given as a percent of correct letters in the encryption key that are mapped back to their original letters
     '''
     true_decryption_key = util.getDecryptionKey(encryption_key)
-    matches = [(true_decryption_key[i] == decryption_key[i]) for i in xrange(len(string.ascii_uppercase)) if string.ascii_uppercase[i] in cipher_text or string.ascii_lowercase[i] in cipher_text]
-    return sum(matches)/float(len(matches))
+    original_text_noised = util.encryptCase(cipher_text, true_decryption_key)
+    decrypted_text_noised = util.encryptCase(cipher_text, decryption_key)
+    num_same_all = [1 for x,y,z in zip(original_text_noised, decrypted_text_noised, original_text) if x == z and x == y and x != " "]
+    num_same_original = [1 for x,z in zip(original_text_noised, original_text) if x == z and x != " "]
+    return sum(num_same_all)/float(sum(num_same_original))
 
 def main():
     learnfile = "ngrams.txt"
     testfile = "europarl-v7.es-en.en"
     verbose = False
-    noise = 0.00
+    noise = 0.05
     numIterations = 0
     minLength = 100
 
@@ -33,20 +36,22 @@ def main():
         if numIterations == 1: continue
         if numIterations > 30: break
         encryption_key = util.generateKey()
-        cipher_text = util.encryptCase(original_text, encryption_key)
-        cipher_text_noised = util.add_noise(cipher_text, noise)
+        original_text_noised = util.add_noise(original_text, noise)
+        cipher_text = util.encryptCase(original_text_noised, encryption_key)
 
         if verbose:
             print "Original Text", original_text
+            print "Original Text Noised", original_text_noised
             print "Key", encryption_key
-            print "Cipher Text", cipher_text
-            print "Noised", cipher_text_noised
+            print "Cipher Text Noised", cipher_text
+            
         
-        baseline_text, baseline_decryption_key = cipher_baseline.decrypt(cipher_text_noised)
-        guess_text, guess_decryption_key, num_guesses = cipher_solver.decrypt(cipher_text_noised)
-        baseline_score = score_accuracy(encryption_key, baseline_decryption_key, cipher_text)
+        baseline_text, baseline_decryption_key = cipher_baseline.decrypt(cipher_text)
+        guess_text, guess_decryption_key, num_guesses = cipher_solver.decrypt(cipher_text)
+
+        baseline_score = score_accuracy(encryption_key, baseline_decryption_key, cipher_text, original_text)
         baseline_accuracy.append(baseline_score)
-        solver_score = score_accuracy(encryption_key, guess_decryption_key, cipher_text)
+        solver_score = score_accuracy(encryption_key, guess_decryption_key, cipher_text, original_text)
         solver_accuracy.append(solver_score)
         max_counts.append(num_guesses)
 
