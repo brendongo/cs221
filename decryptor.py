@@ -21,6 +21,7 @@ def main():
     numIterations = 0
     minLength = 100
 
+    print "Learning..."
     languagemodel = LanguageModel.LanguageModel(learnfile)
     original_text_file = open(testfile, "r")
 
