@@ -1,4 +1,4 @@
-import csv, util, solver, baseline, LanguageModel, string
+import csv, util, solver, baseline, LanguageModel, string, sys, getopt
 from itertools import izip
 
 def score_accuracy(encryption_key, decryption_key, cipher_text):
@@ -10,7 +10,7 @@ def score_accuracy(encryption_key, decryption_key, cipher_text):
     matches = [(true_decryption_key[i] == decryption_key[i]) for i in xrange(len(string.ascii_uppercase)) if string.ascii_uppercase[i] in cipher_text or string.ascii_lowercase[i] in cipher_text]
     return sum(matches)/float(len(matches))
 
-def main():
+def main(argv):
     learnfile = "ngrams.txt"
     testfile = "europarl-v7.es-en.en"
     verbose = False
@@ -18,7 +18,26 @@ def main():
     numIterations = 0
     minLength = 100
 
+    def printHelpMessage():
+        print 'decryptor.py [-i <n-gram file> -t <testfile> -n <noise level>]'
+        print '-v verbose'
+        print '-h help'
+    try:
+        opts, args = getopt.getopt(argv,"hvi:t:n:")
+    except getopt.GetoptError:
+        printHelpMessage()
+        sys.exit(2)
+    for opt, arg in opts:
+        if opt == '-h':
+            printHelpMessage()
+            sys.exit()
+        elif opt in ("-i"): learnfile = arg
+        elif opt in ("-t"): testfile = arg
+        elif opt in ("-n"): noise = arg
+        elif opt in ("-v"): verbose = True
+
     print "Learning..."
+    sys.stdout.flush()
     languagemodel = LanguageModel.LanguageModel(learnfile)
     original_text_file = open(testfile, "r")
 
@@ -62,4 +81,4 @@ def main():
     print "Over %d cipher texts" % len(solver_accuracy)
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv[1:])
