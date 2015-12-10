@@ -87,8 +87,8 @@ class LanguageModel:
       for sentence in bestPossibleSentences:
         for completion in possibleCompletions:
           realWord = completion[0]
-          distance = completion[1]
-          score = 0 if len(sentence[0]) < 1 else sentence[1] + self.bigramCounts[(sentence[0][-1], realWord)] * .3
+          distanceWeight = .3 if completion[1] == 1 else 1
+          score = 0 if len(sentence[0]) < 1 else sentence[1] + self.bigramCounts[(sentence[0][-1], realWord)] * distanceWeight
           partialSentences.append((sentence[0] + [realWord], score))
 
       partialSentences = sorted(partialSentences, key=operator.itemgetter(1), reverse=True)
@@ -110,4 +110,4 @@ class LanguageModel:
     # print ' '.join(maxSentence[0])
     sentenceScore = maxSentence[1]
 
-    return characterScore + wordScore + sentenceScore * 100
+    return characterScore + wordScore + sentenceScore * 10
