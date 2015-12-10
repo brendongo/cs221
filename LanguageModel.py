@@ -1,4 +1,4 @@
-import math, collections, string
+import math, collections, string, operator
 
 class LanguageModel:
 
@@ -9,14 +9,15 @@ class LanguageModel:
     self.characterBigramCounts = collections.defaultdict(lambda: 0)
     self.characterTrigramCounts = collections.defaultdict(lambda: 0)
     self.characterUnigramCounts = collections.defaultdict(lambda: 0)
-    self.wildcardWords = collections.defaultdict(lambda: {})
+    self.wildcardWords = collections.defaultdict(lambda: set())
+    self.KWildcards = 10
     self.train(corpus)
 
   def addToWildcardWords(self, word):
     chars = list(word)
     for i in xrange(len(word)):
       chars[i] = '_'
-      self.wildcardWords[''.join(chars)] = word
+      self.wildcardWords[''.join(chars)].add((word, 1))
       chars[i] = word[i]
 
   def train(self, corpus):
@@ -49,9 +50,6 @@ class LanguageModel:
       if len(sentence) >= 1: self.addToWildcardWords(sentence[-1])
       if len(sentence) >= 2: self.addToWildcardWords(sentence[-2])
 
-    for key in self.wildcardWords:
-      if self.wildcardWords[key] == 'ADVENTURE': print key
-
     for char in self.characterUnigramCounts:
       self.characterUnigramCounts[char] = math.log(self.characterUnigramCounts[char])
     for bigram in self.characterBigramCounts:
@@ -68,17 +66,35 @@ class LanguageModel:
   def score(self, sentence):
     # sentence is a string
     words = sentence.split()
-
-    characterScore = 1.0
-    wordScore = 1.0
+    wordScore = 0
+    characterScore = 0
+    bestPossibleSentences = [([], 0)]
 
     for i, word in enumerate(words):
-      wordScore += self.unigramCounts[word]
-      if i < len(words) - 1: 
-        wordScore += self.bigramCounts[(word, words[i+1])]
+      # wordScore += self.unigramCounts[word]
+
+      # if i < len(words) - 1: 
+      #   wordScore += self.bigramCounts[(word, words[i+1])]      
+
+      possibleCompletions = set([(word, 0)])
+      chars = list(word)
+      for i in xrange(len(word)):
+        chars[i] = '_'
+        possibleCompletions |= self.wildcardWords[''.join(chars)]
+        chars[i] = word[i]
+      
+      partialSentences = []
+      for sentence in bestPossibleSentences:
+        for completion in possibleCompletions:
+          realWord = completion[0]
+          distance = completion[1]
+          score = 0 if len(sentence[0]) < 1 else sentence[1] + self.bigramCounts[(sentence[0][-1], realWord)] * .3
+          partialSentences.append((sentence[0] + [realWord], score))
+
+      partialSentences = sorted(partialSentences, key=operator.itemgetter(1), reverse=True)
+      bestPossibleSentences = partialSentences[:self.KWildcards]
 
       length = len(word)
-
       for j in xrange(length):
         characterScore += self.characterUnigramCounts[word[j]]
 
@@ -90,5 +106,8 @@ class LanguageModel:
       for j in xrange(length - 2):
         characterScore += self.characterTrigramCounts[word[j:j+3]]
 
-    # print characterScore, wordScore
-    return characterScore + wordScore * 10
+    maxSentence = max([([], 0)] + bestPossibleSentences, key=operator.itemgetter(1))
+    # print ' '.join(maxSentence[0])
+    sentenceScore = maxSentence[1]
+
+    return characterScore + wordScore + sentenceScore * 100
