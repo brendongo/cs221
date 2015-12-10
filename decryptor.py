@@ -36,7 +36,7 @@ def main(argv):
             sys.exit()
         elif opt in ("-i"): learnfile = arg
         elif opt in ("-t"): testfile = arg
-        elif opt in ("-n"): noise = arg
+        elif opt in ("-n"): noise = float(arg)
         elif opt in ("-v"): verbose = True
 
     print "Learning..."
