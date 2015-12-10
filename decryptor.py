@@ -7,7 +7,7 @@ def score_accuracy(encryption_key, decryption_key, cipher_text):
     The score is given as a percent of correct letters in the encryption key that are mapped back to their original letters
     '''
     true_decryption_key = util.getDecryptionKey(encryption_key)
-    matches = [(true_decryption_key[i] == decryption_key[i]) for i in xrange(len(string.ascii_uppercase)) if string.ascii_uppercase[i] in cipher_text or string.ascii_lowercase[i].upper()]
+    matches = [(true_decryption_key[i] == decryption_key[i]) for i in xrange(len(string.ascii_uppercase)) if string.ascii_uppercase[i] in cipher_text or string.ascii_lowercase[i] in cipher_text]
     return sum(matches)/float(len(matches))
 
 def main():

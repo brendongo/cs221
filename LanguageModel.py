@@ -71,7 +71,7 @@ class LanguageModel:
     bestPossibleSentences = [([], 0)]
 
     for i, word in enumerate(words):
-      # wordScore += self.unigramCounts[word]
+      wordScore += self.unigramCounts[word]
 
       # if i < len(words) - 1: 
       #   wordScore += self.bigramCounts[(word, words[i+1])]      
