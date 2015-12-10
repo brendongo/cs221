@@ -12,6 +12,7 @@ class Solver:
   def __init__(self, languagemodel):
     self.todo = 0
     self.languagemodel = languagemodel
+    self.numIters = 20
 
   def decrypt(self, cipherText):
     upperCipher = cipherText.upper()
@@ -65,14 +66,18 @@ class Solver:
       return best_swap
 
     best_swap = (float('-inf'),"")
-    for i in xrange(10):
+    num_best = 0
+    for i in xrange(self.numIters):
       key = util.generateKey()
       swap = gibbs(key)
-      if swap[0] > best_swap[0]: best_swap = swap
+      if swap[0] == best_swap[0]: num_best += 1
+      if swap[0] > best_swap[0]:
+        best_swap = swap
+        num_best = 1
 
-      sys.stdout.write(str(float(i+1)/10 * 100) + "%")
+      sys.stdout.write(str(float(i+1)/self.numIters * 100) + "%")
       sys.stdout.flush()
 
     translated = util.encryptCase(cipherText, best_swap[1])
-    print "\nBEST: ", best_swap[0], translated
-    return translated, best_swap[1]
+    print "\n", num_best, "BEST: ", best_swap[0], translated
+    return translated, best_swap[1], num_best
