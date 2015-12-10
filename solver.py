@@ -30,8 +30,8 @@ class Solver:
 
     def gibbs(key):
       best_swap = (float('-inf'),"")
+      last_n = []
       for i in xrange(200):
-        last_n = []
         for a in xrange(len(key)):
           swaps = []
           for b in xrange(len(key)):
@@ -51,15 +51,16 @@ class Solver:
           selected = sample(swaps)
           key = selected[1]
 
-          # keep last n swaps
-          last_n.append(selected)
-          last_n = last_n[-10:]
+        # keep last n swaps
+        last_n.append(best_swap)
+        last_n = last_n[-10:]
 
-          # print best_swap[0], util.encrypt(upperCipher, best_swap[1])
+        # print best_swap[0], util.encrypt(upperCipher, best_swap[1])
 
-          # check for convergence
-          if sum([abs((swap[2] - best_swap[0])/best_swap[0]) == 0 for swap in last_n]) == 10:
-            return best_swap
+        # check for convergence
+        avgSwap = sum([swap[0] for swap in last_n]) / float(10)
+        if sum([abs(swap[0] - avgSwap) <= 1 for swap in last_n]) == 10:
+          return best_swap
 
         decrypted = util.encrypt(upperCipher, best_swap[1])
         sys.stdout.write('.')
