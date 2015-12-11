@@ -1,0 +1,3423 @@
+Learning...
+============================
+Iteration  1
+Length  41
+Start Time 2015-12-10 10:32:36.693485
+Original Text Unfortunately there is a long way to go 
+
+Original Text Noised Unfortunately there is a long wac to go 
+
+Key INCHDUGJEBFWKQAYLVMZROPSTX
+Cipher Text Noised Rquavzrqizdwt zjdvd em i waqg pic za ga 
+
+.....10.0%.....20.0%.....30.0%......40.0%......50.0%.....60.0%.....70.0%........80.0%......90.0%......100.0%
+2 BEST:  1666.06699769 Undortunatelc there is a long way to go 
+
+End Time 2015-12-10 10:33:45.386659
+Duration 0:01:08.693197
+Length, Accuracy, Duration, 41 , 0.9375 , 0:01:08.693227
+Baseline Accuracy:  0.03125
+Average Accuracy of Baseline:  0.03125
+Solver Accuracy:  0.9375
+Average Accuracy of Solver:  0.9375
+Reached same thing many times [2]
+============================
+Iteration  2
+Length  16
+Start Time 2015-12-10 10:33:45.386827
+Original Text So cest la vie 
+
+Original Text Noised Co cest la vie 
+
+Key OTLYJUSAXDZGFNPMVKCWIBREQH
+Cipher Text Noised Lp ljcw go bxj 
+
+....10.0%..........20.0%............30.0%.....40.0%.......50.0%....60.0%.....70.0%.....80.0%.....90.0%....100.0%
+1 BEST:  562.460738066 At army in our 
+
+End Time 2015-12-10 10:34:14.087011
+Duration 0:00:28.700199
+Length, Accuracy, Duration, 16 , 0.0909090909091 , 0:00:28.700208
+Baseline Accuracy:  0.0909090909091
+Average Accuracy of Baseline:  0.0610795454545
+Solver Accuracy:  0.0909090909091
+Average Accuracy of Solver:  0.514204545455
+Reached same thing many times [2, 1]
+============================
+Iteration  3
+Length  50
+Start Time 2015-12-10 10:34:14.087130
+Original Text This was done at the same place at the same time 
+
+Original Text Noised Rhis was done at the same place at the same time 
+
+Key XDLFMCSRBIKGHWUVAOTNPYEQZJ
+Cipher Text Noised Orbt ext fuwm xn nrm txhm vgxlm xn nrm txhm nbhm 
+
+.....10.0%.....20.0%..........30.0%.....40.0%.....50.0%.....60.0%.....70.0%......80.0%......90.0%......100.0%
+1 BEST:  2062.9007137 Chis was done at the same luave at the same time 
+
+End Time 2015-12-10 10:35:32.693976
+Duration 0:01:18.606862
+Length, Accuracy, Duration, 50 , 0.921052631579 , 0:01:18.606872
+Baseline Accuracy:  0.0526315789474
+Average Accuracy of Baseline:  0.0582635566188
+Solver Accuracy:  0.921052631579
+Average Accuracy of Solver:  0.649820574163
+Reached same thing many times [2, 1, 1]
+============================
+Iteration  4
+Length  44
+Start Time 2015-12-10 10:35:32.694093
+Original Text However that is exactly what you are doing 
+
+Original Text Noised However that is ebactly what yyu are doing 
+
+Key WBYHXLMQDOTAISKGVUJPREZFNC
+Cipher Text Noised Qkzxexu pqwp dj xbwypan zqwp nnr wux hkdsm 
+
+......10.0%.........20.0%.......30.0%.........40.0%...........50.0%.........60.0%......70.0%......80.0%.........90.0%........100.0%
+1 BEST:  1312.95777931 Hoceper that is emaltuw chat wwy are doing 
+
+End Time 2015-12-10 10:36:20.403540
+Duration 0:00:47.709463
+Length, Accuracy, Duration, 44 , 0.764705882353 , 0:00:47.709473
+Baseline Accuracy:  0.0588235294118
+Average Accuracy of Baseline:  0.0584035498171
+Solver Accuracy:  0.764705882353
+Average Accuracy of Solver:  0.67854190121
+Reached same thing many times [2, 1, 1, 1]
+============================
+Iteration  5
+Length  27
+Start Time 2015-12-10 10:36:20.403635
+Original Text That need not be the case 
+
+Original Text Noised That need not be the case 
+
+Key FKNTRZJGVYECDIOUXQPBAHMWLS
+Cipher Text Noised Bgfb irrt iob kr bgr nfpr 
+
+......10.0%.....20.0%......30.0%........40.0%........50.0%......60.0%.....70.0%.......80.0%......90.0%......100.0%
+1 BEST:  1019.79798689 Thit week wot be the line 
+
+End Time 2015-12-10 10:37:05.254440
+Duration 0:00:44.850820
+Length, Accuracy, Duration, 27 , 0.666666666667 , 0:00:44.850830
+Baseline Accuracy:  0.047619047619
+Average Accuracy of Baseline:  0.0562466493775
+Solver Accuracy:  0.666666666667
+Average Accuracy of Solver:  0.676166854302
+Reached same thing many times [2, 1, 1, 1, 1]
+============================
+Iteration  6
+Length  21
+Start Time 2015-12-10 10:37:05.254532
+Original Text What does this mean 
+
+Original Text Noised What does tqis mean 
+
+Key ZBIYWAPFRSCOEXMHGTQUKDNJLV
+Cipher Text Noised Nfzu ymwq ugrq ewzx 
+
+.....10.0%......20.0%.....30.0%......40.0%......50.0%...........60.0%....70.0%......80.0%.....90.0%......100.0%
+1 BEST:  595.258863944 What sore time pray 
+
+End Time 2015-12-10 10:37:18.004957
+Duration 0:00:12.750440
+Length, Accuracy, Duration, 21 , 0.5 , 0:00:12.750449
+Baseline Accuracy:  0.25
+Average Accuracy of Baseline:  0.0885388744812
+Solver Accuracy:  0.5
+Average Accuracy of Solver:  0.646805711918
+Reached same thing many times [2, 1, 1, 1, 1, 1]
+============================
+Iteration  7
+Length  30
+Start Time 2015-12-10 10:37:18.005053
+Original Text The answer is a definite yes 
+
+Original Text Noised The answer is a definite yes 
+
+Key BJSCQDMUETHPIAGFVWRZXLNKOY
+Cipher Text Noised Zuq barnqw er b cqdeaezq oqr 
+
+........10.0%.....20.0%.......30.0%....40.0%.......50.0%.....60.0%......70.0%.....80.0%..........90.0%.....100.0%
+1 BEST:  943.833015914 Hen around to a instrthn kno 
+
+End Time 2015-12-10 10:37:57.691130
+Duration 0:00:39.686092
+Length, Accuracy, Duration, 30 , 0.125 , 0:00:39.686102
+Baseline Accuracy:  0.0416666666667
+Average Accuracy of Baseline:  0.0818428447934
+Solver Accuracy:  0.125
+Average Accuracy of Solver:  0.572262038787
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  8
+Length  30
+Start Time 2015-12-10 10:37:57.691235
+Original Text And that is how it should be 
+
+Original Text Noised And that is noa it shouln be 
+
+Key LAGOSRHTDBECPXVYZJINWKMUQF
+Cipher Text Noised Lxo ntln di xvl dn itvwcx as 
+
+.....10.0%.........20.0%.....30.0%.......40.0%......50.0%.....60.0%..........70.0%.....80.0%.....90.0%.......100.0%
+1 BEST:  940.572660894 Sha resr of his or feinth by 
+
+End Time 2015-12-10 10:38:52.948375
+Duration 0:00:55.257155
+Length, Accuracy, Duration, 30 , 0.1 , 0:00:55.257165
+Baseline Accuracy:  0.25
+Average Accuracy of Baseline:  0.102862489194
+Solver Accuracy:  0.1
+Average Accuracy of Solver:  0.513229283938
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  9
+Length  23
+Start Time 2015-12-10 10:38:52.948471
+Original Text We cannot do any more 
+
+Original Text Noised We clnnot do awy more 
+
+Key SLVTDXJWPRYHUQEMOCFZKIBGAN
+Cipher Text Noised Bd vhqqez te sba uecd 
+
+......10.0%......20.0%......30.0%.....40.0%......50.0%........60.0%......70.0%......80.0%.........90.0%.......100.0%
+1 BEST:  724.108642599 At filled he can best 
+
+End Time 2015-12-10 10:39:30.399908
+Duration 0:00:37.451453
+Length, Accuracy, Duration, 23 , 0.0625 , 0:00:37.451462
+Baseline Accuracy:  0.0625
+Average Accuracy of Baseline:  0.0983777681727
+Solver Accuracy:  0.0625
+Average Accuracy of Solver:  0.46314825239
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  10
+Length  36
+Start Time 2015-12-10 10:39:30.400019
+Original Text Unfortunately that is not the case 
+
+Original Text Noised Unfortunatelb that is not the case 
+
+Key QLMZWHKPATCNOVGYEBFXRDUJSI
+Cipher Text Noised Rvhgbxrvqxwnl xpqx af vgx xpw mqfw 
+
+......10.0%......20.0%......30.0%........40.0%.......50.0%......60.0%...........70.0%.......80.0%......90.0%.....100.0%
+1 BEST:  1282.7001427 Insoutinaterl that dc not the face 
+
+End Time 2015-12-10 10:40:10.832988
+Duration 0:00:40.432985
+Length, Accuracy, Duration, 36 , 0.689655172414 , 0:00:40.432995
+Baseline Accuracy:  0.0344827586207
+Average Accuracy of Baseline:  0.0919882672175
+Solver Accuracy:  0.689655172414
+Average Accuracy of Solver:  0.485798944392
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  11
+Length  38
+Start Time 2015-12-10 10:40:10.833111
+Original Text How is the monitoring system working 
+
+Original Text Noised How is the monitoring system worring 
+
+Key YFGMLHSWDAQCIOJVUTRBNKZPEX
+Cipher Text Noised Wjz dr bwl ijodbjtdos rerbli zjttdos 
+
+......10.0%.....20.0%......30.0%.......40.0%.......50.0%.....60.0%......70.0%.....80.0%......90.0%.....100.0%
+5 BEST:  1179.22242911 Ham in the wasitalisr nontew mallisr 
+
+End Time 2015-12-10 10:40:41.155336
+Duration 0:00:30.322247
+Length, Accuracy, Duration, 38 , 0.387096774194 , 0:00:30.322265
+Baseline Accuracy:  0.0967741935484
+Average Accuracy of Baseline:  0.0924233514294
+Solver Accuracy:  0.387096774194
+Average Accuracy of Solver:  0.476826019829
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5]
+============================
+Iteration  12
+Length  40
+Start Time 2015-12-10 10:40:41.155522
+Original Text This is what we must take into account 
+
+Original Text Noised This is what we fust take into account 
+
+Key MQWUEODGFRSNZACPTXHKLVYJBI
+Cipher Text Noised Kgfh fh ygmk ye olhk kmse fakc mwwclak 
+
+.....10.0%...........20.0%.....30.0%.....40.0%.....50.0%.......60.0%....70.0%......80.0%.........90.0%.........100.0%
+2 BEST:  1625.74825301 This is what we just take into account 
+
+End Time 2015-12-10 10:41:26.935966
+Duration 0:00:45.780460
+Length, Accuracy, Duration, 40 , 1.0 , 0:00:45.780470
+Baseline Accuracy:  0.0322580645161
+Average Accuracy of Baseline:  0.0874095775199
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.52042385151
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2]
+============================
+Iteration  13
+Length  41
+Start Time 2015-12-10 10:41:26.936085
+Original Text Meeting of heads of state and government
+
+Original Text Noised Meeting of seadh of state and government
+
+Key WIQSPBEHATRGCXNLZOMYFDUVKJ
+Cipher Text Noised Cppyaxe nb mpwsh nb mywyp wxs endpoxcpxy
+
+.......10.0%......20.0%..........30.0%..........40.0%........50.0%.......60.0%......70.0%.............80.0%.........90.0%......100.0%
+1 BEST:  1427.87204616 Meeting of heads of htate and government
+
+End Time 2015-12-10 10:42:09.730385
+Duration 0:00:42.794316
+Length, Accuracy, Duration, 41 , 0.969696969697 , 0:00:42.794326
+Baseline Accuracy:  0.030303030303
+Average Accuracy of Baseline:  0.0830167661956
+Solver Accuracy:  0.969696969697
+Average Accuracy of Solver:  0.554983322139
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1]
+============================
+Iteration  14
+Length  47
+Start Time 2015-12-10 10:42:09.730510
+Original Text This is nothing to do with the European Union 
+
+Original Text Noised This ic nothing to do with the European Union 
+
+Key DPSLHWMOGUAZJVCRFXITEYKNBQ
+Cipher Text Noised Togi gs vctogvm tc lc kgto toh Hexcrhdv Evgcv 
+
+.....10.0%.......20.0%......30.0%.....40.0%........50.0%.....60.0%.....70.0%...........80.0%..........90.0%....100.0%
+1 BEST:  1965.48828464 Thil is nothing to do with the European Union 
+
+End Time 2015-12-10 10:43:08.164709
+Duration 0:00:58.434215
+Length, Accuracy, Duration, 47 , 0.972972972973 , 0:00:58.434225
+Baseline Accuracy:  0.027027027027
+Average Accuracy of Baseline:  0.0790174991121
+Solver Accuracy:  0.972972972973
+Average Accuracy of Solver:  0.58483972577
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1]
+============================
+Iteration  15
+Length  20
+Start Time 2015-12-10 10:43:08.164805
+Original Text We have our doubts 
+
+Original Text Noised Wv have our doubts 
+
+Key PRLEUJTBIDKNOVCZFWSGQAMXHY
+Cipher Text Noised Ma bpau cqw ecqrgs 
+
+......10.0%.....20.0%.....30.0%......40.0%........50.0%..........60.0%.....70.0%......80.0%.......90.0%.............100.0%
+1 BEST:  651.868970232 Uo from his thinge 
+
+End Time 2015-12-10 10:43:30.251233
+Duration 0:00:22.086444
+Length, Accuracy, Duration, 20 , 0.0666666666667 , 0:00:22.086454
+Baseline Accuracy:  0.0666666666667
+Average Accuracy of Baseline:  0.0781941102824
+Solver Accuracy:  0.0666666666667
+Average Accuracy of Solver:  0.550294855163
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1]
+============================
+Iteration  16
+Length  24
+Start Time 2015-12-10 10:43:30.251334
+Original Text We use art and culture 
+
+Original Text Noised We use art anq cvlture 
+
+Key XBGTFNECJOZPVLUQYHMWADSKRI
+Cipher Text Noised Sf amf xhw xly gdpwahf 
+
+.......10.0%.......20.0%....30.0%......40.0%......50.0%.....60.0%.....70.0%......80.0%.........90.0%.....100.0%
+1 BEST:  795.980685437 In run the top waserhn 
+
+End Time 2015-12-10 10:43:59.144001
+Duration 0:00:28.892683
+Length, Accuracy, Duration, 24 , 0.0588235294118 , 0:00:28.892693
+Baseline Accuracy:  0.235294117647
+Average Accuracy of Baseline:  0.0880128607427
+Solver Accuracy:  0.0588235294118
+Average Accuracy of Solver:  0.519577897304
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1]
+============================
+Iteration  17
+Length  10
+Start Time 2015-12-10 10:43:59.144084
+Original Text Yes I do 
+
+Original Text Noised Yes I do 
+
+Key MWIRPJSCFALHGEXBNUYDKVOZQT
+Cipher Text Noised Qpy F rx 
+
+....10.0%......20.0%....30.0%....40.0%.....50.0%.....60.0%....70.0%....80.0%....90.0%....100.0%
+2 BEST:  425.344864943 Any I do 
+
+End Time 2015-12-10 10:44:22.854076
+Duration 0:00:23.710007
+Length, Accuracy, Duration, 10 , 0.571428571429 , 0:00:23.710017
+Baseline Accuracy:  0.142857142857
+Average Accuracy of Baseline:  0.0912389949847
+Solver Accuracy:  0.571428571429
+Average Accuracy of Solver:  0.522627936958
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2]
+============================
+Iteration  18
+Length  38
+Start Time 2015-12-10 10:44:22.854197
+Original Text This would be a great disappointment 
+
+Original Text Noised This would bm a great disappointcent 
+
+Key DOGMBTVHSYECPLFWZXJIUKNARQ
+Cipher Text Noised Ihsj nfucm op d vxbdi msjdwwfsligbli 
+
+.....10.0%......20.0%........30.0%........40.0%......50.0%........60.0%.........70.0%.......80.0%.........90.0%.......100.0%
+1 BEST:  1247.84073748 Tucl winds of a great sclappicytheyt 
+
+End Time 2015-12-10 10:45:00.996397
+Duration 0:00:38.142216
+Length, Accuracy, Duration, 38 , 0.5 , 0:00:38.142226
+Baseline Accuracy:  0.166666666667
+Average Accuracy of Baseline:  0.0954294211893
+Solver Accuracy:  0.5
+Average Accuracy of Solver:  0.52137082935
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1]
+============================
+Iteration  19
+Length  33
+Start Time 2015-12-10 10:45:00.996531
+Original Text We will do that early next year 
+
+Original Text Noised Wz will do rhat early next ytar 
+
+Key TORIVUXFMYWGCEAZQKJNPLBDSH
+Cipher Text Noised Bh bmgg ia kftn vtkgs evdn sntk 
+
+.....10.0%.....20.0%......30.0%.....40.0%.....50.0%.......60.0%.....70.0%.........80.0%......90.0%......100.0%
+1 BEST:  956.746061903 Wo well in such acslt makh thcs 
+
+End Time 2015-12-10 10:45:32.660476
+Duration 0:00:31.663960
+Length, Accuracy, Duration, 33 , 0.260869565217 , 0:00:31.663970
+Baseline Accuracy:  0.0434782608696
+Average Accuracy of Baseline:  0.0926951495935
+Solver Accuracy:  0.260869565217
+Average Accuracy of Solver:  0.5076602365
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1]
+============================
+Iteration  20
+Length  48
+Start Time 2015-12-10 10:45:32.660602
+Original Text That is our task nothing more and nothing less 
+
+Original Text Noised That is our task nothing fore anx nothing less 
+
+Key WHIBYRFCKMGPLVEDJQTAXNSOZU
+Cipher Text Noised Acwa kt exq awtg veackvf reqy wvo veackvf pytt 
+
+......10.0%.....20.0%....30.0%......40.0%...........50.0%.......60.0%.....70.0%.....80.0%.....90.0%.......100.0%
+3 BEST:  1776.93963218 That is our task nothing more and nothing less 
+
+End Time 2015-12-10 10:46:17.175332
+Duration 0:00:44.514745
+Length, Accuracy, Duration, 48 , 1.0 , 0:00:44.514755
+Baseline Accuracy:  0.027027027027
+Average Accuracy of Baseline:  0.0894117434652
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.532277224675
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3]
+============================
+Iteration  21
+Length  23
+Start Time 2015-12-10 10:46:17.175430
+Original Text Iran is at an impasse 
+
+Original Text Noised Iran is at an impasse 
+
+Key ZYJOAMSGPECQWVTLINFXHUDRKB
+Cipher Text Noised Pnzv pf zx zv pwlzffa 
+
+.....10.0%.....20.0%.....30.0%.......40.0%.....50.0%.....60.0%.....70.0%....80.0%....90.0%......100.0%
+1 BEST:  803.557487354 Iran is at an impasse 
+
+End Time 2015-12-10 10:46:57.557028
+Duration 0:00:40.381614
+Length, Accuracy, Duration, 23 , 1.0 , 0:00:40.381624
+Baseline Accuracy:  0.0555555555556
+Average Accuracy of Baseline:  0.0877995440409
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.554549737786
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1]
+============================
+Iteration  22
+Length  53
+Start Time 2015-12-10 10:46:57.557163
+Original Text Everything is now referred back to those at the top 
+
+Original Text Noised Everythkng is now eeferred back to those at the top 
+
+Key XISRTFOHQMBGWEYDPKCUJNVZLA
+Cipher Text Noised Tntkluhbeo qc eyv ttftkktr ixsb uy uhyct xu uht uyd 
+
+......10.0%.......20.0%........30.0%........40.0%.....50.0%........60.0%............70.0%.......80.0%.......90.0%.......100.0%
+1 BEST:  1956.34419361 Everythung is now eeferred camu to those at the top 
+
+End Time 2015-12-10 10:48:33.752044
+Duration 0:01:36.194899
+Length, Accuracy, Duration, 53 , 0.926829268293 , 0:01:36.194909
+Baseline Accuracy:  0.0243902439024
+Average Accuracy of Baseline:  0.0849173031255
+Solver Accuracy:  0.926829268293
+Average Accuracy of Solver:  0.571471534627
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1]
+============================
+Iteration  23
+Length  25
+Start Time 2015-12-10 10:48:33.752146
+Original Text I myself am a party man 
+
+Original Text Noised I myself am a party man 
+
+Key EKWOCHBPZDARLTVSGJQYUFMNXI
+Cipher Text Noised Z lxqcrh el e sejyx let 
+
+.........10.0%......20.0%.............30.0%.......40.0%....50.0%......60.0%....70.0%.....80.0%...........90.0%........100.0%
+1 BEST:  784.093692716 I cyself ac a party can 
+
+End Time 2015-12-10 10:49:44.023509
+Duration 0:01:10.271380
+Length, Accuracy, Duration, 25 , 0.842105263158 , 0:01:10.271390
+Baseline Accuracy:  0.0526315789474
+Average Accuracy of Baseline:  0.0835135759873
+Solver Accuracy:  0.842105263158
+Average Accuracy of Solver:  0.583238218477
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1]
+============================
+Iteration  24
+Length  25
+Start Time 2015-12-10 10:49:44.023614
+Original Text I hope the baby is well 
+
+Original Text Noised I hole the baby is well 
+
+Key ZSIYWPCADNUMJRLGTXHKEFOVBQ
+Cipher Text Noised D almw kaw szsb dh owmm 
+
+....10.0%....20.0%.....30.0%......40.0%.....50.0%.....60.0%....70.0%....80.0%......90.0%.....100.0%
+1 BEST:  762.585001397 A nile one thtm as well 
+
+End Time 2015-12-10 10:50:19.749778
+Duration 0:00:35.726186
+Length, Accuracy, Duration, 25 , 0.444444444444 , 0:00:35.726202
+Baseline Accuracy:  0.0555555555556
+Average Accuracy of Baseline:  0.0823486584693
+Solver Accuracy:  0.444444444444
+Average Accuracy of Solver:  0.577455144559
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1]
+============================
+Iteration  25
+Length  11
+Start Time 2015-12-10 10:50:19.749923
+Original Text What next 
+
+Original Text Noised What next 
+
+Key KBYORQPAGLXNWMFUSVJTEZDCIH
+Cipher Text Noised Dakt mrct 
+
+.....10.0%......20.0%....30.0%.....40.0%.....50.0%.....60.0%......70.0%.........80.0%......90.0%....100.0%
+1 BEST:  339.121012929 Deah with 
+
+End Time 2015-12-10 10:50:26.155149
+Duration 0:00:06.405244
+Length, Accuracy, Duration, 11 , 0.222222222222 , 0:00:06.405254
+Baseline Accuracy:  0.111111111111
+Average Accuracy of Baseline:  0.083499156575
+Solver Accuracy:  0.222222222222
+Average Accuracy of Solver:  0.563245827665
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1]
+============================
+Iteration  26
+Length  41
+Start Time 2015-12-10 10:50:26.155274
+Original Text That is what the world looks like today 
+
+Original Text Noised Thpt is what the world looks like today 
+
+Key BUDXAEKOQVLTRYMFPCHSJNIGZW
+Cipher Text Noised Sofs qh iobs soa imctx tmmlh tqla smxbz 
+
+.......10.0%.....20.0%......30.0%.......40.0%.......50.0%......60.0%......70.0%.....80.0%......90.0%.....100.0%
+1 BEST:  1275.39673787 Sats in ways sae would lookn like sodyh 
+
+End Time 2015-12-10 10:51:04.099497
+Duration 0:00:37.944239
+Length, Accuracy, Duration, 41 , 0.5625 , 0:00:37.944249
+Baseline Accuracy:  0.0625
+Average Accuracy of Baseline:  0.0826914967067
+Solver Accuracy:  0.5625
+Average Accuracy of Solver:  0.563217141986
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  27
+Length  90
+Start Time 2015-12-10 10:51:04.099685
+Original Text It may affect them somewhat but it is not going to affect them that much in the long run 
+
+Original Text Noised Rt may affect them somewhat but it is not going to affect them thzt much in the long run 
+
+Key AXRJZYSHCDEBWKLUNOPTIMGFVQ
+Cipher Text Noised Ot wav ayyzrt thzw plwzghat xit ct cp klt slcks tl ayyzrt thzw thqt wirh ck thz blks oik 
+
+..........10.0%............20.0%......30.0%.......40.0%.......50.0%.......60.0%......70.0%........80.0%.........90.0%......100.0%
+2 BEST:  3545.8359176 Rt may affect them somewhat put it is not going to affect them thdt much in the long run 
+
+End Time 2015-12-10 10:54:26.707774
+Duration 0:03:22.608104
+Length, Accuracy, Duration, 90 , 0.985507246377 , 0:03:22.608114
+Baseline Accuracy:  0.0579710144928
+Average Accuracy of Baseline:  0.0817759232914
+Solver Accuracy:  0.985507246377
+Average Accuracy of Solver:  0.578857516222
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2]
+============================
+Iteration  28
+Length  50
+Start Time 2015-12-10 10:54:26.707915
+Original Text Is the Pensioners Party on the left or the right 
+
+Original Text Noised Ir the Pensioners Party on the left or the righo 
+
+Key KUDMFXJBTQVHWYOIZESRLAGPNC
+Cipher Text Noised Te rbf Ifystoyfes Ikern oy rbf hfxr oe rbf etjbo 
+
+.....10.0%.....20.0%......30.0%.....40.0%.......50.0%......60.0%.....70.0%......80.0%.....90.0%.....100.0%
+1 BEST:  1820.94765311 Lf the Denclonefc Difty on the rest of the flaho 
+
+End Time 2015-12-10 10:55:23.225321
+Duration 0:00:56.517421
+Length, Accuracy, Duration, 50 , 0.605263157895 , 0:00:56.517430
+Baseline Accuracy:  0.0263157894737
+Average Accuracy of Baseline:  0.0797952042265
+Solver Accuracy:  0.605263157895
+Average Accuracy of Solver:  0.579800574854
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1]
+============================
+Iteration  29
+Length  122
+Start Time 2015-12-10 10:55:23.225534
+Original Text In the Commissions view this should make it possible to reduce the number of analyses and consequently the costs as well 
+
+Original Text Noised In the Commissions view this should mafe it possible to reduce the number of analuszs anc consequently the costs as well 
+
+Key JGNRZUIDCQTAFLMEVOWYHBXSKP
+Cipher Text Noised Cl ydz Nmffcwwcmlw bczx ydcw wdmhar fjuz cy emwwcgaz ym ozrhnz ydz lhfgzo mu jljahwpw jln nmlwzvhzlyak ydz nmwyw jw xzaa 
+
+........10.0%.........20.0%......30.0%......40.0%......50.0%...........60.0%.......70.0%.......80.0%.......90.0%.......100.0%
+2 BEST:  4355.09458527 In the Commissions view this should mafe it possible to reduce the number of analusks anc consequently the costs as well 
+
+End Time 2015-12-10 10:57:53.413963
+Duration 0:02:30.188443
+Length, Accuracy, Duration, 122 , 1.0 , 0:02:30.188452
+Baseline Accuracy:  0.216494845361
+Average Accuracy of Baseline:  0.0845089849553
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.594290210203
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2]
+============================
+Iteration  30
+Length  37
+Start Time 2015-12-10 10:57:53.414078
+Original Text We must vote against this amendment 
+
+Original Text Noised We must vote against this hmendment 
+
+Key KDXJGVCTZQLMPAENYFURSHWBIO
+Cipher Text Noised Wg psur herg kckzaur rtzu tpgajpgar 
+
+......10.0%.......20.0%......30.0%......40.0%......50.0%........60.0%.....70.0%.......80.0%...............90.0%......100.0%
+1 BEST:  1047.14789055 We this case olondis suni utedrteds 
+
+End Time 2015-12-10 10:58:10.178343
+Duration 0:00:16.764280
+Length, Accuracy, Duration, 37 , 0.2 , 0:00:16.764289
+Baseline Accuracy:  0.133333333333
+Average Accuracy of Baseline:  0.0861364632345
+Solver Accuracy:  0.2
+Average Accuracy of Solver:  0.581147203197
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1]
+============================
+Iteration  31
+Length  70
+Start Time 2015-12-10 10:58:10.178493
+Original Text Its adoption was a consequence of the events of the Second World War 
+
+Original Text Noised Its adoption was a consequenye of tie eveits of the Second World War 
+
+Key JZDOXWGNIFHEQTKPBMSRYUAVLC
+Cipher Text Noised Irs jokprikt ajs j dktsxbyxtlx kw rix xuxirs kw rnx Sxdkto Akmeo Ajm 
+
+........10.0%.....20.0%........30.0%.......40.0%.........50.0%.......60.0%..........70.0%........80.0%........90.0%.................100.0%
+1 BEST:  1887.11678037 Not aliconis hat a distergesue if one evenot if owe Tedisl Himpl Ham 
+
+End Time 2015-12-10 11:00:06.952927
+Duration 0:01:56.774448
+Length, Accuracy, Duration, 70 , 0.296296296296 , 0:01:56.774457
+Baseline Accuracy:  0.0555555555556
+Average Accuracy of Baseline:  0.0851499823417
+Solver Accuracy:  0.296296296296
+Average Accuracy of Solver:  0.571958464264
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1]
+============================
+Iteration  32
+Length  32
+Start Time 2015-12-10 11:00:06.953036
+Original Text The criteria for admissibility 
+
+Original Text Noised The criteria for admisxibiliay 
+
+Key JDLTNREBSZFWVMYAHUPOKGQCXI
+Cipher Text Noised Obn lusonusj ryu jtvspcsdswsjx 
+
+.....10.0%..........20.0%..........30.0%.....40.0%........50.0%.....60.0%........70.0%......80.0%......90.0%..........100.0%
+1 BEST:  893.486129993 Pla trepared for dicensevemedh 
+
+End Time 2015-12-10 11:00:21.479204
+Duration 0:00:14.526190
+Length, Accuracy, Duration, 32 , 0.230769230769 , 0:00:14.526208
+Baseline Accuracy:  0.0384615384615
+Average Accuracy of Baseline:  0.0836909684704
+Solver Accuracy:  0.230769230769
+Average Accuracy of Solver:  0.561296300718
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1]
+============================
+Iteration  33
+Length  30
+Start Time 2015-12-10 11:00:21.479410
+Original Text This is about peoples health 
+
+Original Text Noised This is abort peoples health 
+
+Key TZXJGYQHBRDENUCOPVSAWLIFKM
+Cipher Text Noised Ahbs bs tzcva ogcoegs hgteah 
+
+......10.0%.....20.0%......30.0%.....40.0%.......50.0%........60.0%.....70.0%.....80.0%.....90.0%....100.0%
+1 BEST:  821.251487072 Shof of plans teatief hepish 
+
+End Time 2015-12-10 11:00:33.771796
+Duration 0:00:12.292401
+Length, Accuracy, Duration, 30 , 0.291666666667 , 0:00:12.292410
+Baseline Accuracy:  0.0416666666667
+Average Accuracy of Baseline:  0.0824175047794
+Solver Accuracy:  0.291666666667
+Average Accuracy of Solver:  0.553125705746
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1]
+============================
+Iteration  34
+Length  31
+Start Time 2015-12-10 11:00:33.771901
+Original Text I sincerely hope that it will 
+
+Original Text Noised I sincerely hope that it will 
+
+Key JDQMUICFWLONSXZBREYAGVHTKP
+Cipher Text Noised W ywxqueunk fzbu afja wa hwnn 
+
+.....10.0%..........20.0%........30.0%.......40.0%.......50.0%......60.0%........70.0%...........80.0%..............90.0%......100.0%
+1 BEST:  1056.06147838 I ficreseln home that it will 
+
+End Time 2015-12-10 11:01:18.890359
+Duration 0:00:45.118473
+Length, Accuracy, Duration, 31 , 0.76 , 0:00:45.118483
+Baseline Accuracy:  0.04
+Average Accuracy of Baseline:  0.0811699311094
+Solver Accuracy:  0.76
+Average Accuracy of Solver:  0.559210243813
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1]
+============================
+Iteration  35
+Length  43
+Start Time 2015-12-10 11:01:18.890480
+Original Text This does not appear to be the case to me 
+
+Original Text Noised This soes nok appear to fe the case to me 
+
+Key YAOCQEFJGWVZRPIXMNKSDBTHLU
+Cipher Text Noised Sjgk kiqk piv yxxqyn si eq sjq oykq si rq 
+
+.........10.0%........20.0%.....30.0%.......40.0%......50.0%.........60.0%........70.0%......80.0%.....90.0%........100.0%
+1 BEST:  1745.9201123 This soes now appear to be the case to me 
+
+End Time 2015-12-10 11:02:54.267008
+Duration 0:01:35.376544
+Length, Accuracy, Duration, 43 , 1.0 , 0:01:35.376553
+Baseline Accuracy:  0.0333333333333
+Average Accuracy of Baseline:  0.0798031711729
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.571804236847
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  36
+Length  46
+Start Time 2015-12-10 11:02:54.267128
+Original Text Of course it isnt necessarily an easy matter 
+
+Original Text Noised Of course it isnt necessarily an easy matter 
+
+Key ATNZKDPOQRCEVFHLGIXJBMWYUS
+Cipher Text Noised Hd nhbixk qj qxfj fknkxxaiqeu af kaxu vajjki 
+
+......10.0%.......20.0%.....30.0%......40.0%.....50.0%.......60.0%...........70.0%.....80.0%.......90.0%.......100.0%
+1 BEST:  1462.17157865 Of course it isnt necessarily an easy matter 
+
+End Time 2015-12-10 11:03:41.944095
+Duration 0:00:47.676982
+Length, Accuracy, Duration, 46 , 1.0 , 0:00:47.676991
+Baseline Accuracy:  0.131578947368
+Average Accuracy of Baseline:  0.0812413871784
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.583698563601
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  37
+Length  39
+Start Time 2015-12-10 11:03:41.944210
+Original Text This is a step in the right direction 
+
+Original Text Noised This is a stwp in the right direction 
+
+Key BVQXYAZHCRIEJWMTUNGSFLPKDO
+Cipher Text Noised Shcg cg b gspt cw shy nczhs xcnyqscmw 
+
+.......10.0%......20.0%.....30.0%.....40.0%..........50.0%........60.0%..........70.0%.....80.0%......90.0%........100.0%
+2 BEST:  1627.04434599 This is a stup in the right direction 
+
+End Time 2015-12-10 11:04:37.840382
+Duration 0:00:55.896187
+Length, Accuracy, Duration, 39 , 1.0 , 0:00:55.896197
+Baseline Accuracy:  0.1
+Average Accuracy of Baseline:  0.0817483767141
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.594949953774
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2]
+============================
+Iteration  38
+Length  28
+Start Time 2015-12-10 11:04:37.840488
+Original Text We cannot simply look away 
+
+Original Text Noised We cannot simply look gway 
+
+Key NHLOCUYJESXQDIAKWFZPMGVBRT
+Cipher Text Noised Vc lniiap zedkqr qaax yvnr 
+
+.....10.0%............20.0%......30.0%......40.0%......50.0%........60.0%......70.0%......80.0%.......90.0%.....100.0%
+1 BEST:  806.63084478 Ho called ringst seem what 
+
+End Time 2015-12-10 11:04:53.177235
+Duration 0:00:15.336762
+Length, Accuracy, Duration, 28 , 0.227272727273 , 0:00:15.336772
+Baseline Accuracy:  0.0454545454545
+Average Accuracy of Baseline:  0.0807932758915
+Solver Accuracy:  0.227272727273
+Average Accuracy of Solver:  0.585274237287
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1]
+============================
+Iteration  39
+Length  36
+Start Time 2015-12-10 11:04:53.177350
+Original Text Everyone must play his or her part 
+
+Original Text Noised Everyone mpst play him or her part 
+
+Key FKCGINRETVUYZHBWLSDQAOPXMJ
+Cipher Text Noised Ioismbhi zwdq wyfm etz bs eis wfsq 
+
+.........10.0%......20.0%.....30.0%.....40.0%.....50.0%........60.0%......70.0%........80.0%.....90.0%......100.0%
+1 BEST:  1079.53754513 Oronmilo stup them was in won tenp 
+
+End Time 2015-12-10 11:05:34.872612
+Duration 0:00:41.695277
+Length, Accuracy, Duration, 36 , 0.037037037037 , 0:00:41.695287
+Baseline Accuracy:  0.333333333333
+Average Accuracy of Baseline:  0.0872686619797
+Solver Accuracy:  0.037037037037
+Average Accuracy of Solver:  0.571216873178
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]
+============================
+Iteration  40
+Length  21
+Start Time 2015-12-10 11:05:34.872715
+Original Text That is a good idea 
+
+Original Text Noised That tm a gosd idea 
+
+Key RMOJPEITHDWGYKVXQNZLSAFBCU
+Cipher Text Noised Ltrl ly r ivzj hjpr 
+
+......10.0%.....20.0%.....30.0%..........40.0%.....50.0%.....60.0%......70.0%.....80.0%.....90.0%....100.0%
+2 BEST:  778.617109838 That to a wide mesa 
+
+End Time 2015-12-10 11:06:05.617320
+Duration 0:00:30.744620
+Length, Accuracy, Duration, 21 , 0.538461538462 , 0:00:30.744629
+Baseline Accuracy:  0.0769230769231
+Average Accuracy of Baseline:  0.0870100223533
+Solver Accuracy:  0.538461538462
+Average Accuracy of Solver:  0.57039798981
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2]
+============================
+Iteration  41
+Length  46
+Start Time 2015-12-10 11:06:05.617446
+Original Text In the Netherlands this was tried but failed 
+
+Original Text Noised In the Netxerlakds this was tried but failed 
+
+Key UPADCZXQLBTYVMEWRHFNOKJISG
+Cipher Text Noised Lm nqc Mcnichyutdf nqlf juf nhlcd pon zulycd 
+
+.........10.0%....20.0%........30.0%......40.0%......50.0%......60.0%.....70.0%......80.0%........90.0%.....100.0%
+1 BEST:  1497.50408363 If the Fetmerlauds this was tried not cailed 
+
+End Time 2015-12-10 11:06:42.945486
+Duration 0:00:37.328055
+Length, Accuracy, Duration, 46 , 0.861111111111 , 0:00:37.328065
+Baseline Accuracy:  0.138888888889
+Average Accuracy of Baseline:  0.0882753605615
+Solver Accuracy:  0.861111111111
+Average Accuracy of Solver:  0.577488553744
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1]
+============================
+Iteration  42
+Length  35
+Start Time 2015-12-10 11:06:42.945602
+Original Text What has been the outcome of this 
+
+Original Text Noised What has been the iutcome of this 
+
+Key RVSFLYPCKDUXTQZMBEAOGWINHJ
+Cipher Text Noised Icro cra vllq ocl kgosztl zy ocka 
+
+.....10.0%.........20.0%......30.0%.......40.0%......50.0%......60.0%......70.0%......80.0%......90.0%........100.0%
+1 BEST:  1279.05340806 What has been the ictroue of this 
+
+End Time 2015-12-10 11:07:22.928221
+Duration 0:00:39.982635
+Length, Accuracy, Duration, 35 , 0.888888888889 , 0:00:39.982644
+Baseline Accuracy:  0.037037037037
+Average Accuracy of Baseline:  0.0870554004776
+Solver Accuracy:  0.888888888889
+Average Accuracy of Solver:  0.584902847438
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1]
+============================
+Iteration  43
+Length  61
+Start Time 2015-12-10 11:07:22.928364
+Original Text There are significant differences in the standard of living 
+
+Original Text Noised Thero are significant differences in the standard of living 
+
+Key GXMRYTWABVKLPIQFUJCHSNODZE
+Cipher Text Noised Hayjq gjy cbwibtbmgih rbttyjyimyc bi hay chgirgjr qt lbnbiw 
+
+......10.0%........20.0%.....30.0%.......40.0%......50.0%.......60.0%......70.0%....80.0%..........90.0%......100.0%
+3 BEST:  2356.67752271 Thero are significant differences in the standard of living 
+
+End Time 2015-12-10 11:08:06.092938
+Duration 0:00:43.164589
+Length, Accuracy, Duration, 61 , 1.0 , 0:00:43.164598
+Baseline Accuracy:  0.137254901961
+Average Accuracy of Baseline:  0.0882228307446
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.594556269591
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3]
+============================
+Iteration  44
+Length  43
+Start Time 2015-12-10 11:08:06.093061
+Original Text But in truth it means something different 
+
+Original Text Noised But in trfth it means something different 
+
+Key QGOISBCPAXEHNFDVWZUMLRTKJY
+Cipher Text Noised Glm af mzbmp am nsqfu udnsmpafc iabbszsfm 
+
+.......10.0%.........20.0%.....30.0%.....40.0%.......50.0%.........60.0%.......70.0%......80.0%.......90.0%.........100.0%
+1 BEST:  1416.84722026 Byt in trfth it means something different 
+
+End Time 2015-12-10 11:08:47.258325
+Duration 0:00:41.165279
+Length, Accuracy, Duration, 43 , 0.971428571429 , 0:00:41.165288
+Baseline Accuracy:  0.0285714285714
+Average Accuracy of Baseline:  0.0868671170589
+Solver Accuracy:  0.971428571429
+Average Accuracy of Solver:  0.603121549178
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1]
+============================
+Iteration  45
+Length  53
+Start Time 2015-12-10 11:08:47.258460
+Original Text With the best will in the world what does this mean 
+
+Original Text Noised With the bbst will in the world what does this sjan 
+
+Key WOTDAZEYQRCGINKBFLMHXSJVUP
+Cipher Text Noised Jqhy hya oomh jqgg qn hya jklgd jywh dkam hyqm mrwn 
+
+.......10.0%.....20.0%......30.0%.....40.0%.......50.0%......60.0%........70.0%.......80.0%.........90.0%......100.0%
+3 BEST:  2003.71780136 With the mmst will in the world what does this span 
+
+End Time 2015-12-10 11:09:43.016311
+Duration 0:00:55.757866
+Length, Accuracy, Duration, 53 , 0.974358974359 , 0:00:55.757875
+Baseline Accuracy:  0.025641025641
+Average Accuracy of Baseline:  0.0855065372496
+Solver Accuracy:  0.974358974359
+Average Accuracy of Solver:  0.611371269738
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3]
+============================
+Iteration  46
+Length  37
+Start Time 2015-12-10 11:09:43.016429
+Original Text The rest takes place by legislation 
+
+Original Text Noised The rest txkei place by legislation 
+
+Key QHURCYWFVJMKBIEZGLPNSOAXDT
+Cipher Text Noised Nfc lcpn nxmcv zkquc hd kcwvpkqnvei 
+
+........10.0%......20.0%........30.0%......40.0%.......50.0%......60.0%........70.0%.....80.0%.....90.0%.....100.0%
+1 BEST:  1086.59162677 The rest tomei place by ledislatinu 
+
+End Time 2015-12-10 11:10:05.165397
+Duration 0:00:22.148989
+Length, Accuracy, Duration, 37 , 0.862068965517 , 0:00:22.149006
+Baseline Accuracy:  0.0344827586207
+Average Accuracy of Baseline:  0.0843973246707
+Solver Accuracy:  0.862068965517
+Average Accuracy of Solver:  0.616821219646
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1]
+============================
+Iteration  47
+Length  29
+Start Time 2015-12-10 11:10:05.165592
+Original Text You have an impossible task 
+
+Original Text Noised You have an imposgibll task 
+
+Key BHROCKGFDYJQAXSTZEUNVPWLMI
+Cipher Text Noised Msv fbpc bx datsugdhqq nbuj 
+
+.....10.0%......20.0%.....30.0%.....40.0%......50.0%.......60.0%........70.0%.......80.0%......90.0%......100.0%
+1 BEST:  868.186047871 Per back at nowelingss half 
+
+End Time 2015-12-10 11:10:35.953465
+Duration 0:00:30.787890
+Length, Accuracy, Duration, 29 , 0.181818181818 , 0:00:30.787900
+Baseline Accuracy:  0.0454545454545
+Average Accuracy of Baseline:  0.0835687549001
+Solver Accuracy:  0.181818181818
+Average Accuracy of Solver:  0.607565835862
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1]
+============================
+Iteration  48
+Length  72
+Start Time 2015-12-10 11:10:35.953625
+Original Text We can of course in future consider how things should be done formally 
+
+Original Text Noised We can of course in future considxr how things should te done formally 
+
+Key VRTWPJQULYBCFOGDNZASMEXIHK
+Cipher Text Noised Xp tvo gj tgmzap lo jmsmzp tgoalwiz ugx suloqa augmcw sp wgop jgzfvcch 
+
+.........10.0%.....20.0%........30.0%.....40.0%......50.0%.......60.0%......70.0%.....80.0%......90.0%.....100.0%
+1 BEST:  1877.67329716 Md son ef searcd in fatard sencibur hem thingc chealb td bend ferpollw 
+
+End Time 2015-12-10 11:11:54.483328
+Duration 0:01:18.529718
+Length, Accuracy, Duration, 72 , 0.438596491228 , 0:01:18.529728
+Baseline Accuracy:  0.0175438596491
+Average Accuracy of Baseline:  0.0821932362491
+Solver Accuracy:  0.438596491228
+Average Accuracy of Solver:  0.604045641182
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1]
+============================
+Iteration  49
+Length  36
+Start Time 2015-12-10 11:11:54.483451
+Original Text Russia is on the road to democracy 
+
+Original Text Noised Bussia is on khe road to democracy 
+
+Key HALKCTJBFWQDVZSXPIOMURGEYN
+Cipher Text Noised Auoofh fo sz qbc ishk ms kcvslihly 
+
+.........10.0%......20.0%......30.0%.....40.0%.....50.0%.........60.0%.......70.0%.....80.0%.....90.0%........100.0%
+1 BEST:  1190.17338691 Russim is of had come to edloncmnw 
+
+End Time 2015-12-10 11:12:45.284808
+Duration 0:00:50.801373
+Length, Accuracy, Duration, 36 , 0.444444444444 , 0:00:50.801383
+Baseline Accuracy:  0.148148148148
+Average Accuracy of Baseline:  0.0835392548593
+Solver Accuracy:  0.444444444444
+Average Accuracy of Solver:  0.600788473902
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1]
+============================
+Iteration  50
+Length  61
+Start Time 2015-12-10 11:12:45.284954
+Original Text On the one hand a new process does not mean going for broke 
+
+Original Text Noised On the one hand a new process does not mean going cor brrke 
+
+Key ICKTNWUYPRBQGZXMHOEAFJSVDL
+Cipher Text Noised Xz ayn xzn yizt i zns moxknee txne zxa gniz uxpzu kxo coobn 
+
+......10.0%......20.0%..........30.0%..........40.0%........50.0%.............60.0%.....70.0%.......80.0%............90.0%......100.0%
+4 BEST:  2299.26649133 On the one hand a new profess does not bean going for urrye 
+
+End Time 2015-12-10 11:14:25.909763
+Duration 0:01:40.624824
+Length, Accuracy, Duration, 61 , 0.913043478261 , 0:01:40.624834
+Baseline Accuracy:  0.0434782608696
+Average Accuracy of Baseline:  0.0827380349795
+Solver Accuracy:  0.913043478261
+Average Accuracy of Solver:  0.607033573989
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4]
+============================
+Iteration  51
+Length  54
+Start Time 2015-12-10 11:14:25.909915
+Original Text Turkey is and remains an important partner of Europe 
+
+Original Text Noised Turkvy iq and remains an impowtaut partner of Europe 
+
+Key LPASXTQUYZDMFVHCRNOKIEWJBG
+Cipher Text Noised Kindeb yr lvs nxflyvo lv yfchwklik clnkvxn ht Xinhcx 
+
+..........10.0%........20.0%.........30.0%......40.0%.......50.0%........60.0%.........70.0%........80.0%........90.0%.......100.0%
+1 BEST:  1441.44133169 Eushyc iv and strainm an irpoleaue pasents of Tusopt 
+
+End Time 2015-12-10 11:15:21.668962
+Duration 0:00:55.759063
+Length, Accuracy, Duration, 54 , 0.560975609756 , 0:00:55.759072
+Baseline Accuracy:  0.0243902439024
+Average Accuracy of Baseline:  0.0815939606446
+Solver Accuracy:  0.560975609756
+Average Accuracy of Solver:  0.606130476651
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1]
+============================
+Iteration  52
+Length  62
+Start Time 2015-12-10 11:15:21.669108
+Original Text In this House we campaign for equality between men and women 
+
+Original Text Noised In this Louse we camppign for wquality between men and women 
+
+Key BEJXVYMLDOAUKZNCWPRSITQHGF
+Cipher Text Noised Dz sldr Unirv qv jbkccdmz ynp qwibudsg evsqvvz kvz bzx qnkvz 
+
+.......10.0%........20.0%........30.0%......40.0%......50.0%.....60.0%......70.0%......80.0%............90.0%......100.0%
+1 BEST:  1579.61756835 Ia this Presn un cdolliga frb umedpitv wntunna ona day urona 
+
+End Time 2015-12-10 11:16:13.800139
+Duration 0:00:52.131046
+Length, Accuracy, Duration, 62 , 0.291666666667 , 0:00:52.131056
+Baseline Accuracy:  0.166666666667
+Average Accuracy of Baseline:  0.083229974222
+Solver Accuracy:  0.291666666667
+Average Accuracy of Solver:  0.60008309569
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1]
+============================
+Iteration  53
+Length  56
+Start Time 2015-12-10 11:16:13.800281
+Original Text We say this we are not under any real pressure of time 
+
+Original Text Noised We sai this we are not under any real prezskre of time 
+
+Key VKLZIOREBSUCMHWFTNXJAGQYDP
+Cipher Text Noised Qi xvb jebx qi vni hwj ahzin vhd nivc fnipxuni wo jbmi 
+
+.......10.0%......20.0%........30.0%......40.0%.........50.0%.......60.0%........70.0%.........80.0%......90.0%.....100.0%
+1 BEST:  1577.9489536 Mt she does mt hit and parti hac ithg wituslit ny deft 
+
+End Time 2015-12-10 11:17:35.018110
+Duration 0:01:21.217843
+Length, Accuracy, Duration, 56 , 0.0975609756098 , 0:01:21.217853
+Baseline Accuracy:  0.170731707317
+Average Accuracy of Baseline:  0.0848809503181
+Solver Accuracy:  0.0975609756098
+Average Accuracy of Solver:  0.590601546255
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1]
+============================
+Iteration  54
+Length  60
+Start Time 2015-12-10 11:17:35.018256
+Original Text The functionalist approach is over for better or for worse 
+
+Original Text Noised Thg functionalist appromch is over for better sr for worse 
+
+Key YXURQNCGJIWAZMLBOEFVPKHTSD
+Cipher Text Noised Vgc npmuvjlmyajfv ybbelzug jf lkqe nle xqvvqe fe nle hlefq 
+
+.......10.0%.......20.0%........30.0%......40.0%......50.0%..........60.0%......70.0%..........80.0%........90.0%.............100.0%
+1 BEST:  1661.34081158 Imf trusighundgoi nllehysm go have the bviive oe the wheov 
+
+End Time 2015-12-10 11:18:48.201096
+Duration 0:01:13.182857
+Length, Accuracy, Duration, 60 , 0.063829787234 , 0:01:13.182866
+Baseline Accuracy:  0.0212765957447
+Average Accuracy of Baseline:  0.0837030919001
+Solver Accuracy:  0.063829787234
+Average Accuracy of Solver:  0.58084651368
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1]
+============================
+Iteration  55
+Length  36
+Start Time 2015-12-10 11:18:48.201216
+Original Text I do not know his telephone number 
+
+Original Text Noised I do not know his telephonu number 
+
+Key RCOWTUSAEMKIVGYFLXBPDJZNHQ
+Cipher Text Noised E wy gyp kgyz aeb ptitfaygd gdvctx 
+
+.......10.0%.....20.0%.....30.0%......40.0%........50.0%......60.0%........70.0%.....80.0%........90.0%.....100.0%
+1 BEST:  1116.3334026 U in and hang out dereconam amples 
+
+End Time 2015-12-10 11:19:32.167706
+Duration 0:00:43.966506
+Length, Accuracy, Duration, 36 , 0.142857142857 , 0:00:43.966516
+Baseline Accuracy:  0.0357142857143
+Average Accuracy of Baseline:  0.0828305681513
+Solver Accuracy:  0.142857142857
+Average Accuracy of Solver:  0.572883070574
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1]
+============================
+Iteration  56
+Length  53
+Start Time 2015-12-10 11:19:32.167850
+Original Text A potential market of hundreds of billions of euros 
+
+Original Text Noised A potentiak markep of hundreds of billions os euros 
+
+Key XLPGJVKZQFSYMOUDWCENBTHIAR
+Cipher Text Noised X dunjonqxs mxcsjd uv zbogcjge uv lqyyquoe ue jbcue 
+
+.....10.0%.......20.0%........30.0%......40.0%........50.0%.......60.0%......70.0%.....80.0%..........90.0%.......100.0%
+1 BEST:  1335.62516932 U diselsoug burged in haltrety in commoily iy eariy 
+
+End Time 2015-12-10 11:20:21.223759
+Duration 0:00:49.055924
+Length, Accuracy, Duration, 53 , 0.219512195122 , 0:00:49.055934
+Baseline Accuracy:  0.0731707317073
+Average Accuracy of Baseline:  0.0826580710719
+Solver Accuracy:  0.219512195122
+Average Accuracy of Solver:  0.56657287637
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  57
+Length  70
+Start Time 2015-12-10 11:20:21.223930
+Original Text The International Court of Justice in The Hague has pointed this out 
+
+Original Text Noised The Internjtional Court of Justice in The Hague has pointed this out 
+
+Key ZDIKNJCPROBTLAUSFEHYWVMQGX
+Cipher Text Noised Ypn Rayneaoyruazt Iuwey uj Owhyrin ra Ypn Pzcwn pzh suraynk yprh uwy 
+
+.......10.0%........20.0%.......30.0%......40.0%........50.0%.......60.0%.........70.0%........80.0%...............90.0%.....100.0%
+1 BEST:  1886.91556635 The Iftelfatinfoc Rnslt np Aswtire if The House how knifted thiw nst 
+
+End Time 2015-12-10 11:21:41.129470
+Duration 0:01:19.905555
+Length, Accuracy, Duration, 70 , 0.491228070175 , 0:01:19.905565
+Baseline Accuracy:  0.105263157895
+Average Accuracy of Baseline:  0.0830546515425
+Solver Accuracy:  0.491228070175
+Average Accuracy of Solver:  0.565251037665
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  58
+Length  27
+Start Time 2015-12-10 11:21:41.129582
+Original Text I have just spoken to him 
+
+Original Text Noised I have just spiken to him 
+
+Key CGVSMIQBAOYDRWLPENKHFXJUZT
+Cipher Text Noised A bcxm ofkh kpaymw hl bar 
+
+.........10.0%.........20.0%........30.0%......40.0%.........50.0%.....60.0%.......70.0%.......80.0%....90.0%.......100.0%
+1 BEST:  808.967519251 A welk into thacks of war 
+
+End Time 2015-12-10 11:22:15.860178
+Duration 0:00:34.730616
+Length, Accuracy, Duration, 27 , 0.05 , 0:00:34.730632
+Baseline Accuracy:  0.15
+Average Accuracy of Baseline:  0.0842088816883
+Solver Accuracy:  0.05
+Average Accuracy of Solver:  0.556367399084
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  59
+Length  38
+Start Time 2015-12-10 11:22:15.860386
+Original Text So there is still a great deal to do 
+
+Original Text Noised So txere is still a grept deal to do 
+
+Key WYPBLNHDSIJRAOEXMKFUTGVCQZ
+Cipher Text Noised Fe uclkl sf fusrr w hklxu blwr ue be 
+
+......10.0%.....20.0%.....30.0%.....40.0%.....50.0%.....60.0%.....70.0%.....80.0%.....90.0%.....100.0%
+1 BEST:  1527.22125363 So there is still a grent deal to do 
+
+End Time 2015-12-10 11:23:13.750861
+Duration 0:00:57.890490
+Length, Accuracy, Duration, 38 , 1.0 , 0:00:57.890500
+Baseline Accuracy:  0.037037037037
+Average Accuracy of Baseline:  0.0834093588976
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.56388659571
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  60
+Length  59
+Start Time 2015-12-10 11:23:13.751005
+Original Text In my view however it is a task of fundamental importance 
+
+Original Text Noised In my view howeper it is a task of fundamental impwrtance 
+
+Key NGKSYJDMRAEZVCFUWQTPBLOIHX
+Cipher Text Noised Rc vh lryo mfoyuyq rp rt n pnte fj jbcsnvycpnz rvuoqpncky 
+
+........10.0%........20.0%.......30.0%.......40.0%.......50.0%.......60.0%.........70.0%.....80.0%......90.0%.......100.0%
+1 BEST:  1989.05223944 In my view cowered it is a task of funhamental imrwdtange 
+
+End Time 2015-12-10 11:24:51.993197
+Duration 0:01:38.242209
+Length, Accuracy, Duration, 59 , 0.869565217391 , 0:01:38.242218
+Baseline Accuracy:  0.0217391304348
+Average Accuracy of Baseline:  0.0823815217565
+Solver Accuracy:  0.869565217391
+Average Accuracy of Solver:  0.568981239405
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  61
+Length  28
+Start Time 2015-12-10 11:24:51.993313
+Original Text We are Europeans after all 
+
+Original Text Noised We are Europeans affer all 
+
+Key TDPJKZGRBCWFUENIQVAYLHSXOM
+Cipher Text Noised Sk tvk Klvniktea tzzkv tff 
+
+.....10.0%.......20.0%.....30.0%....40.0%......50.0%......60.0%......70.0%.......80.0%.....90.0%.....100.0%
+1 BEST:  745.140992868 Ue the Echasetin trreh too 
+
+End Time 2015-12-10 12:54:56.229572
+Duration 1:30:04.236274
+Length, Accuracy, Duration, 28 , 0.272727272727 , 1:30:04.236283
+Baseline Accuracy:  0.0454545454545
+Average Accuracy of Baseline:  0.0817761614893
+Solver Accuracy:  0.272727272727
+Average Accuracy of Solver:  0.564124617
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  62
+Length  31
+Start Time 2015-12-10 12:54:56.229689
+Original Text The answer remains in the air 
+
+Original Text Noised The answtr remains in the air 
+
+Key TJHRUVAIWYXGOKCDSNZQLEFBMP
+Cipher Text Noised Qiu tkzfqn nuotwkz wk qiu twn 
+
+.....10.0%.....20.0%.....30.0%....40.0%........50.0%.....60.0%........70.0%.....80.0%.........90.0%.....100.0%
+1 BEST:  893.965963873 Her onasht triouna un her out 
+
+End Time 2015-12-10 16:13:51.691619
+Duration 3:18:55.462450
+Length, Accuracy, Duration, 31 , 0.166666666667 , 3:18:55.462594
+Baseline Accuracy:  0.0416666666667
+Average Accuracy of Baseline:  0.0811292341534
+Solver Accuracy:  0.166666666667
+Average Accuracy of Solver:  0.557714004898
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  63
+Length  48
+Start Time 2015-12-10 16:13:51.694273
+Original Text However at this stage these are just proposals 
+
+Original Text Noised However at dhis stage thcse are just proposkls 
+
+Key YKWCPIFQHVRJZGUEADSBNXTMOL
+Cipher Text Noised Qutpxpd yb cqhs sbyfp bqwsp ydp vnsb edueusrjs 
+
+........10.0%...........20.0%.......30.0%......40.0%.........50.0%.......60.0%.....70.0%..........80.0%......90.0%.....100.0%
+1 BEST:  1299.93392616 Livereh td plan ndtye dlone the fund chicingsn 
+
+End Time 2015-12-10 16:26:23.374000
+Duration 0:12:31.679888
+Length, Accuracy, Duration, 48 , 0.189189189189 , 0:12:31.679924
+Baseline Accuracy:  0.0540540540541
+Average Accuracy of Baseline:  0.08069946939
+Solver Accuracy:  0.189189189189
+Average Accuracy of Solver:  0.551864404648
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  64
+Length  60
+Start Time 2015-12-10 16:26:23.374565
+Original Text This includes achieving peace between Israel and Palestine 
+
+Original Text Noised This inckudes achieving peace bttween Israel and Palestine 
+
+Key MNKOFSULXGPBRTAVWIHDEYZJQC
+Cipher Text Noised Dlxh xtkpeofh mklxfyxtu vfmkf nddzfft Xhimfb mto Vmbfhdxtf 
+
+..........10.0%.............20.0%..........30.0%......40.0%.......50.0%...........60.0%..........70.0%...........80.0%..............90.0%.....100.0%
+1 BEST:  1479.56285696 Ontr thimayer sintelthc wesie foodeeh Trusep shy Wsperothe 
+
+End Time 2015-12-10 16:26:47.213065
+Duration 0:00:23.838525
+Length, Accuracy, Duration, 60 , 0.2 , 0:00:23.838543
+Baseline Accuracy:  0.04
+Average Accuracy of Baseline:  0.0800635401807
+Solver Accuracy:  0.2
+Average Accuracy of Solver:  0.546366523326
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  65
+Length  42
+Start Time 2015-12-10 16:26:47.213310
+Original Text So why do we not do the same with Turkey 
+
+Original Text Noised So why do we noa do the same with Tmrkey 
+
+Key VOFYTKAQSNEBLUIDCXHJZPGWRM
+Cipher Text Noised Hi gqr yi gt uiv yi jqt hvlt gsjq Jlxetr 
+
+.........10.0%.....20.0%.......30.0%.....40.0%.....50.0%.....60.0%........70.0%.....80.0%.....90.0%.....100.0%
+1 BEST:  1475.25864372 Do aim to as you to his dues achi Hernsm 
+
+End Time 2015-12-10 16:28:30.221287
+Duration 0:01:43.007994
+Length, Accuracy, Duration, 42 , 0.2 , 0:01:43.008003
+Baseline Accuracy:  0.0333333333333
+Average Accuracy of Baseline:  0.0793446139216
+Solver Accuracy:  0.2
+Average Accuracy of Solver:  0.541037807582
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  66
+Length  46
+Start Time 2015-12-10 16:28:30.221425
+Original Text The report concentrates on the previous year 
+
+Original Text Noised The report concentrates qn the pregious year 
+
+Key DPNQBUMVOCKWZIGYXAFREHSJLT
+Cipher Text Noised Rvb abygar nginbiradrbf xi rvb yabmogef lbda 
+
+.....10.0%.......20.0%.....30.0%..............40.0%..........50.0%......60.0%.....70.0%.........80.0%.......90.0%.....100.0%
+2 BEST:  1492.66561135 The report concentrated in the prelsomd bear 
+
+End Time 2015-12-10 16:29:09.631473
+Duration 0:00:39.410063
+Length, Accuracy, Duration, 46 , 0.864864864865 , 0:00:39.410073
+Baseline Accuracy:  0.162162162162
+Average Accuracy of Baseline:  0.0805994252585
+Solver Accuracy:  0.864864864865
+Average Accuracy of Solver:  0.545944278147
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2]
+============================
+Iteration  67
+Length  76
+Start Time 2015-12-10 16:29:09.631657
+Original Text This is not expected to happen before the end of September at the earliest 
+
+Original Text Noised This is not exuected to happen before the end of Sqptembvr at the earliest 
+
+Key RSHJZPWFNTLQAVCGIXODYMEKUB
+Cipher Text Noised Dfno no vcd zkyzhdzj dc frggzv szpcxz dfz zvj cp Oigdzasmx rd dfz zrxqnzod 
+
+.......10.0%.......20.0%.....30.0%.....40.0%........50.0%..........60.0%.........70.0%......80.0%.......90.0%......100.0%
+3 BEST:  2827.27658144 This is not exvected to happen before the end of Suptembyr at the earliest 
+
+End Time 2015-12-10 16:31:14.216934
+Duration 0:02:04.585345
+Length, Accuracy, Duration, 76 , 1.0 , 0:02:04.585365
+Baseline Accuracy:  0.0169491525424
+Average Accuracy of Baseline:  0.0796494211881
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.55272122922
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3]
+============================
+Iteration  68
+Length  35
+Start Time 2015-12-10 16:31:14.217233
+Original Text Some of them are very complicated 
+
+Original Text Noised Somk of them arq very complicated 
+
+Key HKYCJVXFUBWGDASOPNZQTMRLIE
+Cipher Text Noised Zsdw sv qfjd hnp mjni ysdoguyhqjc 
+
+..........10.0%......20.0%.....30.0%............40.0%........50.0%......60.0%........70.0%........80.0%.....90.0%.....100.0%
+2 BEST:  1226.85582952 Mosg of this and wine losurplatic 
+
+End Time 2015-12-10 16:31:52.078940
+Duration 0:00:37.861722
+Length, Accuracy, Duration, 35 , 0.37037037037 , 0:00:37.861732
+Baseline Accuracy:  0.037037037037
+Average Accuracy of Baseline:  0.07902276848
+Solver Accuracy:  0.37037037037
+Average Accuracy of Solver:  0.550039598942
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2]
+============================
+Iteration  69
+Length  45
+Start Time 2015-12-10 16:31:52.079082
+Original Text There is nothing inherently wrong with that 
+
+Original Text Noised There is nothbng inhereztly wrong bdth that 
+
+Key AOFLJZDPIGMTYSHKCVERXNBWUQ
+Cipher Text Noised Rpjvj ie shrposd ispjvjqrtu bvhsd olrp rpar 
+
+...........10.0%.........20.0%.......30.0%......40.0%........50.0%.....60.0%..............70.0%.......80.0%.....90.0%......100.0%
+1 BEST:  1381.4250109 There is nothwng inherectly prong wuth that 
+
+End Time 2015-12-10 16:32:20.447425
+Duration 0:00:28.368360
+Length, Accuracy, Duration, 45 , 0.970588235294 , 0:00:28.368371
+Baseline Accuracy:  0.0882352941176
+Average Accuracy of Baseline:  0.0791562833444
+Solver Accuracy:  0.970588235294
+Average Accuracy of Solver:  0.556134506716
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1]
+============================
+Iteration  70
+Length  28
+Start Time 2015-12-10 16:32:20.447547
+Original Text That is certainly the case 
+
+Original Text Noised That is certainly the case 
+
+Key BPSRCHYFXLNVUMAKEIWZQGTJDO
+Cipher Text Noised Zfbz xw scizbxmvd zfc sbwc 
+
+......10.0%....20.0%......30.0%.....40.0%......50.0%....60.0%.......70.0%.......80.0%.......90.0%.......100.0%
+2 BEST:  1070.61846103 That is certainly the case 
+
+End Time 2015-12-10 16:32:50.689576
+Duration 0:00:30.242046
+Length, Accuracy, Duration, 28 , 1.0 , 0:00:30.242056
+Baseline Accuracy:  0.260869565217
+Average Accuracy of Baseline:  0.0817521873711
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.562475442334
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2]
+============================
+Iteration  71
+Length  42
+Start Time 2015-12-10 16:32:50.689718
+Original Text As a matter of fact that is not the case 
+
+Original Text Noised As a mattdr of facw thac is not the case 
+
+Key ELVSHTYCZXDOQKAGWNRMBIUPJF
+Cipher Text Noised Er e qemmsn at tevu mcev zr kam mch verh 
+
+.......10.0%.....20.0%.....30.0%.....40.0%......50.0%.....60.0%.....70.0%.........80.0%.....90.0%.....100.0%
+1 BEST:  1517.38056837 As a rattln ub back thac is out the case 
+
+End Time 2015-12-10 16:34:23.836903
+Duration 0:01:33.147202
+Length, Accuracy, Duration, 42 , 0.758620689655 , 0:01:33.147213
+Baseline Accuracy:  0.0344827586207
+Average Accuracy of Baseline:  0.081086420769
+Solver Accuracy:  0.758620689655
+Average Accuracy of Solver:  0.565238051451
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1]
+============================
+Iteration  72
+Length  64
+Start Time 2015-12-10 16:34:23.837070
+Original Text The ESFS should be guaranteed by the European Central Bank ECB 
+
+Original Text Noised The ESFS should be guaranteed by the Wuropgan Central Bank SCB 
+
+Key TDPULRVGZNWCFIJYQKOXMAHBES
+Cipher Text Noised Xgl LORO ogjmcu dl vmtktixllu de xgl Hmkjyvti Plixktc Dtiw OPD 
+
+.............10.0%...........20.0%......30.0%......40.0%......50.0%.......60.0%........70.0%.........80.0%........90.0%......100.0%
+1 BEST:  1590.85091665 Are ETBT truism oe hindnlaeem of are Viduchnl Weladns Only TWO 
+
+End Time 2015-12-10 16:35:51.103359
+Duration 0:01:27.266307
+Length, Accuracy, Duration, 64 , 0.16 , 0:01:27.266317
+Baseline Accuracy:  0.02
+Average Accuracy of Baseline:  0.0802379982583
+Solver Accuracy:  0.16
+Average Accuracy of Solver:  0.559609745181
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1]
+============================
+Iteration  73
+Length  26
+Start Time 2015-12-10 16:35:51.103487
+Original Text aposHe beat you didnt he 
+
+Original Text Noised aposHe beat you didnt he 
+
+Key KBJRLHSYVDMZQEWXUOTIPANGCF
+Cipher Text Noised kxwtYl blki cwp rvrei yl 
+
+.....10.0%......20.0%.....30.0%......40.0%..........50.0%.....60.0%......70.0%.......80.0%.......90.0%.....100.0%
+1 BEST:  832.915030611 mintSo homy and every so 
+
+End Time 2015-12-10 16:36:17.720540
+Duration 0:00:26.617075
+Length, Accuracy, Duration, 26 , 0.047619047619 , 0:00:26.617091
+Baseline Accuracy:  0.047619047619
+Average Accuracy of Baseline:  0.079791163318
+Solver Accuracy:  0.047619047619
+Average Accuracy of Solver:  0.552596173982
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1]
+============================
+Iteration  74
+Length  30
+Start Time 2015-12-10 16:36:17.720687
+Original Text Trade is important of course 
+
+Original Text Noised Tkade is imporuant of course 
+
+Key IDZYMLOFPQHXSCRAKJGVBUENWT
+Cipher Text Noised Vhiym pg psarjbicv rl zrbjgm 
+
+......10.0%.....20.0%.....30.0%.........40.0%.....50.0%........60.0%......70.0%.....80.0%........90.0%.....100.0%
+1 BEST:  869.764137023 Lange is ithorundl of course 
+
+End Time 2015-12-10 16:36:43.133843
+Duration 0:00:25.413172
+Length, Accuracy, Duration, 30 , 0.652173913043 , 0:00:25.413182
+Baseline Accuracy:  0.0434782608696
+Average Accuracy of Baseline:  0.0793004484201
+Solver Accuracy:  0.652173913043
+Average Accuracy of Solver:  0.553941819104
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1]
+============================
+Iteration  75
+Length  86
+Start Time 2015-12-10 16:36:43.134060
+Original Text Finally the resolution of this problem quite clearly lies with the Greek authorities 
+
+Original Text Noised Finalsy the resolution of this prbblem qfite cleavly liev with the Greek authorzties 
+
+Key GUHLNCZYQJIPKFXADESBVTWORM
+Cipher Text Noised Cqfgpsr byn ensxpvbqxf xc byqs aeuupnk dcqbn hpngtpr pqnt wqby byn Zenni gvbyxembqns 
+
+..........10.0%.......20.0%.....30.0%......40.0%.......50.0%........60.0%......70.0%..........80.0%........90.0%..........100.0%
+1 BEST:  2460.93766736 Rivalsy the uesolftiov or this mugglek prite bleadly lied with the Queen afthoucties 
+
+End Time 2015-12-10 16:37:38.121348
+Duration 0:00:54.987303
+Length, Accuracy, Duration, 86 , 0.746268656716 , 0:00:54.987313
+Baseline Accuracy:  0.223880597015
+Average Accuracy of Baseline:  0.0812281837347
+Solver Accuracy:  0.746268656716
+Average Accuracy of Solver:  0.556506176939
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1]
+============================
+Iteration  76
+Length  53
+Start Time 2015-12-10 16:37:38.121495
+Original Text Junior doctors play a critical role in patient care 
+
+Original Text Noised Junior doctors plaw a critical role in patient care 
+
+Key OGPDVHZXSCNLQBJTRYAFMEUIKW
+Cipher Text Noised Cmbsjy djpfjya tlou o pysfspol yjlv sb tofsvbf poyv 
+
+.......10.0%......20.0%......30.0%......40.0%......50.0%........60.0%......70.0%........80.0%.......90.0%.......100.0%
+1 BEST:  1412.21596976 Butiod conlodf hear a ndilinae does it halistl nads 
+
+End Time 2015-12-10 16:38:28.049839
+Duration 0:00:49.928366
+Length, Accuracy, Duration, 53 , 0.372093023256 , 0:00:49.928387
+Baseline Accuracy:  0.0232558139535
+Average Accuracy of Baseline:  0.0804653893955
+Solver Accuracy:  0.372093023256
+Average Accuracy of Solver:  0.554079688075
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  77
+Length  51
+Start Time 2015-12-10 16:38:28.050200
+Original Text The Czech Republic is also affected by this trend 
+
+Original Text Noised The Czech Repcblic is also affectrd by this trend 
+
+Key PXMNBYRIDUVJWOSZTGALHQECFK
+Cipher Text Noised Lib Mkbmi Gbzmxjdm da pjas pyybmlgn xf lida lgbon 
+
+.......10.0%.........20.0%..........30.0%......40.0%.....50.0%.....60.0%...............70.0%......80.0%......90.0%......100.0%
+1 BEST:  1457.03273239 The Czech Rexculic is also appectrd uf this trend 
+
+End Time 2015-12-10 16:39:15.547164
+Duration 0:00:47.496980
+Length, Accuracy, Duration, 51 , 0.85 , 0:00:47.496990
+Baseline Accuracy:  0.025
+Average Accuracy of Baseline:  0.0797450596631
+Solver Accuracy:  0.85
+Average Accuracy of Solver:  0.557922809009
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  78
+Length  57
+Start Time 2015-12-10 16:39:15.547326
+Original Text Obviously there is active surveillance of the situation 
+
+Original Text Noised Obviofsly there is active surveillance of mhq nituation 
+
+Key RHNXLIKJQWMOSBYUAGZEPTFVCD
+Cipher Text Noised Yhtqyizoc ejlgl qz rneqtl zpgtlqoorbnl yi sja bqepreqyb 
+
+......10.0%......20.0%........30.0%.....40.0%........50.0%........60.0%.....70.0%........80.0%......90.0%.......100.0%
+1 BEST:  1522.0917431 Lpralfsmc toded as intard sherdammignd lf you gathitalg 
+
+End Time 2015-12-10 16:39:50.571705
+Duration 0:00:35.024401
+Length, Accuracy, Duration, 57 , 0.2 , 0:00:35.024418
+Baseline Accuracy:  0.0222222222222
+Average Accuracy of Baseline:  0.0790075873882
+Solver Accuracy:  0.2
+Average Accuracy of Solver:  0.553334055047
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  79
+Length  33
+Start Time 2015-12-10 16:39:50.571899
+Original Text I shall come back to that later 
+
+Original Text Noised I shall come bqck to thak later 
+
+Key LOKCTQNUGAYDXZSPEWMHIJRFVB
+Cipher Text Noised G muldd ksxt oeky hs huly dlhtw 
+
+.........10.0%...........20.0%........30.0%......40.0%.......50.0%....60.0%.......70.0%.......80.0%.......90.0%........100.0%
+1 BEST:  908.005920443 I studd only from an atum duaye 
+
+End Time 2015-12-10 16:40:31.321051
+Duration 0:00:40.749175
+Length, Accuracy, Duration, 33 , 0.125 , 0:00:40.749188
+Baseline Accuracy:  0.0416666666667
+Average Accuracy of Baseline:  0.0785349175056
+Solver Accuracy:  0.125
+Average Accuracy of Solver:  0.547912104983
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  80
+Length  24
+Start Time 2015-12-10 16:40:31.321184
+Original Text The result is the same 
+
+Original Text Noised The result is the same 
+
+Key IHXFLYQMTARDUSVBEZKWPCNOJG
+Cipher Text Noised Wml zlkpdw tk wml kiul 
+
+.......10.0%.....20.0%........30.0%......40.0%.....50.0%.......60.0%......70.0%.......80.0%......90.0%.....100.0%
+1 BEST:  756.177102745 Not itseln as not shut 
+
+End Time 2015-12-10 16:41:05.020510
+Duration 0:00:33.699361
+Length, Accuracy, Duration, 24 , 0.263157894737 , 0:00:33.699372
+Baseline Accuracy:  0.210526315789
+Average Accuracy of Baseline:  0.0801848099842
+Solver Accuracy:  0.263157894737
+Average Accuracy of Solver:  0.544352677355
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  81
+Length  32
+Start Time 2015-12-10 16:41:05.020706
+Original Text The stakes could not be higher 
+
+Original Text Noised Thd stakes could not be higher 
+
+Key EQSVPKRNZXHBCDILOAGFWMYTUJ
+Cipher Text Noised Fnv gfehpg siwbv dif qp nzrnpa 
+
+.....10.0%......20.0%.......30.0%......................40.0%...........50.0%..........60.0%.........70.0%.....80.0%.....90.0%......100.0%
+1 BEST:  905.154277791 End health coupd soe it ngrntf 
+
+End Time 2015-12-10 16:41:50.372791
+Duration 0:00:45.352102
+Length, Accuracy, Duration, 32 , 0.28 , 0:00:45.352112
+Baseline Accuracy:  0.04
+Average Accuracy of Baseline:  0.0796887012189
+Solver Accuracy:  0.28
+Average Accuracy of Solver:  0.541089064054
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  82
+Length  38
+Start Time 2015-12-10 16:41:50.372931
+Original Text Canada is also part of North America 
+
+Original Text Noised Canada is also part of Nozth America 
+
+Key VOMKECTARHZQLUGXBNSIPDFWJY
+Cipher Text Noised Mvuvkv rs vqsg xvni gc Ugyia Vlenrmv 
+
+.....10.0%........20.0%...........30.0%............40.0%.....50.0%.....60.0%........70.0%......80.0%............90.0%.....100.0%
+1 BEST:  1277.04802134 Camada is also pare of Money Athrica 
+
+End Time 2015-12-10 16:42:27.421681
+Duration 0:00:37.048767
+Length, Accuracy, Duration, 38 , 0.766666666667 , 0:00:37.048778
+Baseline Accuracy:  0.0666666666667
+Average Accuracy of Baseline:  0.0795298959195
+Solver Accuracy:  0.766666666667
+Average Accuracy of Solver:  0.543840010428
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  83
+Length  47
+Start Time 2015-12-10 16:42:27.421834
+Original Text Even the United States has abandoned the idea 
+
+Original Text Noised Even the United States hds abandoned the idja 
+
+Key JNCLGPWFIHUEAOMKSQVTBRDZXY
+Cipher Text Noised Grgo tfg Boitgl Vtjtgv flv jnjolmogl tfg ilhj 
+
+......10.0%.......20.0%......30.0%............40.0%.....50.0%.......60.0%.....70.0%......80.0%..........90.0%.....100.0%
+2 BEST:  1377.2254343 Ever the Urptea Stotes has onorairea the palo 
+
+End Time 2015-12-10 16:43:04.045183
+Duration 0:00:36.623368
+Length, Accuracy, Duration, 47 , 0.567567567568 , 0:00:36.623379
+Baseline Accuracy:  0.108108108108
+Average Accuracy of Baseline:  0.079874211729
+Solver Accuracy:  0.567567567568
+Average Accuracy of Solver:  0.54412588461
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2]
+============================
+Iteration  84
+Length  25
+Start Time 2015-12-10 16:43:04.045315
+Original Text We all know the feeling 
+
+Original Text Noised We all know ahe feeling 
+
+Key XKRMZIJEPCSBWQHDVFALGUNYTO
+Cipher Text Noised Nz xbb sqhn xez izzbpqj 
+
+......10.0%.......20.0%......30.0%.....40.0%....50.0%....60.0%........70.0%....80.0%....90.0%........100.0%
+1 BEST:  871.839081607 We all know are feeling 
+
+End Time 2015-12-10 16:43:29.930599
+Duration 0:00:25.885300
+Length, Accuracy, Duration, 25 , 0.947368421053 , 0:00:25.885311
+Baseline Accuracy:  0.0526315789474
+Average Accuracy of Baseline:  0.0795498946721
+Solver Accuracy:  0.947368421053
+Average Accuracy of Solver:  0.548926390996
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1]
+============================
+Iteration  85
+Length  69
+Start Time 2015-12-10 16:43:29.930789
+Original Text I have heard it said that they are sometimes treated like criminals 
+
+Original Text Noised I have ieard it saod that lhey are sometimes treated like criminals 
+
+Key JZTDMAKNUCXRQLGFYIEOHWBVPS
+Cipher Text Noised U njwm umjid uo ejgd onjo rnmp jim egqmouqme oimjomd ruxm tiuquljre 
+
+...........10.0%........20.0%....30.0%.........40.0%......50.0%......60.0%.....70.0%.......80.0%.......90.0%.....100.0%
+1 BEST:  2149.69201806 I habe ieard it saod that lhey are sometimes treated like criminals 
+
+End Time 2015-12-10 16:44:41.672704
+Duration 0:01:11.741962
+Length, Accuracy, Duration, 69 , 0.981481481481 , 0:01:11.741980
+Baseline Accuracy:  0.0185185185185
+Average Accuracy of Baseline:  0.0788318784821
+Solver Accuracy:  0.981481481481
+Average Accuracy of Solver:  0.554015274414
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]
+============================
+Iteration  86
+Length  28
+Start Time 2015-12-10 16:44:41.672872
+Original Text Is it the end of the world 
+
+Original Text Noised Is it the end of the world 
+
+Key WGHDTCYBLJXRPNUMIZVOKASQFE
+Cipher Text Noised Lv lo obt tnd uc obt suzrd 
+
+.....10.0%.....20.0%....30.0%.......40.0%.......50.0%.........60.0%......70.0%.........80.0%....90.0%.....100.0%
+1 BEST:  1170.88668234 Ap at the end is the likud 
+
+End Time 2015-12-10 16:46:16.674823
+Duration 0:01:35.001997
+Length, Accuracy, Duration, 28 , 0.571428571429 , 0:01:35.002017
+Baseline Accuracy:  0.047619047619
+Average Accuracy of Baseline:  0.0784689385883
+Solver Accuracy:  0.571428571429
+Average Accuracy of Solver:  0.554217754612
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1]
+============================
+Iteration  87
+Length  70
+Start Time 2015-12-10 16:46:16.675206
+Original Text They are much more interested in getting noise brought under control 
+
+Original Text Noised They are much mfre interesvzd in getting noise brought undej control 
+
+Key MJAPUCBXYQIDZTKFSVEHNGRWOL
+Cipher Text Noised Hxuo mvu znax zcvu ythuvueglp yt buhhytb tkyeu jvknbxh ntpuq akthvkd 
+
+........10.0%.......20.0%.......30.0%.......40.0%.........50.0%........60.0%......70.0%.....80.0%........90.0%........100.0%
+3 BEST:  2131.00243748 They are much mpre intereskfd in getting noise brought undew control 
+
+End Time 2015-12-10 16:47:13.313099
+Duration 0:00:56.637911
+Length, Accuracy, Duration, 70 , 1.0 , 0:00:56.637922
+Baseline Accuracy:  0.0181818181818
+Average Accuracy of Baseline:  0.0777759831813
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.559341688467
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3]
+============================
+Iteration  88
+Length  72
+Start Time 2015-12-10 16:47:13.313286
+Original Text This is a threat to our democratic values and a threat to our citizens 
+
+Original Text Noised Mhis is a threat to ouy democxatic values add a threat to our chtiwens 
+
+Key VYSJUQDBWPOHXRLMCTENZFAIKG
+Cipher Text Noised Xbwe we v nbtuvn nl lzk juxlsivnws fvhzue vjj v nbtuvn nl lzt sbnwaure 
+
+.........10.0%.......20.0%........30.0%......40.0%........50.0%.........60.0%.....70.0%.......80.0%..........90.0%......100.0%
+1 BEST:  2557.97997403 Chis is a threat to ouy decognatig values add a threat to our ghtimews 
+
+End Time 2015-12-10 16:49:59.124719
+Duration 0:02:45.811507
+Length, Accuracy, Duration, 72 , 0.903846153846 , 0:02:45.811526
+Baseline Accuracy:  0.0192307692308
+Average Accuracy of Baseline:  0.0771106966592
+Solver Accuracy:  0.903846153846
+Average Accuracy of Solver:  0.563256511937
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1]
+============================
+Iteration  89
+Length  15
+Start Time 2015-12-10 16:49:59.124994
+Original Text Who is guilty 
+
+Original Text Noised Wpo ij guilty 
+
+Key KMIJBFOQAVLHSZGRXUCWDPETYN
+Cipher Text Noised Erg av odahwy 
+
+.....10.0%.....20.0%........30.0%...........40.0%.....50.0%.....60.0%......70.0%.....80.0%.....90.0%......100.0%
+1 BEST:  508.76039928 Ine of thomas 
+
+End Time 2015-12-10 16:50:15.577894
+Duration 0:00:16.452916
+Length, Accuracy, Duration, 15 , 0.1 , 0:00:16.452926
+Baseline Accuracy:  0.2
+Average Accuracy of Baseline:  0.0784914753484
+Solver Accuracy:  0.1
+Average Accuracy of Solver:  0.558051382589
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1]
+============================
+Iteration  90
+Length  49
+Start Time 2015-12-10 16:50:15.578050
+Original Text However we have not yet taken it a step further 
+
+Original Text Noised Honevpr we have not yet waken it a stev further 
+
+Key WIECLNUOMSYBFJDAGPTHZQRKVX
+Cipher Text Noised Odjlqap rl owql jdh vlh rwylj mh w thlq nzpholp 
+
+.....10.0%.....20.0%........30.0%......40.0%........50.0%.......60.0%......70.0%.....80.0%.......90.0%......100.0%
+1 BEST:  1427.44173932 Muredsn we made ruo heo waver to a goed linomen 
+
+End Time 2015-12-10 16:51:29.534929
+Duration 0:01:13.956895
+Length, Accuracy, Duration, 49 , 0.342857142857 , 0:01:13.956905
+Baseline Accuracy:  0.0285714285714
+Average Accuracy of Baseline:  0.077936808162
+Solver Accuracy:  0.342857142857
+Average Accuracy of Solver:  0.555660335481
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1]
+============================
+Iteration  91
+Length  29
+Start Time 2015-12-10 16:51:29.535061
+Original Text This is a real life example 
+
+Original Text Noised This is a real wife exzmple 
+
+Key UHBTLWNJYSEZIPCDFAVGKQROXM
+Cipher Text Noised Gjyv yv u aluz rywl lomidzl 
+
+.....10.0%......20.0%..........30.0%........40.0%......50.0%......60.0%........70.0%.....80.0%......90.0%......100.0%
+1 BEST:  1070.69088113 Whis is a real time encoule 
+
+End Time 2015-12-10 16:52:10.815565
+Duration 0:00:41.280520
+Length, Accuracy, Duration, 29 , 0.761904761905 , 0:00:41.280530
+Baseline Accuracy:  0.047619047619
+Average Accuracy of Baseline:  0.0776036459582
+Solver Accuracy:  0.761904761905
+Average Accuracy of Solver:  0.55792675775
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1]
+============================
+Iteration  92
+Length  59
+Start Time 2015-12-10 16:52:10.815726
+Original Text That I think is what the European Parliament has achieved 
+
+Original Text Noised That I thrnk is what the European Parliament has achieved 
+
+Key PTFCQKGWYBOVAJRNEXULHZSIDM
+Cipher Text Noised Lwpl Y lwxjo yu swpl lwq Qhxrnqpj Npxvypaqjl wpu pfwyqzqc 
+
+.....10.0%.........20.0%......30.0%.......40.0%.......50.0%..........60.0%........70.0%.........80.0%.......90.0%......100.0%
+1 BEST:  1971.21433095 That I thonk is what the Efourean Raoliament has achieved 
+
+End Time 2015-12-10 16:53:21.045418
+Duration 0:01:10.229707
+Length, Accuracy, Duration, 59 , 0.875 , 0:01:10.229718
+Baseline Accuracy:  0.0416666666667
+Average Accuracy of Baseline:  0.0772130266181
+Solver Accuracy:  0.875
+Average Accuracy of Solver:  0.561373206035
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1]
+============================
+Iteration  93
+Length  33
+Start Time 2015-12-10 16:53:21.045556
+Original Text Ill get myself a wealthy manapos
+
+Original Text Noised Mll get myself a dealthy manapos
+
+Key KVHIFSBZWCRPTAGQLDONUXYMEJ
+Cipher Text Noised Tpp bfn teofps k ifkpnze tkakqgo
+
+......10.0%.......20.0%......30.0%......40.0%......50.0%.........60.0%......70.0%......80.0%.....90.0%......100.0%
+1 BEST:  965.055108257 Fll his family e tielsoa feredum
+
+End Time 2015-12-10 16:53:51.760678
+Duration 0:00:30.715139
+Length, Accuracy, Duration, 33 , 0.192307692308 , 0:00:30.715149
+Baseline Accuracy:  0.0384615384615
+Average Accuracy of Baseline:  0.0767963439497
+Solver Accuracy:  0.192307692308
+Average Accuracy of Solver:  0.557404759651
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  94
+Length  40
+Start Time 2015-12-10 16:53:51.760829
+Original Text That is the main source of information 
+
+Original Text Noised Tsat is the main source of inforvation 
+
+Key RLDSOFPWQMKZVYXNETJCBHIAUG
+Cipher Text Noised Cjrc qj cwo vrqy jxbtdo xf qyfxthrcqxy 
+
+......10.0%.......20.0%......30.0%.....40.0%........50.0%.......60.0%..........70.0%....80.0%.......90.0%.........100.0%
+1 BEST:  1177.63337512 Apea sp and best policd of stfoireasot 
+
+End Time 2015-12-10 16:54:34.029193
+Duration 0:00:42.268381
+Length, Accuracy, Duration, 40 , 0.258064516129 , 0:00:42.268391
+Baseline Accuracy:  0.0322580645161
+Average Accuracy of Baseline:  0.0763225324664
+Solver Accuracy:  0.258064516129
+Average Accuracy of Solver:  0.554220288975
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  95
+Length  62
+Start Time 2015-12-10 16:54:34.029369
+Original Text I walked about the streets alone with no problems whatsoever 
+
+Original Text Noised H qalked about the streets blone with no probjems whatsoever 
+
+Key HJYTDUCMAKZEVOBRQXPIFWGSNL
+Cipher Text Noised M qhezdt hjbfi imd pixddip jebod gaim ob rxbjkdvp gmhipbdwdx 
+
+.......10.0%.......20.0%...........30.0%.......40.0%.......50.0%......60.0%........70.0%......80.0%......90.0%.........100.0%
+1 BEST:  1995.95379513 H calked about the streets blone with no probyems whatsoever 
+
+End Time 2015-12-10 16:55:19.138172
+Duration 0:00:45.108821
+Length, Accuracy, Duration, 62 , 1.0 , 0:00:45.108832
+Baseline Accuracy:  0.0625
+Average Accuracy of Baseline:  0.0761770321246
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.558912706986
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  96
+Length  64
+Start Time 2015-12-10 16:55:19.138362
+Original Text That applies particularly to the byproducts of meat processing 
+
+Original Text Noised That jppgies particllarly to the bjprqducts of meat processing 
+
+Key EJWHBYRFMCPIZQDTUGNSKALXOV
+Cipher Text Noised Sfes cttrmbn tegsmwiiegio sd sfb jctguhkwsn dy zbes tgdwbnnmqr 
+
+.......10.0%.....20.0%........30.0%.........40.0%......50.0%.........60.0%..........70.0%.......80.0%.......90.0%.....100.0%
+1 BEST:  1620.39951202 Onao usspred satoriccatcw oh one bustylviod hf meao sthieddrgp 
+
+End Time 2015-12-10 16:56:00.020383
+Duration 0:00:40.882036
+Length, Accuracy, Duration, 64 , 0.24 , 0:00:40.882045
+Baseline Accuracy:  0.02
+Average Accuracy of Baseline:  0.0755918547067
+Solver Accuracy:  0.24
+Average Accuracy of Solver:  0.555590699621
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  97
+Length  45
+Start Time 2015-12-10 16:56:00.020528
+Original Text They exist everywhere in the European Union 
+
+Original Text Noised They eiist everywhere in the European Union 
+
+Key CFRYANDIGVHEUSPXKOQJLZWBMT
+Cipher Text Noised Jiam aggqj azaomwiaoa gs jia Alopxacs Lsgps 
+
+.....10.0%.......20.0%.......30.0%........40.0%.....50.0%.......60.0%........70.0%.....80.0%......90.0%.....100.0%
+1 BEST:  1240.05887964 Them ennit eleampheae no the Ecagreso Congo 
+
+End Time 2015-12-10 16:56:22.578686
+Duration 0:00:22.558174
+Length, Accuracy, Duration, 45 , 0.432432432432 , 0:00:22.558184
+Baseline Accuracy:  0.027027027027
+Average Accuracy of Baseline:  0.0750911863801
+Solver Accuracy:  0.432432432432
+Average Accuracy of Solver:  0.554321026764
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  98
+Length  86
+Start Time 2015-12-10 16:56:22.578896
+Original Text It is important to note that there have been a number of other positive developments 
+
+Original Text Noised It is important to note that there nave been a mumber of otzeo positive developments 
+
+Key VADOFTNICYHLEZRQWXGPKSBJUM
+Cipher Text Noised Cp cg ceqrxpvzp pr zrpf pivp pifxf zvsf affz v ekeafx rt rpmfr qrgcpcsf ofsflrqefzpg 
+
+.......10.0%........20.0%.....30.0%.........40.0%......50.0%......60.0%.........70.0%.......80.0%......90.0%.......100.0%
+5 BEST:  3010.11924129 It is important to note that there nave been a mumber of otweo positive developments 
+
+End Time 2015-12-10 16:58:17.341372
+Duration 0:01:54.762542
+Length, Accuracy, Duration, 86 , 1.0 , 0:01:54.762562
+Baseline Accuracy:  0.134328358209
+Average Accuracy of Baseline:  0.0756956473171
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.558868771389
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5]
+============================
+Iteration  99
+Length  30
+Start Time 2015-12-10 16:58:17.341772
+Original Text First of all law enforcement 
+
+Original Text Noised First of all law enforcemjnt 
+
+Key YXZILBMOWURDTHSAJVGFECQPKN
+Cipher Text Noised Bwvgf sb ydd dyq lhbsvzltuhf 
+
+......10.0%......20.0%.......30.0%.....40.0%.....50.0%...........60.0%.......70.0%....80.0%......90.0%........100.0%
+1 BEST:  938.788341062 Thals it off for detianduces 
+
+End Time 2015-12-10 16:58:42.230498
+Duration 0:00:24.888744
+Length, Accuracy, Duration, 30 , 0.0416666666667 , 0:00:24.888755
+Baseline Accuracy:  0.0416666666667
+Average Accuracy of Baseline:  0.0753519202398
+Solver Accuracy:  0.0416666666667
+Average Accuracy of Solver:  0.553644507705
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1]
+============================
+Iteration  100
+Length  61
+Start Time 2015-12-10 16:58:42.230670
+Original Text Fortytwo million people are infected with AIDS in the world 
+
+Original Text Noised Fortytwo million people are infected with AIDS in the worrd 
+
+Key SJWGNAMBXYIDOPLTEHZFQKURCV
+Cipher Text Noised Alhfcful oxddxlp tnltdn shn xpanwfng uxfb SXGZ xp fbn ulhhg 
+
+.....10.0%.......20.0%.......30.0%.....40.0%......50.0%.......60.0%..............70.0%......80.0%......90.0%.......100.0%
+2 BEST:  2138.97816052 Fortutwo million people are infected with AIDS in the worrd 
+
+End Time 2015-12-10 16:59:24.685872
+Duration 0:00:42.455217
+Length, Accuracy, Duration, 61 , 0.98 , 0:00:42.455227
+Baseline Accuracy:  0.06
+Average Accuracy of Baseline:  0.0751984010374
+Solver Accuracy:  0.98
+Average Accuracy of Solver:  0.557908062628
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2]
+============================
+Iteration  101
+Length  41
+Start Time 2015-12-10 16:59:24.686018
+Original Text This also reduces the risk of infection 
+
+Original Text Noised Thqs alsh reduces tye rist of infection 
+
+Key SIAYNWMUHCZXORJQGDLVEKBPTF
+Cipher Text Noised Vugl sxlu dnyeanl vtn dhlv jw hrwnavhjr 
+
+......10.0%......20.0%........30.0%......40.0%.........50.0%........60.0%..........70.0%.....80.0%......90.0%......100.0%
+1 BEST:  1159.98252875 Tugs wisu learnes the lost my odyentomd 
+
+End Time 2015-12-10 16:59:52.706751
+Duration 0:00:28.020748
+Length, Accuracy, Duration, 41 , 0.4 , 0:00:28.020759
+Baseline Accuracy:  0.0333333333333
+Average Accuracy of Baseline:  0.0747838954166
+Solver Accuracy:  0.4
+Average Accuracy of Solver:  0.556344616463
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1]
+============================
+Iteration  102
+Length  53
+Start Time 2015-12-10 16:59:52.706912
+Original Text aposThe EU budget review Frequently Asked Questions 
+
+Original Text Noised aposThe EU budget raview Frequently Asked Qgestions 
+
+Key ZJWABUVNRSFTOPHMGECKQYILXD
+Cipher Text Noised zmhcKnb BQ jqavbk ezyrbi Uebgqbpktx Zcfba Gvbckrhpc 
+
+............10.0%............20.0%......30.0%...........40.0%.........50.0%...............60.0%......70.0%.......80.0%.....90.0%........100.0%
+1 BEST:  1316.65102147 abusRve EO wonder haplem Theioecryf Asken Idesrlucs 
+
+End Time 2015-12-10 17:00:10.593592
+Duration 0:00:17.886696
+Length, Accuracy, Duration, 53 , 0.363636363636 , 0:00:17.886706
+Baseline Accuracy:  0.0227272727273
+Average Accuracy of Baseline:  0.0742735363706
+Solver Accuracy:  0.363636363636
+Average Accuracy of Solver:  0.554455319867
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1]
+============================
+Iteration  103
+Length  41
+Start Time 2015-12-10 17:00:10.593747
+Original Text It is going to be a very difficult task 
+
+Original Text Noised It is goiwg to be g hezy difficult hask 
+
+Key ZMQXFVNKPWTSACROLHUJGIDYBE
+Cipher Text Noised Pj pu nrpdn jr mf n kfeb xpvvpqgsj kzut 
+
+......10.0%.......20.0%......30.0%.....40.0%........50.0%.......60.0%......70.0%.......80.0%...........90.0%...........100.0%
+1 BEST:  1411.49183142 It in amisa tm be a very difficult vonh 
+
+End Time 2015-12-10 17:01:45.149845
+Duration 0:01:34.556124
+Length, Accuracy, Duration, 41 , 0.703703703704 , 0:01:34.556143
+Baseline Accuracy:  0.037037037037
+Average Accuracy of Baseline:  0.0739120169596
+Solver Accuracy:  0.703703703704
+Average Accuracy of Solver:  0.555904333302
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1]
+============================
+Iteration  104
+Length  36
+Start Time 2015-12-10 17:01:45.150115
+Original Text This is not a theoretical question 
+
+Original Text Noised This is nyt a theoretical question 
+
+Key SAPGXIURKBWVEFCMOQDZLNHJTY
+Cipher Text Noised Zrkd kd ftz s zrxcqxzkpsv olxdzkcf 
+
+.......10.0%.....20.0%....30.0%.........40.0%......50.0%.....60.0%......70.0%......80.0%.....90.0%.....100.0%
+1 BEST:  1267.63611661 This is not a theldeticau prestiln 
+
+End Time 2015-12-10 17:02:51.775422
+Duration 0:01:06.625365
+Length, Accuracy, Duration, 36 , 0.793103448276 , 0:01:06.625375
+Baseline Accuracy:  0.0344827586207
+Average Accuracy of Baseline:  0.0735328894756
+Solver Accuracy:  0.793103448276
+Average Accuracy of Solver:  0.558185094023
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1]
+============================
+Iteration  105
+Length  35
+Start Time 2015-12-10 17:02:51.775625
+Original Text The road network cannot be beaten 
+
+Original Text Noised The road netwkrk cannot be beaten 
+
+Key CMVPKFRZOBAINSYJEQXUWHGTDL
+Cipher Text Noised Uzk qycp skugaqa vcssyu mk mkcuks 
+
+.....10.0%....20.0%.....30.0%......40.0%......50.0%.......60.0%.....70.0%.....80.0%.............90.0%.......100.0%
+1 BEST:  942.416815742 Nho read ponsiri cappen to toanop 
+
+End Time 2015-12-10 17:03:22.253976
+Duration 0:00:30.478367
+Length, Accuracy, Duration, 35 , 0.321428571429 , 0:00:30.478377
+Baseline Accuracy:  0.0357142857143
+Average Accuracy of Baseline:  0.0731727122969
+Solver Accuracy:  0.321428571429
+Average Accuracy of Solver:  0.555930269998
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1]
+============================
+Iteration  106
+Length  25
+Start Time 2015-12-10 17:03:22.254108
+Original Text This is an arduous task 
+
+Original Text Noised This is at ardkous task 
+
+Key TYBEULMGWVOJHPXDZCSFRNKQAI
+Cipher Text Noised Fgws ws tf tceoxrs ftso 
+
+.....10.0%....20.0%.....30.0%........40.0%........50.0%...........60.0%.......70.0%.......80.0%.........90.0%.....100.0%
+3 BEST:  833.94924688 This is at andrews tasr 
+
+End Time 2015-12-10 17:03:54.362206
+Duration 0:00:32.108115
+Length, Accuracy, Duration, 25 , 0.777777777778 , 0:00:32.108126
+Baseline Accuracy:  0.0555555555556
+Average Accuracy of Baseline:  0.073006512705
+Solver Accuracy:  0.777777777778
+Average Accuracy of Solver:  0.558023171015
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3]
+============================
+Iteration  107
+Length  41
+Start Time 2015-12-10 17:03:54.362361
+Original Text The theory is simpler than the practice 
+
+Original Text Noised Ghe theory is simpler than the practice 
+
+Key CVTSUXWQODHMGRZFYEBPINKAJL
+Cipher Text Noised Wqu pquzej ob bogfmue pqcr pqu fectpotu 
+
+.....10.0%.....20.0%.........30.0%.......40.0%........50.0%.......60.0%......70.0%.......80.0%......90.0%.....100.0%
+1 BEST:  1412.03735709 Whe theory is simpler than the practice 
+
+End Time 2015-12-10 17:04:35.538083
+Duration 0:00:41.175803
+Length, Accuracy, Duration, 41 , 1.0 , 0:00:41.175821
+Baseline Accuracy:  0.0606060606061
+Average Accuracy of Baseline:  0.0728906206293
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.562153795585
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1]
+============================
+Iteration  108
+Length  59
+Start Time 2015-12-10 17:04:35.538452
+Original Text These are the reasons why our group abstained in the vote 
+
+Original Text Noised These are the reasons why our group abstained cn the vote 
+
+Key TDBAKGMHUFYOCRLVZINXPWJSEQ
+Cipher Text Noised Xhknk tik xhk iktnlrn jhe lpi milpv tdnxturka br xhk wlxk 
+
+......10.0%......20.0%...........30.0%........40.0%......50.0%.......60.0%......70.0%......80.0%......90.0%......100.0%
+1 BEST:  2175.48970002 These are the reasons why our group alstakned in the vote 
+
+End Time 2015-12-10 17:06:02.099225
+Duration 0:01:26.560818
+Length, Accuracy, Duration, 59 , 0.957446808511 , 0:01:26.560847
+Baseline Accuracy:  0.0212765957447
+Average Accuracy of Baseline:  0.0724127129915
+Solver Accuracy:  0.957446808511
+Average Accuracy of Solver:  0.565813916075
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1]
+============================
+Iteration  109
+Length  37
+Start Time 2015-12-10 17:06:02.099621
+Original Text I am in favour of stronger measures 
+
+Original Text Noised I am sn favour of stronger measures 
+
+Key TPWGXIJDEZQNOYVMLKFRUHBSAC
+Cipher Text Noised E to fy ithvuk vi frkvyjxk oxtfukxf 
+
+.......10.0%.....20.0%.......30.0%......40.0%........50.0%......60.0%......70.0%.......80.0%...........90.0%.....100.0%
+1 BEST:  1060.23801602 A of us nolice in upeistre frouceru 
+
+End Time 2015-12-10 17:07:20.171282
+Duration 0:01:18.071740
+Length, Accuracy, Duration, 37 , 0.0344827586207 , 0:01:18.071759
+Baseline Accuracy:  0.0344827586207
+Average Accuracy of Baseline:  0.0720647317587
+Solver Accuracy:  0.0344827586207
+Average Accuracy of Solver:  0.5609393183
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1]
+============================
+Iteration  110
+Length  71
+Start Time 2015-12-10 17:07:20.174877
+Original Text I would also like to draw attention to the problem in the Middle East 
+
+Original Text Noised I would also lqke to draw attention to thd problem iv the Middle Iist 
+
+Key LXHWPZOQTGVEFSBUARIJYKMDNC
+Cipher Text Noised T mbyew leib eavp jb wrlm ljjpsjtbs jb jqw urbxepf tk jqp Ftwwep Ttij 
+
+......10.0%.......20.0%.........30.0%........40.0%.......50.0%.....60.0%.......70.0%.....80.0%............90.0%.......100.0%
+1 BEST:  2541.00972675 I would also lcke to draw attention to thd problem if the Middle Iist 
+
+End Time 2015-12-10 17:09:02.750037
+Duration 0:01:42.575283
+Length, Accuracy, Duration, 71 , 1.0 , 0:01:42.575302
+Baseline Accuracy:  0.0384615384615
+Average Accuracy of Baseline:  0.0717592481833
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.564930779043
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1]
+============================
+Iteration  111
+Length  23
+Start Time 2015-12-10 17:09:02.750388
+Original Text What then is the goal 
+
+Original Text Noised What then yk the goal 
+
+Key HMLZTUVWJFCPQYBODREGIXANSK
+Cipher Text Noised Awhg gwty sc gwt vbhp 
+
+.....10.0%.......20.0%......30.0%.....40.0%......50.0%.....60.0%.....70.0%.....80.0%.....90.0%.....100.0%
+1 BEST:  912.902687691 What they in the crap 
+
+End Time 2015-12-10 17:09:31.273762
+Duration 0:00:28.523390
+Length, Accuracy, Duration, 23 , 0.75 , 0:00:28.523400
+Baseline Accuracy:  0.1875
+Average Accuracy of Baseline:  0.0728019576591
+Solver Accuracy:  0.75
+Average Accuracy of Solver:  0.566598069322
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1]
+============================
+Iteration  112
+Length  51
+Start Time 2015-12-10 17:09:31.273927
+Original Text Financial services are a different kettle of fish 
+
+Original Text Noised Financial serzzces are a different kettle om fbsh 
+
+Key ACOYUSPQVGZNEDKWITFRXHBMJL
+Cipher Text Noised Svdadovan futllouf atu a yvssutudr zurrnu ke scfq 
+
+......10.0%......20.0%.....30.0%........40.0%.......50.0%.........60.0%.......70.0%.......80.0%.....90.0%.......100.0%
+1 BEST:  1466.29490585 Sinandiay cerlldec are a wisserent kettye of such 
+
+End Time 2015-12-10 17:10:15.641640
+Duration 0:00:44.367728
+Length, Accuracy, Duration, 51 , 0.692307692308 , 0:00:44.367739
+Baseline Accuracy:  0.025641025641
+Average Accuracy of Baseline:  0.072380877909
+Solver Accuracy:  0.692307692308
+Average Accuracy of Solver:  0.56772047667
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  113
+Length  30
+Start Time 2015-12-10 17:10:15.641777
+Original Text I believe they are unrelated 
+
+Original Text Noised I believe they are unrelated 
+
+Key ADRYJPTSVFXWCKOUQZLBHEGNIM
+Cipher Text Noised V djwvjej bsji azj hkzjwabjy 
+
+........10.0%..........20.0%.....30.0%.......40.0%..........50.0%........60.0%.......70.0%.....80.0%.....90.0%.......100.0%
+1 BEST:  825.053103962 I weriede thes one canerotel 
+
+End Time 2015-12-10 17:10:37.434134
+Duration 0:00:21.792372
+Length, Accuracy, Duration, 30 , 0.52 , 0:00:21.792382
+Baseline Accuracy:  0.04
+Average Accuracy of Baseline:  0.0720943214673
+Solver Accuracy:  0.52
+Average Accuracy of Solver:  0.567298171566
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  114
+Length  87
+Start Time 2015-12-10 17:10:37.434357
+Original Text It contributes significantly towards raising the standard of living of the population 
+
+Original Text Noised It cogtributes sigsificantly towardo raising the vtavdadd of living cf the popuyition 
+
+Key OKQTHCRMLFEDZWXGUSVJIAPBNY
+Cipher Text Noised Lj qxrjslkijhv vlrvlclqowjdn jxpostx solvlwr jmh ajoatott xc dlalwr qc jmh gxginljlxw 
+
+...........10.0%.....20.0%.........30.0%.......40.0%.......50.0%..........60.0%.....70.0%......80.0%.......90.0%......100.0%
+1 BEST:  2200.14650325 Es tinspecusyd dendevetowshl sigopmi poedewn say rsormomm iv herewn tv say fifuleseiw 
+
+End Time 2015-12-10 17:11:46.641848
+Duration 0:01:09.207567
+Length, Accuracy, Duration, 87 , 0.0454545454545 , 0:01:09.207586
+Baseline Accuracy:  0.0151515151515
+Average Accuracy of Baseline:  0.0715948231663
+Solver Accuracy:  0.0454545454545
+Average Accuracy of Solver:  0.562720595899
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  115
+Length  30
+Start Time 2015-12-10 17:11:46.642143
+Original Text This is patently a key point 
+
+Original Text Noised Tjis is patently a key point 
+
+Key JYAIOXQZRCLGWBKMDSPNFEHTUV
+Cipher Text Noised Ncrp rp mjnobngu j lou mkrbn 
+
+...........10.0%......20.0%........30.0%......40.0%.............50.0%.....60.0%..........70.0%......80.0%.....90.0%......100.0%
+1 BEST:  838.056877459 Stup up hasersiw a new hours 
+
+End Time 2015-12-10 17:12:34.967847
+Duration 0:00:48.325720
+Length, Accuracy, Duration, 30 , 0.260869565217 , 0:00:48.325730
+Baseline Accuracy:  0.0869565217391
+Average Accuracy of Baseline:  0.0717284031539
+Solver Accuracy:  0.260869565217
+Average Accuracy of Solver:  0.560095804328
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  116
+Length  24
+Start Time 2015-12-10 17:12:34.967988
+Original Text We are at a crossroads 
+
+Original Text Noised We are at a crosbroads 
+
+Key SZKQBFANGRUYTVLMJCXOHDPEWI
+Cipher Text Noised Pb scb so s kclxzclsqx 
+
+......10.0%.....20.0%.......30.0%.....40.0%......50.0%....60.0%........70.0%.....80.0%......90.0%.......100.0%
+2 BEST:  870.104971724 We are as a orithriant 
+
+End Time 2015-12-10 17:13:22.241822
+Duration 0:00:47.273849
+Length, Accuracy, Duration, 24 , 0.611111111111 , 0:00:47.273859
+Baseline Accuracy:  0.0555555555556
+Average Accuracy of Baseline:  0.0715889820539
+Solver Accuracy:  0.611111111111
+Average Accuracy of Solver:  0.560535591455
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2]
+============================
+Iteration  117
+Length  57
+Start Time 2015-12-10 17:13:22.241997
+Original Text This is for example the response as regards immigration 
+
+Original Text Noised This is fgr example the uesponse ae fegards immigkation 
+
+Key LHEIORBPKSDXTUYZNVJMFQCGAW
+Cipher Text Noised Mpkj kj rbv ogltzxo mpo fojzyujo lo roblvij kttkbdlmkyu 
+
+.......10.0%.......20.0%........30.0%...........40.0%......50.0%........60.0%...............70.0%......80.0%.......90.0%......100.0%
+1 BEST:  1585.90890962 This is gon emulaye the besackse ue geounds illiorutick 
+
+End Time 2015-12-10 17:14:25.085140
+Duration 0:01:02.843160
+Length, Accuracy, Duration, 57 , 0.53488372093 , 0:01:02.843171
+Baseline Accuracy:  0.162790697674
+Average Accuracy of Baseline:  0.0723684838968
+Solver Accuracy:  0.53488372093
+Average Accuracy of Solver:  0.560316344699
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1]
+============================
+Iteration  118
+Length  39
+Start Time 2015-12-10 17:14:25.085290
+Original Text No that is certainly not the solution 
+
+Original Text Noised No that is certainly not the solution 
+
+Key YWMSCNAIKHUOVDRPXLBJZEFTQG
+Cipher Text Noised Dr jiyj kb mcljykdoq drj jic brozjkrd 
+
+.......10.0%.....20.0%......30.0%.....40.0%.........50.0%..........60.0%......70.0%.........80.0%.....90.0%.....100.0%
+1 BEST:  1544.60892633 No that is certainly not the solution 
+
+End Time 2015-12-10 17:15:16.154851
+Duration 0:00:51.069577
+Length, Accuracy, Duration, 39 , 1.0 , 0:00:51.069587
+Baseline Accuracy:  0.15625
+Average Accuracy of Baseline:  0.0730793442028
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.564042477371
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]
+============================
+Iteration  119
+Length  63
+Start Time 2015-12-10 17:15:16.155070
+Original Text I look forward to more results in the weeks immediately ahead 
+
+Original Text Noised O look ffrward tg more results in tqe weeks immedxately zhead 
+
+Key QMWHCDSIPJGETYZVNXRULFABKO
+Cipher Text Noised Z ezzg ddxaqxh us tzxc xcrleur py unc accgr pttchbqucek oicqh 
+
+......10.0%.......20.0%.......30.0%..............40.0%......50.0%......60.0%......70.0%.......80.0%......90.0%.......100.0%
+1 BEST:  1900.91063502 O look ffrward tv more results in the weeks immedgatelc byead 
+
+End Time 2015-12-10 17:16:17.114319
+Duration 0:01:00.959265
+Length, Accuracy, Duration, 63 , 0.95652173913 , 0:01:00.959275
+Baseline Accuracy:  0.0217391304348
+Average Accuracy of Baseline:  0.072647913835
+Solver Accuracy:  0.95652173913
+Average Accuracy of Solver:  0.567340622427
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1]
+============================
+Iteration  120
+Length  45
+Start Time 2015-12-10 17:16:17.114481
+Original Text The Israelis must also go back to the table 
+
+Original Text Noised Qhe Israelis must aljo ao bace to the table 
+
+Key RSPXHWMKIAFZUNJLQEBCVOTGYD
+Cipher Text Noised Qkh Iberhzib uvbc rzaj rj srph cj ckh crszh 
+
+...........10.0%......20.0%.....30.0%.....40.0%......50.0%........60.0%.......70.0%.......80.0%.....90.0%.....100.0%
+1 BEST:  1295.49408482 Une Hadiesha prao islf if time of one oitse 
+
+End Time 2015-12-10 17:17:17.508839
+Duration 0:01:00.394424
+Length, Accuracy, Duration, 45 , 0.15625 , 0:01:00.394443
+Baseline Accuracy:  0.03125
+Average Accuracy of Baseline:  0.0723029312197
+Solver Accuracy:  0.15625
+Average Accuracy of Solver:  0.56391486724
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1]
+============================
+Iteration  121
+Length  45
+Start Time 2015-12-10 17:17:17.509099
+Original Text the introduction of maximum rates of profit 
+
+Original Text Noised the introduction of maximum rates of profit 
+
+Key ELDHIRXJWGPBSTZAMVNFYKCOUQ
+Cipher Text Noised fji wtfvzhydfwzt zr seowsys vefin zr avzrwf 
+
+......10.0%.....20.0%......30.0%.............40.0%.....50.0%......60.0%.....70.0%........80.0%.........90.0%.....100.0%
+1 BEST:  1157.81308864 evl thecourgetoh of aintara cield of scofte 
+
+End Time 2015-12-10 17:17:54.602569
+Duration 0:00:37.093487
+Length, Accuracy, Duration, 45 , 0.236842105263 , 0:00:37.093497
+Baseline Accuracy:  0.0263157894737
+Average Accuracy of Baseline:  0.071922872197
+Solver Accuracy:  0.236842105263
+Average Accuracy of Solver:  0.561211786563
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]
+============================
+Iteration  122
+Length  28
+Start Time 2015-12-10 17:17:54.602749
+Original Text We faced a great challenge 
+
+Original Text Noised We faced a grebt challtnge 
+
+Key EIBFCLXDMVGQRKWUYOTHPNZJAS
+Cipher Text Noised Zc lebcf e xocih bdeqqhkxc 
+
+.....10.0%.....20.0%......30.0%......40.0%.....50.0%.......60.0%......70.0%.............80.0%.......90.0%......100.0%
+1 BEST:  849.46813224 Un baing a month icasshemn 
+
+End Time 2015-12-10 17:18:25.825553
+Duration 0:00:31.222821
+Length, Accuracy, Duration, 28 , 0.190476190476 , 0:00:31.222831
+Baseline Accuracy:  0.047619047619
+Average Accuracy of Baseline:  0.0717236605201
+Solver Accuracy:  0.190476190476
+Average Accuracy of Solver:  0.558172970202
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  123
+Length  78
+Start Time 2015-12-10 17:18:25.825780
+Original Text We still believe that political leaders are responsible for making decisions 
+
+Original Text Noised We still believe txat politicgo leaders are responsible for xakimg deciiiona 
+
+Key NTCJDBUIPMQRHOXVEAKGSWLFZY
+Cipher Text Noised Ld kgprr tdrpdwd gfng vxrpgpcux rdnjdak nad adkvxokptrd bxa fnqphu jdcpppxon 
+
+.......10.0%...........20.0%.........30.0%.....40.0%.....50.0%.......60.0%.......70.0%..........80.0%...............90.0%......100.0%
+3 BEST:  2499.09682093 We still believe that politicuo leaders are responsible for hamigu deciiiona 
+
+End Time 2015-12-10 17:19:36.891468
+Duration 0:01:11.065751
+Length, Accuracy, Duration, 78 , 0.966666666667 , 0:01:11.065769
+Baseline Accuracy:  0.183333333333
+Average Accuracy of Baseline:  0.072631056234
+Solver Accuracy:  0.966666666667
+Average Accuracy of Solver:  0.561494057165
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3]
+============================
+Iteration  124
+Length  25
+Start Time 2015-12-10 17:19:36.891707
+Original Text Where does it come from 
+
+Original Text Noised Where does it come from 
+
+Key ZMKSTBUAJNGLOPRIWQVFHYEXCD
+Cipher Text Noised Eatqt srtv jf krot bqro 
+
+........10.0%......20.0%.....30.0%.....40.0%.......50.0%........60.0%........70.0%......80.0%.....90.0%.....100.0%
+1 BEST:  810.585599796 Where boen at some from 
+
+End Time 2015-12-10 17:20:07.498933
+Duration 0:00:30.607247
+Length, Accuracy, Duration, 25 , 0.8 , 0:00:30.607261
+Baseline Accuracy:  0.05
+Average Accuracy of Baseline:  0.072448547716
+Solver Accuracy:  0.8
+Average Accuracy of Solver:  0.563417492188
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1]
+============================
+Iteration  125
+Length  68
+Start Time 2015-12-10 17:20:07.499189
+Original Text Haiti will also be on the agenda of the summit for obvious reasons 
+
+Original Text Noised Haiti will also be on the agwndj of the summit for obviius reasons 
+
+Key JFQATMHWUIVDKELOSBPCXGRYNZ
+Cipher Text Noised Wjucu rudd jdpl ft le cwt jhreai lm cwt pxkkuc mlb lfguuxp btjplep 
+
+.....10.0%.........20.0%.........30.0%.......40.0%.....50.0%......60.0%......70.0%......80.0%.......90.0%.......100.0%
+1 BEST:  2352.31152375 Haiti will also be on the agwncy of the summit for obviius reasons 
+
+End Time 2015-12-10 17:22:56.028012
+Duration 0:02:48.528899
+Length, Accuracy, Duration, 68 , 0.980769230769 , 0:02:48.528912
+Baseline Accuracy:  0.0192307692308
+Average Accuracy of Baseline:  0.0720228054881
+Solver Accuracy:  0.980769230769
+Average Accuracy of Solver:  0.566756306096
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1]
+============================
+Iteration  126
+Length  78
+Start Time 2015-12-10 17:22:56.028317
+Original Text If this is not the case it could threaten the stability of the entire region 
+
+Original Text Noised If this is not the case it could threaten the stapility of the entire region 
+
+Key OVJZHUAMEFXGLIRSQKCBWNDYPT
+Cipher Text Noised Eu bmec ec irb bmh joch eb jrwgz bmkhobhi bmh cbosegebp ru bmh hibekh khaeri 
+
+......10.0%......20.0%........30.0%.....40.0%.....50.0%......60.0%......70.0%......80.0%.......90.0%...........100.0%
+2 BEST:  3269.59671223 If this is not the case it could threaten the stability of the entire region 
+
+End Time 2015-12-10 17:24:53.175877
+Duration 0:01:57.147575
+Length, Accuracy, Duration, 78 , 1.0 , 0:01:57.147590
+Baseline Accuracy:  0.0161290322581
+Average Accuracy of Baseline:  0.0715792041133
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.570194748111
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2]
+============================
+Iteration  127
+Length  97
+Start Time 2015-12-10 17:24:53.176119
+Original Text The Commission has a long and healthy tradition of interaction with civil society organisations 
+
+Original Text Noised The Commission hat a long and healthy tradition of interactiln with civil society yhganisations 
+
+Key NCTSMOBXUVZFKPRILAWGYEQJDH
+Cipher Text Noised Gxm Trkkuwwurp xng n frpb nps xmnfgxd gansugurp ro upgmantgufp qugx tueuf wrtumgd dxbnpuwngurpw 
+
+............10.0%........20.0%.......30.0%..........40.0%.......50.0%..........60.0%........70.0%........80.0%......90.0%.......100.0%
+7 BEST:  3259.47184562 The Commission hat a long and healthy tradition of interactiln with civil society yhganisations 
+
+End Time 2015-12-10 17:26:49.555861
+Duration 0:01:56.379818
+Length, Accuracy, Duration, 97 , 1.0 , 0:01:56.379843
+Baseline Accuracy:  0.0126582278481
+Average Accuracy of Baseline:  0.0711152594183
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.573579041433
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7]
+============================
+Iteration  128
+Length  108
+Start Time 2015-12-10 17:26:49.556298
+Original Text  We are pleased that our proposal found agreement and has enjoyed the support of every Parliamentary group 
+
+Original Text Noised  Wh are pleased that our proposal ztund agreemsnt and ham enjoyed the support of everb Pafliamehtary grdup 
+
+Key LARWQPOKGUTIXZFYMJBVDHNSCE
+Cipher Text Noised  Nk ljq yiqlbqw vklv fdj yjfyfbli evdzw lojqqxbzv lzw klx qzufcqw vkq bdyyfjv fp qhqja Ylpiglxqkvljc ojwdy 
+
+......10.0%............20.0%........30.0%.......40.0%.........50.0%.......60.0%...........70.0%........80.0%......90.0%...........100.0%
+1 BEST:  2756.81099982  Wm are cheated smas ior cricitah usold afreentls ald man elpiked sme toccirs ig every Caghbanemsark frdoc 
+
+End Time 2015-12-10 17:28:46.262798
+Duration 0:01:56.706577
+Length, Accuracy, Duration, 108 , 0.444444444444 , 0:01:56.706596
+Baseline Accuracy:  0.296296296296
+Average Accuracy of Baseline:  0.0728744862689
+Solver Accuracy:  0.444444444444
+Average Accuracy of Solver:  0.572570177394
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1]
+============================
+Iteration  129
+Length  51
+Start Time 2015-12-10 17:28:46.263115
+Original Text They are less expensive than judicial proceedings 
+
+Original Text Noised They are less expewsive than judicial proceedings 
+
+Key TMWXSJEHPZFLOIYRDBUAGNVQKC
+Cipher Text Noised Ahsk tbs lsuu sqrsvupns ahti zgxpwptl rbywssxpieu 
+
+..........10.0%.......20.0%......30.0%.............40.0%.......50.0%.....60.0%......70.0%.........80.0%.......90.0%.....100.0%
+1 BEST:  1480.05912442 They are well edgeplife than busimiaw gromeesincl 
+
+End Time 2015-12-10 17:29:18.316841
+Duration 0:00:32.053743
+Length, Accuracy, Duration, 51 , 0.627906976744 , 0:00:32.053754
+Baseline Accuracy:  0.0232558139535
+Average Accuracy of Baseline:  0.0724898453982
+Solver Accuracy:  0.627906976744
+Average Accuracy of Solver:  0.572999144831
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1]
+============================
+Iteration  130
+Length  41
+Start Time 2015-12-10 17:29:18.317005
+Original Text I would support you one hundred percent 
+
+Original Text Noised I would support you one hunqred percedt 
+
+Key KESWBLIRYDZAJFPMUQGNCTXOVH
+Cipher Text Noised Y xpcaw gcmmpqn vpc pfb rcfuqbw mbqsbwn 
+
+.......10.0%......20.0%.......30.0%..............40.0%.......50.0%.....60.0%.......70.0%.........80.0%......90.0%.......100.0%
+1 BEST:  1069.6960046 A boils hittory foi one wingres tercesy 
+
+End Time 2015-12-10 17:29:55.073873
+Duration 0:00:36.756940
+Length, Accuracy, Duration, 41 , 0.5 , 0:00:36.756958
+Baseline Accuracy:  0.15625
+Average Accuracy of Baseline:  0.0731341542798
+Solver Accuracy:  0.5
+Average Accuracy of Solver:  0.572437612948
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1]
+============================
+Iteration  131
+Length  55
+Start Time 2015-12-10 17:29:55.074182
+Original Text We cannot continue to close our eyes to these matters 
+
+Original Text Noised We canntb continue ao close owr ekcs to these mxtters 
+
+Key MWQZUODFGSRJCLYKVEBHNTIXAP
+Cipher Text Noised Iu qmllhw qylhglnu my qjybu yie urqb hy hfubu cxhhueb 
+
+.......10.0%......20.0%.......30.0%.........40.0%......50.0%.....60.0%.........70.0%......80.0%.....90.0%......100.0%
+1 BEST:  1533.69819926 Fe crnntm continge ro close ofd eacs to these butteds 
+
+End Time 2015-12-10 17:31:04.833088
+Duration 0:01:09.758969
+Length, Accuracy, Duration, 55 , 0.842105263158 , 0:01:09.758987
+Baseline Accuracy:  0.0263157894737
+Average Accuracy of Baseline:  0.072776762182
+Solver Accuracy:  0.842105263158
+Average Accuracy of Solver:  0.574496144629
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1]
+============================
+Iteration  132
+Length  27
+Start Time 2015-12-10 17:31:04.833374
+Original Text That is a different story 
+
+Original Text Noised That js a different story 
+
+Key GRSXBDQTEZOMKVJNWUFLIHPCYA
+Cipher Text Noised Ltgl zf g xeddbubvl fljuy 
+
+.....10.0%......20.0%........30.0%......40.0%.....50.0%.....60.0%.....70.0%......80.0%.....90.0%........100.0%
+1 BEST:  890.38334715 That is a forrenedt stung 
+
+End Time 2015-12-10 17:31:46.767310
+Duration 0:00:41.933965
+Length, Accuracy, Duration, 27 , 0.571428571429 , 0:00:41.933978
+Baseline Accuracy:  0.0952380952381
+Average Accuracy of Baseline:  0.0729469237961
+Solver Accuracy:  0.571428571429
+Average Accuracy of Solver:  0.574472905438
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1]
+============================
+Iteration  133
+Length  44
+Start Time 2015-12-10 17:31:46.767506
+Original Text He was not given any democratic legitimacy 
+
+Original Text Noised He was not given any democratic legitimacy 
+
+Key UGXKWAFYSBMZRETJCNQIVDPOHL
+Cipher Text Noised Yw puq eti fsdwe ueh kwrtxnuisx zwfsisruxh 
+
+...........10.0%.........20.0%......30.0%........40.0%......50.0%......60.0%...........70.0%......80.0%.......90.0%..........100.0%
+1 BEST:  1459.70138831 Fe was not given and hecoulatiu regiticaud 
+
+End Time 2015-12-10 17:32:51.326381
+Duration 0:01:04.558892
+Length, Accuracy, Duration, 44 , 0.702702702703 , 0:01:04.558903
+Baseline Accuracy:  0.027027027027
+Average Accuracy of Baseline:  0.0726016614144
+Solver Accuracy:  0.702702702703
+Average Accuracy of Solver:  0.575437039252
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  134
+Length  104
+Start Time 2015-12-10 17:32:51.326670
+Original Text I understand that the aim is to exclude legal entities operating in the territories occupied by Israel 
+
+Original Text Noised I understand that the aim is to exclude legal vntities operating in lhe territorees occupied by Israel 
+
+Key XFLZIUNVSQTRGMWYAOHCKDEPJB
+Cipher Text Noised S kmziohcxmz cvxc cvi xsg sh cw iplrkzi rinxr dmcscsih wyioxcsmn sm rvi ciooscwoiih wllkysiz fj Shoxir 
+
+.........10.0%......20.0%.....30.0%.......40.0%........50.0%.......60.0%.......70.0%......80.0%......90.0%.........100.0%
+1 BEST:  3348.0816798 I understand that the aim is to exclude legal wntities operating in lhe territorees occupied by Israel 
+
+End Time 2015-12-10 17:34:53.597753
+Duration 0:02:02.271150
+Length, Accuracy, Duration, 104 , 1.0 , 0:02:02.271169
+Baseline Accuracy:  0.0714285714286
+Average Accuracy of Baseline:  0.0725929070115
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.578605419556
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  135
+Length  38
+Start Time 2015-12-10 17:34:53.598043
+Original Text Look at the World Trade Organisation 
+
+Original Text Noised Look at the Worle Trate Xrganisation 
+
+Key NSAJHGIMXDQTOEYCUPKBVLZRFW
+Cipher Text Noised Tyyq nb bmh Zypth Bpnbh Rpinexknbxye 
+
+.....10.0%.......20.0%........30.0%......40.0%.....50.0%.......60.0%......70.0%.....80.0%.........90.0%.....100.0%
+1 BEST:  1269.70652631 Cook at the Force Trate Ursalinatiol 
+
+End Time 2015-12-10 17:35:22.491543
+Duration 0:00:28.893517
+Length, Accuracy, Duration, 38 , 0.758620689655 , 0:00:28.893527
+Baseline Accuracy:  0.0344827586207
+Average Accuracy of Baseline:  0.072310609616
+Solver Accuracy:  0.758620689655
+Average Accuracy of Solver:  0.579938866001
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  136
+Length  62
+Start Time 2015-12-10 17:35:22.491727
+Original Text They rightly focus on children and adolescents in particular 
+
+Original Text Noised Ohey rightly focut on children and adolescents in particular 
+
+Key BLKNYQSAHDWTCPGVRIOJXFEZMU
+Cipher Text Noised Gaym ihsajtm qgkxj gp kahtniyp bpn bngtyokypjo hp vbijhkxtbi 
+
+.....10.0%.....20.0%........30.0%..........40.0%......50.0%.......60.0%......70.0%...........80.0%......90.0%....100.0%
+1 BEST:  2014.35766584 Ohey rightly focut on children and adolescents in particular 
+
+End Time 2015-12-10 17:36:14.381696
+Duration 0:00:51.890036
+Length, Accuracy, Duration, 62 , 1.0 , 0:00:51.890054
+Baseline Accuracy:  0.0196078431373
+Average Accuracy of Baseline:  0.0719230892743
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.58302755081
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  137
+Length  46
+Start Time 2015-12-10 17:36:14.382008
+Original Text The sustainable tourism report was excellent 
+
+Original Text Noised The sustainaple tourism report was excellent 
+
+Key LWNKQSDRCAFPYJIGXOBZUEMHVT
+Cipher Text Noised Zrq bubzlcjlgpq ziuocby oqgioz mlb qhnqppqjz 
+
+......10.0%........20.0%.....30.0%.............40.0%.....50.0%.....60.0%.....70.0%.............80.0%......90.0%......100.0%
+1 BEST:  1201.26256608 The nuntailapse tourinf report can edgesselt 
+
+End Time 2015-12-10 17:36:33.465354
+Duration 0:00:19.083361
+Length, Accuracy, Duration, 46 , 0.666666666667 , 0:00:19.083371
+Baseline Accuracy:  0.0769230769231
+Average Accuracy of Baseline:  0.0719595855345
+Solver Accuracy:  0.666666666667
+Average Accuracy of Solver:  0.583638055305
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  138
+Length  38
+Start Time 2015-12-10 17:36:33.465509
+Original Text We have weighed up the pros and cons 
+
+Original Text Noised We have wdighed up the pros and cons 
+
+Key WBNFIMPJLAEUHDZOKTCSVQYXRG
+Cipher Text Noised Yi jwqi yflpjif vo sji otzc wdf nzdc 
+
+........10.0%.....20.0%.......30.0%......40.0%......50.0%.......60.0%........70.0%......80.0%......90.0%........100.0%
+1 BEST:  1212.58488775 Be have bursheu ic the cold anu flnd 
+
+End Time 2015-12-10 17:37:31.551007
+Duration 0:00:58.085676
+Length, Accuracy, Duration, 38 , 0.48275862069 , 0:00:58.085697
+Baseline Accuracy:  0.103448275862
+Average Accuracy of Baseline:  0.0721877644499
+Solver Accuracy:  0.48275862069
+Average Accuracy of Solver:  0.58290704491
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  139
+Length  32
+Start Time 2015-12-10 17:37:31.551425
+Original Text guarantee of immigrants rights 
+
+Original Text Noised guarantee gf immlgrants rights 
+
+Key AMGIBEKPFORCYHDTSVXZQNWLJU
+Cipher Text Noised kqavahzbb ke fyyckvahzx vfkpzx 
+
+......10.0%.....20.0%.....30.0%..........40.0%......50.0%....60.0%.....70.0%......80.0%.....90.0%.....100.0%
+1 BEST:  825.357651736 iseterann if hooliterad thicad 
+
+End Time 2015-12-10 17:37:40.719579
+Duration 0:00:09.168177
+Length, Accuracy, Duration, 32 , 0.0769230769231 , 0:00:09.168191
+Baseline Accuracy:  0.0769230769231
+Average Accuracy of Baseline:  0.0722218314461
+Solver Accuracy:  0.0769230769231
+Average Accuracy of Solver:  0.579266872478
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  140
+Length  20
+Start Time 2015-12-10 17:37:40.719738
+Original Text We have tried that 
+
+Original Text Noised We have trixd that 
+
+Key PZCKYELIOXVMJUQGBNTWADSFRH
+Cipher Text Noised Sy ipdy wnofk wipw 
+
+......10.0%......20.0%....30.0%.....40.0%.....50.0%....60.0%.....70.0%......80.0%.....90.0%.....100.0%
+1 BEST:  617.990897084 Id hard toney that 
+
+End Time 2015-12-10 17:37:52.840873
+Duration 0:00:12.121157
+Length, Accuracy, Duration, 20 , 0.533333333333 , 0:00:12.121174
+Baseline Accuracy:  0.0666666666667
+Average Accuracy of Baseline:  0.0721821516977
+Solver Accuracy:  0.533333333333
+Average Accuracy of Solver:  0.57893877577
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+============================
+Iteration  141
+Length  93
+Start Time 2015-12-10 17:37:52.841162
+Original Text A year and a half ago biofuels were still a miracle aid in the fight against global warming 
+
+Original Text Noised A year and a half ago biofuels were stinl a mirahle aim zn the fighx against global warming 
+
+Key UKHBDOWNLPRFSMGYICETXZJAVQ
+Cipher Text Noised U vduc umb u nufo uwg klgoxdfe jdcd etlmf u slcunfd uls qm tnd olwna uwulmet wfgkuf jucslmw 
+
+......10.0%.......20.0%......30.0%.......40.0%........50.0%........60.0%......70.0%.......80.0%........90.0%.....100.0%
+4 BEST:  3048.47630352 A year and a half ago biofuels were stinl a mirahle aim cn the fighp against global warming 
+
+End Time 2015-12-10 17:40:09.106671
+Duration 0:02:16.265583
+Length, Accuracy, Duration, 93 , 1.0 , 0:02:16.265602
+Baseline Accuracy:  0.0571428571429
+Average Accuracy of Baseline:  0.0720754900342
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.581925025587
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4]
+============================
+Iteration  142
+Length  48
+Start Time 2015-12-10 17:40:09.106995
+Original Text Secondly the relationship between TV and sport 
+
+Original Text Noised Secgndly the relationship beaween TV and sport 
+
+Key RVFUBXCMIGONHSKTLZWQAYJPED
+Cipher Text Noised Wbfcsune qmb zbnrqikswmit vbrjbbs QY rsu wtkzq 
+
+.......10.0%..............20.0%.....30.0%.......40.0%......50.0%.............60.0%...........70.0%......80.0%.......90.0%......100.0%
+1 BEST:  1303.15714658 Telindrf sue werascontuch beameen SP and thows 
+
+End Time 2015-12-10 17:41:00.743024
+Duration 0:00:51.636046
+Length, Accuracy, Duration, 48 , 0.461538461538 , 0:00:51.636057
+Baseline Accuracy:  0.025641025641
+Average Accuracy of Baseline:  0.0717484867638
+Solver Accuracy:  0.461538461538
+Average Accuracy of Solver:  0.581077232882
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1]
+============================
+Iteration  143
+Length  60
+Start Time 2015-12-10 17:41:00.743232
+Original Text Despite all the difficulties thus far it has been observed 
+
+Original Text Noised Despite all the dgfficulties thus far it has been observed 
+
+Key YXOBVPACLQKFRHUTISNWGDZEMJ
+Cipher Text Noised Bvntlwv yff wcv bapplogfwlvn wcgn pys lw cyn xvvh uxnvsdvb 
+
+........10.0%.....20.0%........30.0%........40.0%......50.0%........60.0%.........70.0%......80.0%......90.0%......100.0%
+2 BEST:  2092.87719791 Despite all the dyfficulties thus far it has been observed 
+
+End Time 2015-12-10 17:42:21.545965
+Duration 0:01:20.802798
+Length, Accuracy, Duration, 60 , 1.0 , 0:01:20.802816
+Baseline Accuracy:  0.0204081632653
+Average Accuracy of Baseline:  0.0713894635225
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.584006762722
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2]
+============================
+Iteration  144
+Length  28
+Start Time 2015-12-10 17:42:21.546220
+Original Text Stimulating Internet access
+
+Original Text Noised Stimulating Internet access
+
+Key WJYFDUSLHQXOTKMZEAGNCRIBVP
+Cipher Text Noised Gnhtcownhks Hkndakdn wyydgg
+
+.....10.0%.......20.0%......30.0%......40.0%........50.0%.....60.0%......70.0%......80.0%....90.0%.......100.0%
+1 BEST:  768.815250676 Intherantod Tonsposn allsii
+
+End Time 2015-12-10 17:44:37.137157
+Duration 0:02:15.591035
+Length, Accuracy, Duration, 28 , 0.115384615385 , 0:02:15.591064
+Baseline Accuracy:  0.0384615384615
+Average Accuracy of Baseline:  0.0711607973763
+Solver Accuracy:  0.115384615385
+Average Accuracy of Solver:  0.580752442255
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1]
+============================
+Iteration  145
+Length  74
+Start Time 2015-12-10 17:44:37.137637
+Original Text One should not conclude from this however that others are not interested 
+
+Original Text Noised One should not cnnclude from thvs however rhat mthers are non interested 
+
+Key ZLJOSVBDMGTRKPHYWNEQAXCIFU
+Cipher Text Noised Hps edharo phq jppjraos vnhk qdxe dhcsxsn ndzq kqdsne zns php mpqsnseqso 
+
+.........10.0%.........20.0%.............30.0%.......40.0%.........50.0%.......60.0%.......70.0%.........80.0%.......90.0%.......100.0%
+1 BEST:  1833.43367758 Not handle onr poopldet wing rash anctsti iabr gratih bit ono fortithrte 
+
+End Time 2015-12-10 17:45:44.875390
+Duration 0:01:07.737775
+Length, Accuracy, Duration, 74 , 0.0526315789474 , 0:01:07.737786
+Baseline Accuracy:  0.350877192982
+Average Accuracy of Baseline:  0.0730898759667
+Solver Accuracy:  0.0526315789474
+Average Accuracy of Solver:  0.577110229404
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1]
+============================
+Iteration  146
+Length  71
+Start Time 2015-12-10 17:45:44.875650
+Original Text Over recent years this type of work has increased in leaps and bounds 
+
+Original Text Noised Ovar recelt pears this type of work has increased in leaps and bouvds 
+
+Key YZSOXDWVGPQFMKCENHTLRBIAUJ
+Cipher Text Noised Cbyh hxsxfl exyht lvgt luex cd ichq vyt gkshxytxo gk fxyet yko zcrbot 
+
+........10.0%...........20.0%.......30.0%.....40.0%.....50.0%......60.0%..........70.0%.........80.0%.....90.0%.......100.0%
+1 BEST:  2320.34489412 Olar recebt pears this type of work has increased in beaps and moulds 
+
+End Time 2015-12-10 17:47:10.290045
+Duration 0:01:25.414494
+Length, Accuracy, Duration, 71 , 0.944444444444 , 0:01:25.414530
+Baseline Accuracy:  0.0185185185185
+Average Accuracy of Baseline:  0.0727160995458
+Solver Accuracy:  0.944444444444
+Average Accuracy of Solver:  0.579626217179
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1]
+============================
+Iteration  147
+Length  105
+Start Time 2015-12-10 17:47:10.290729
+Original Text There have been great strides forward in public opinion regarding the regulation of international trade 
+
+Original Text Noised There have been great strides forwjrq in fublic opinion regardilg the regulation of international trade 
+
+Key XVECANUBRLQYHKDTPJSOIWZMFG
+Cipher Text Noised Obaja bxwa vaak ujaxo sojrcas ndjzljp rk nivyre dtrkrdk jauxjcryu oba jauiyxordk dn rkoajkxordkxy ojxca 
+
+........10.0%......20.0%......30.0%.......40.0%..............50.0%......60.0%.......70.0%.........80.0%.......90.0%.....100.0%
+4 BEST:  3524.83136055 There have been great strides formyrw in fublic opinion regardilg the regulation of international trade 
+
+End Time 2015-12-10 17:48:46.334540
+Duration 0:01:36.043906
+Length, Accuracy, Duration, 105 , 0.988372093023 , 0:01:36.043937
+Baseline Accuracy:  0.0116279069767
+Average Accuracy of Baseline:  0.07230053361
+Solver Accuracy:  0.988372093023
+Average Accuracy of Solver:  0.582406801368
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 4]
+============================
+Iteration  148
+Length  72
+Start Time 2015-12-10 17:48:46.335146
+Original Text That is the only reason why I was able to vote in favour of the report 
+
+Original Text Noised Thvt is tle only reason why V was able to vote in navour of the report 
+
+Key BEYWCKZNGJHLTUOXDMRSFPIVAQ
+Cipher Text Noised Snps gr slc oula mcbrou ina P ibr belc so posc gu ubpofm ok snc mcxoms 
+
+........10.0%.....20.0%......30.0%......40.0%.....50.0%.......60.0%.......70.0%........80.0%......90.0%........100.0%
+2 BEST:  2859.59168283 Thvt is tle only reason why V was able to vote in navour of the report 
+
+End Time 2015-12-10 17:51:59.235205
+Duration 0:03:12.900248
+Length, Accuracy, Duration, 72 , 1.0 , 0:03:12.900296
+Baseline Accuracy:  0.0192307692308
+Average Accuracy of Baseline:  0.0719419541209
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.585228377035
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 4, 2]
+============================
+Iteration  149
+Length  40
+Start Time 2015-12-10 17:51:59.235895
+Original Text The European people have the final say 
+
+Original Text Noised The European people have the fiyal say 
+
+Key UEKQOINZJFPSTCAXMBLRHWDYGV
+Cipher Text Noised Rzo Ohbaxouc xoaxso zuwo rzo ijgus lug 
+
+......10.0%.........20.0%......30.0%.......40.0%......50.0%.....60.0%.......70.0%.....80.0%.....90.0%............100.0%
+1 BEST:  1165.22271648 The Ecianels neande hlve the world flr 
+
+End Time 2015-12-10 17:52:40.564292
+Duration 0:00:41.328416
+Length, Accuracy, Duration, 40 , 0.4375 , 0:00:41.328453
+Baseline Accuracy:  0.125
+Average Accuracy of Baseline:  0.0722980483885
+Solver Accuracy:  0.4375
+Average Accuracy of Solver:  0.584236911417
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 4, 2, 1]
+============================
+Iteration  150
+Length  80
+Start Time 2015-12-10 17:52:40.564603
+Original Text The latest trends show an increasing numbers of people infected with the virus 
+
+Original Text Noised The latest trends show an increasing numbers of people infected with the virus 
+
+Key AZCEVIXRHQKWDOUJNMSYPLBTGF
+Cipher Text Noised Yrv wayvsy ymvoes srub ao hocmvashox opdzvms ui jvujwv hoivcyve bhyr yrv lhmps 
+
+........10.0%......20.0%....................30.0%........40.0%..........50.0%.......60.0%........70.0%..........80.0%.......90.0%........100.0%
+5 BEST:  2892.23448546 The latest trends show an increasing numbers of people infected with the virus 
+
+End Time 2015-12-10 17:54:25.022318
+Duration 0:01:44.457783
+Length, Accuracy, Duration, 80 , 1.0 , 0:01:44.457802
+Baseline Accuracy:  0.0149253731343
+Average Accuracy of Baseline:  0.0719155638869
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.587008665341
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 4, 2, 1, 5]
+============================
+Iteration  151
+Length  48
+Start Time 2015-12-10 17:54:25.022624
+Original Text Everyone knows full well what I am thinking of 
+
+Original Text Noised Evoryone knows plll wely what I am thinking of 
+
+Key XBZLKONFGSMUIEVHPCRQJATDYW
+Cipher Text Noised Kavcyvek mevtr huuu tkuy tfxq G xi qfgemgen vo 
+
+.......10.0%......20.0%........30.0%......40.0%.....50.0%.......60.0%.......70.0%........80.0%......90.0%......100.0%
+1 BEST:  1373.65436634 Ofeckeno dnews urrr work with A tv hiandanm el 
+
+End Time 2015-12-10 17:55:22.242380
+Duration 0:00:57.219774
+Length, Accuracy, Duration, 48 , 0.257142857143 , 0:00:57.219785
+Baseline Accuracy:  0.114285714286
+Average Accuracy of Baseline:  0.0721961609094
+Solver Accuracy:  0.257142857143
+Average Accuracy of Solver:  0.584824123565
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 4, 2, 1, 5, 1]
+============================
+Iteration  152
+Length  83
+Start Time 2015-12-10 17:55:22.242627
+Original Text A number of projects that had been started up in those countries now lie in ruins 
+
+Original Text Noised A number ox projects that had bexn started up in those countries now lie in ruins 
+
+Key VFDOWTKAUCPGSMQYZHIXJEBLNR
+Cipher Text Noised V mjsfwh ql yhqcwdxi xavx avo fwlm ixvhxwo jy um xaqiw dqjmxhuwi mqb guw um hjumi 
+
+........10.0%......20.0%......30.0%......40.0%........50.0%.....60.0%.......70.0%.....80.0%.......90.0%......100.0%
+1 BEST:  2948.21685407 A number of projects that had befn started up in those countries now lie in ruins 
+
+End Time 2015-12-10 17:57:59.377636
+Duration 0:02:37.135232
+Length, Accuracy, Duration, 83 , 1.0 , 0:02:37.135251
+Baseline Accuracy:  0.0153846153846
+Average Accuracy of Baseline:  0.0718224007414
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.587555543804
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 4, 2, 1, 5, 1, 1]
+============================
+Iteration  153
+Length  22
+Start Time 2015-12-10 17:57:59.378417
+Original Text One thing is certain 
+
+Original Text Noised One thing is certain 
+
+Key SIUQAJWZKGXLTVRMBDYCPNHFOE
+Cipher Text Noised Rva czkvw ky uadcskv 
+
+......10.0%....20.0%.....30.0%.....40.0%.......50.0%.......60.0%.....70.0%.........80.0%........90.0%.....100.0%
+1 BEST:  639.090926631 Wus about on isearou 
+
+End Time 2015-12-10 17:58:33.675558
+Duration 0:00:34.297219
+Length, Accuracy, Duration, 22 , 0.0555555555556 , 0:00:34.297246
+Baseline Accuracy:  0.0555555555556
+Average Accuracy of Baseline:  0.0717160814919
+Solver Accuracy:  0.0555555555556
+Average Accuracy of Solver:  0.584078419698
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 4, 2, 1, 5, 1, 1, 1]
+============================
+Iteration  154
+Length  107
+Start Time 2015-12-10 17:58:33.676017
+Original Text Many other developments in the Middle East especially events in Gaza have recently occupied our attention 
+
+Original Text Noised Mjny otber developments in the Middle Eyst esdecyally events in Gaza have recently occupier our attention 
+
+Key FBHXSGWUMKARJNECIOPDTLZVYQ
+Cipher Text Noised Jkny edbso xslsrecjsndp mn dus Jmxxrs Sypd spxshyfrry slsndp mn Wfqf ufls oshsndry ehhtcmso eto fddsndmen 
+
+.......10.0%........20.0%........30.0%......40.0%...........50.0%.........60.0%......70.0%.......80.0%........90.0%............100.0%
+1 BEST:  3240.97440818 Mbny otwer developments in the Middle Eyst esdegyally events in Faca have regently oggupier our attention 
+
+End Time 2015-12-10 18:00:36.005499
+Duration 0:02:02.329550
+Length, Accuracy, Duration, 107 , 0.929411764706 , 0:02:02.329568
+Baseline Accuracy:  0.0117647058824
+Average Accuracy of Baseline:  0.071326786845
+Solver Accuracy:  0.929411764706
+Average Accuracy of Solver:  0.586320844016
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 4, 2, 1, 5, 1, 1, 1, 1]
+============================
+Iteration  155
+Length  44
+Start Time 2015-12-10 18:00:36.005869
+Original Text In that sense it represents a step forward 
+
+Original Text Noised In tjat sense it represeats a step forwhrd 
+
+Key JMORDNSCFLXZIVGQBWYHKTPUEA
+Cipher Text Noised Fv hljh ydvyd fh wdqwdydjhy j yhdq ngwpcwr 
+
+.........10.0%....20.0%......30.0%..........40.0%.......50.0%......60.0%......70.0%.......80.0%......90.0%.....100.0%
+3 BEST:  1507.10136408 In that sense it represeats a step forcurd 
+
+End Time 2015-12-10 18:02:13.185786
+Duration 0:01:37.179989
+Length, Accuracy, Duration, 44 , 0.969696969697 , 0:01:37.180013
+Baseline Accuracy:  0.0606060606061
+Average Accuracy of Baseline:  0.0712576208693
+Solver Accuracy:  0.969696969697
+Average Accuracy of Solver:  0.588794238376
+Reached same thing many times [2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 3, 1, 3, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 4, 2, 1, 5, 1, 1, 1, 1, 3]
+============================
+Iteration  156
+Length  90
+Start Time 2015-12-10 18:02:13.186155
+Original Text The compromise would be the final nail in the coffin for this reform of chemicals policy 
+
+Original Text Noised The comprorisi would be the final ngil in the coffin for this aeform of chempcacs policy 
+
+Key WLUHFIMOGENCJTAVKQRBPZXSYD
+Cipher Text Noised Bof uajvqaqgrg xapch lf bof igtwc tmgc gt bof uaiigt iaq bogr wfiaqj ai uofjvuwur vacguy 
+
+.....10.0%..........20.0%.......30.0%.........40.0%...

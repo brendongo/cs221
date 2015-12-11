@@ -1,0 +1,717 @@
+Learning...
+============================
+Iteration  1
+Length  157
+Start Time 2015-12-10 18:15:56.506674
+Original Text This time together with Alenka the Director there is not a single man in the course we discussed how to dress a woman whose body is not in perfect symmetry 
+
+Original Text Noised This time pogethkr with Alenka the Jirentor there iu not a single man in tfe course we dislussed how to dress j woman whose body is not in perfect symmetry 
+
+Key JEUFXQMDRCPZWNIYLVHTGABSKO
+Cipher Text Noised Tdrh trwx yimxtdpv brtd Jzxnpj tdx Crvxntiv tdxvx rg nit j hrnmzx wjn rn tqx uigvhx bx frhzghhxf dib ti fvxhh c biwjn bdihx eifk rh nit rn yxvqxut hkwwxtvk 
+
+.........10.0%......20.0%......30.0%.....40.0%......50.0%.........60.0%.......70.0%......80.0%......90.0%......100.0%
+2 BEST:  5372.73403604 This time pogethvr with Alenva the Kirentor there iu not a single man in tfe course we dislussed how to dress k woman whose body is not in perfect symmetry 
+
+End Time 2015-12-10 18:19:29.338820
+Duration 0:03:32.832163
+Length, Accuracy, Duration, 157 , 0.991596638655 , 0:03:32.832177
+Baseline Accuracy:  0.226890756303
+Average Accuracy of Baseline:  0.226890756303
+Solver Accuracy:  0.991596638655
+Average Accuracy of Solver:  0.991596638655
+Reached same thing many times [2]
+============================
+Iteration  2
+Length  51
+Start Time 2015-12-10 18:19:29.338957
+Original Text A majority of women are not perfectly symmetrical 
+
+Original Text Noised A oajprity of women are not terfrctly symjetnical 
+
+Key BRZDGWLIQMSXTOPVJFKECUHNYA
+Cipher Text Noised B pbmvfqey pw hptgo bfg ope egfwfzexy kytmgeoqzbx 
+
+.......10.0%.....20.0%........30.0%.........40.0%......50.0%............60.0%.....70.0%.........80.0%.....90.0%.....100.0%
+1 BEST:  1408.96137483 A haguniel hf short anr the ernfncedl plogreticad 
+
+End Time 2015-12-10 18:20:10.846366
+Duration 0:00:41.507425
+Length, Accuracy, Duration, 51 , 0.297297297297 , 0:00:41.507435
+Baseline Accuracy:  0.027027027027
+Average Accuracy of Baseline:  0.126958891665
+Solver Accuracy:  0.297297297297
+Average Accuracy of Solver:  0.644446967976
+Reached same thing many times [2, 1]
+============================
+Iteration  3
+Length  100
+Start Time 2015-12-10 18:20:10.846545
+Original Text One has a short neck the other has a boyish figure without proper curves yet another is overweight 
+
+Original Text Noised One has a short qeck the other has h xoyish fiftre without pzoper curves yes anotser is overweiyht 
+
+Key HEGXZVMDQWYSIAUTFCROBLKJPN
+Cipher Text Noised Uaz dhr h rduco fzgy odz uodzc dhr d jupqrd vqvocz kqodubo tnutzc gbclzr pzr hauorzc qr ulzckzqpdo 
+
+.......10.0%..........20.0%........30.0%.......40.0%.......50.0%.......60.0%......70.0%.......80.0%.......90.0%.........100.0%
+1 BEST:  3019.39693724 One has a short decy the other has h mogish fiftre without ploper curves ges anotser is overweight 
+
+End Time 2015-12-10 18:22:05.356763
+Duration 0:01:54.510234
+Length, Accuracy, Duration, 100 , 0.958904109589 , 0:01:54.510244
+Baseline Accuracy:  0.013698630137
+Average Accuracy of Baseline:  0.0892054711555
+Solver Accuracy:  0.958904109589
+Average Accuracy of Solver:  0.749266015181
+Reached same thing many times [2, 1, 1]
+============================
+Iteration  4
+Length  114
+Start Time 2015-12-10 18:22:05.356954
+Original Text A stylist must know how to optically soften wide shoulders make the neck look longer or add the curves necessary 
+
+Original Text Noised A stylist lust know hjw to opticakly swftin wide shoufders make the seck ldok longer or add the cusvss necessary 
+
+Key JWFYOMXZPDGVLRHESIAUTNQBKC
+Cipher Text Noised J aukvpau vtau grhq zdq uh heupfjgvk aqmupr qpyo azhtmyoia ljgo uzo aofg vyhg vhrxoi hi jyy uzo ftanaa rofoaajik 
+
+.......10.0%.....20.0%........30.0%..........40.0%.......50.0%........60.0%.......70.0%......80.0%......90.0%.......100.0%
+1 BEST:  3162.49912373 A stydist dust know hvw to ofticakdy swptin wile shouplers make the seck dlok donger or all the cusbss necessary 
+
+End Time 2015-12-10 18:23:39.485332
+Duration 0:01:34.128394
+Length, Accuracy, Duration, 114 , 0.869047619048 , 0:01:34.128403
+Baseline Accuracy:  0.0119047619048
+Average Accuracy of Baseline:  0.0698802938428
+Solver Accuracy:  0.869047619048
+Average Accuracy of Solver:  0.779211416147
+Reached same thing many times [2, 1, 1, 1]
+============================
+Iteration  5
+Length  173
+Start Time 2015-12-10 18:23:39.485577
+Original Text We were given tips on how to accentuate the figure of women such as Jennifer Lopez ie with bigger breasts and hips and narrow waist and not to dress them too provocatively 
+
+Original Text Noised We were given tips on how to accentuate the figure of women sucx as Jennifer Lopez ie with bigger breastx and hips aid narrow waist and not to dresz them tso provocatively 
+
+Key HKXMQDJASOZVEFWBRYCGLTUNPI
+Cipher Text Noised Uq uqyq jstqf gsbc wf awu gw hxxqfglhgq gaq dsjlyq wd uweqf clxn hc Oqffsdqy Vwbqi sq usga ksjjqy kyqhcgn hfm asbc hsm fhyywu uhscg hfm fwg gw myqci gaqe gcw bywtwxhgstqvp 
+
+......10.0%...........20.0%........30.0%.......40.0%........50.0%.......60.0%......70.0%.......80.0%.......90.0%.............100.0%
+8 BEST:  5714.99841617 We were given tips on how to accentuate the figure of women suck as Jennifer Lopez ie with bigger breastk and hips aid narrow waist and not to dresz them tso provocatively 
+
+End Time 2015-12-10 18:27:58.674754
+Duration 0:04:19.189194
+Length, Accuracy, Duration, 173 , 1.0 , 0:04:19.189205
+Baseline Accuracy:  0.00735294117647
+Average Accuracy of Baseline:  0.0573748233096
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.823369132918
+Reached same thing many times [2, 1, 1, 1, 8]
+============================
+Iteration  6
+Length  154
+Start Time 2015-12-10 18:27:58.674989
+Original Text For example if the difference between the waist and hips is such that the skirt or trousers do not fit it is worth to have at least one piece custommade 
+
+Original Text Noised For example if the difference betfeen the raist and hips ys such that the skirt or teousers do not fit ii is worth to have jt least oye piece eustommade 
+
+Key PLBFUVEQRAJZCMYKOTSNHWIXGD
+Cipher Text Noised Vyt uxpckzu rv nqu frvvutumbu lunvuum nqu tprsn pmf qrks gs shbq nqpn nqu sjrtn yt nuyhsuts fy myn vrn rr rs iytnq ny qpwu an zupsn ygu krubu uhsnyccpfu 
+
+.......10.0%........20.0%.......30.0%.......40.0%..........50.0%......60.0%........70.0%.......80.0%........90.0%......100.0%
+6 BEST:  5391.77288029 For example if the difference betfeen the raist and hips ys such that the skirt or teousers do not fit ii is worth to have gt least oye piece eustommade 
+
+End Time 2015-12-10 18:31:58.140635
+Duration 0:03:59.465661
+Length, Accuracy, Duration, 154 , 1.0 , 0:03:59.465671
+Baseline Accuracy:  0.0172413793103
+Average Accuracy of Baseline:  0.0506859159764
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.852807610765
+Reached same thing many times [2, 1, 1, 1, 8, 6]
+============================
+Iteration  7
+Length  90
+Start Time 2015-12-10 18:31:58.140799
+Original Text You will definitely not regret the investment as perfectly fitting clothes are priceless 
+
+Original Text Noised You will defyniiely not reyret the investment as perfectly fitthng clothes aee priceless 
+
+Key MAUZITCGKFWPQBRDXSENVJHLOY
+Cipher Text Noised Orv hkpp zitobkkipo brn siosin ngi kbjienqibn me distiunpo tknngbc uprngie mii dskuipiee 
+
+.....10.0%.......20.0%..........30.0%......40.0%......50.0%.......60.0%......70.0%......80.0%.......90.0%.........100.0%
+2 BEST:  2549.19303899 Gou will bedgniielg not regret the investment as perdectlg ditthnf clothes aee priceless 
+
+End Time 2015-12-10 18:32:52.540990
+Duration 0:00:54.400206
+Length, Accuracy, Duration, 90 , 0.888888888889 , 0:00:54.400216
+Baseline Accuracy:  0.0138888888889
+Average Accuracy of Baseline:  0.045429197821
+Solver Accuracy:  0.888888888889
+Average Accuracy of Solver:  0.857962079068
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2]
+============================
+Iteration  8
+Length  123
+Start Time 2015-12-10 18:32:52.541187
+Original Text In a custommade skirt you will feel much better than in one that keeps shifting rolling up sticking out in your waist etc 
+
+Original Text Noised In a custommade skirt you wiel feel much better than in one that teezs shifting rolling up sticking out in ybur waist etc 
+
+Key TBHIVKNUDJGACOXEPZYWSFRQLM
+Cipher Text Noised Do t hsywxcctiv ygdzw lxs rdva kvva cshu bvwwvz wuto do xov wutw wvvmy yudkwdon zxaadon se ywdhgdon xsw do lbsz rtdyw vwh 
+
+.......10.0%.......20.0%.......30.0%........40.0%........50.0%........60.0%.......70.0%.........80.0%......90.0%.......100.0%
+7 BEST:  3956.20818751 In a custommaje skirt you wiel feel much better than in one that teeds shifting rolling up sticking out in ybur waist etc 
+
+End Time 2015-12-10 18:35:23.372238
+Duration 0:02:30.831066
+Length, Accuracy, Duration, 123 , 0.989583333333 , 0:02:30.831076
+Baseline Accuracy:  0.0104166666667
+Average Accuracy of Baseline:  0.0410526314267
+Solver Accuracy:  0.989583333333
+Average Accuracy of Solver:  0.874414735851
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7]
+============================
+Iteration  9
+Length  96
+Start Time 2015-12-10 18:35:23.372407
+Original Text Boyish figures on the other hand can wear clothes with ruffling appliqu embroidery or shirring 
+
+Original Text Noised Bouish figures on the other hanv can wear clothes with ruffjing appliqu embroidtry or shirring 
+
+Key FGPAJHTYOURWVIQNKDBXSLZMCE
+Cipher Text Noised Gqsoby hotsdjb qi xyj qxyjd yfil pfi zjfd pwqxyjb zoxy dshhuoit fnnwoks jvgdqoaxdc qd byoddoit 
+
+......10.0%........20.0%..........30.0%.......40.0%......50.0%...........60.0%..........70.0%........80.0%.........90.0%.......100.0%
+1 BEST:  2810.68308781 Bouish figures on the other hand can wear clothes with ruffying applivu embroixtrk or shirring 
+
+End Time 2015-12-10 18:36:45.668727
+Duration 0:01:22.296336
+Length, Accuracy, Duration, 96 , 0.961038961039 , 0:01:22.296346
+Baseline Accuracy:  0.0779220779221
+Average Accuracy of Baseline:  0.0451492365929
+Solver Accuracy:  0.961038961039
+Average Accuracy of Solver:  0.884039649761
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1]
+============================
+Iteration  10
+Length  119
+Start Time 2015-12-10 18:36:45.668918
+Original Text Given the abundance of such information and figure types I am glad to have a whole week to sort it all out in my head 
+
+Original Text Noised Given the abundanpe of sucl inyoxmation axd fugure types I am glad to have a whole week to sort it all out in my head 
+
+Key XNEFYVQTLGSOADJCUKIZBHRMPW
+Cipher Text Noised Qlhyd zty xnbdfxdcy jv ibeo ldpjmaxzljd xmf vbqbky zpcyi L xa qoxf zj txhy x rtjoy ryys zj ijkz lz xoo jbz ld ap tyxf 
+
+...........10.0%.......20.0%.........30.0%.......40.0%.........50.0%.........60.0%.......70.0%.......80.0%......90.0%.......100.0%
+4 BEST:  4180.40731852 Given the abundance of suzl inyopmation apd fugure tyces I am glad to have a whole week to sort it all out in my head 
+
+End Time 2015-12-10 18:41:11.474162
+Duration 0:04:25.805260
+Length, Accuracy, Duration, 119 , 0.977272727273 , 0:04:25.805270
+Baseline Accuracy:  0.0454545454545
+Average Accuracy of Baseline:  0.045179767479
+Solver Accuracy:  0.977272727273
+Average Accuracy of Solver:  0.893362957512
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4]
+============================
+Iteration  11
+Length  71
+Start Time 2015-12-10 18:41:11.474311
+Original Text Still I fear it is too much with regard to the homework we were given 
+
+Original Text Noised Still I fjar it is too vubh with regard to ohe vomework we wqre given 
+
+Key IFTKBCWRXGVLJQOUDPSHAYEZMN
+Cipher Text Noised Shxll X cgip xh xs hoo yafr exhr pbwipk ho orb yojbeopv eb edpb wxybq 
+
+.............10.0%...........20.0%.....30.0%.....40.0%.....50.0%.....60.0%.......70.0%......80.0%.....90.0%........100.0%
+1 BEST:  2157.5236115 Stiff I plur it is too mych with reaurn to ohe moveworg we wbre aimed 
+
+End Time 2015-12-10 18:43:07.901305
+Duration 0:01:56.427010
+Length, Accuracy, Duration, 71 , 0.74 , 0:01:56.427020
+Baseline Accuracy:  0.02
+Average Accuracy of Baseline:  0.0428906977082
+Solver Accuracy:  0.74
+Average Accuracy of Solver:  0.879420870466
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1]
+============================
+Iteration  12
+Length  95
+Start Time 2015-12-10 18:43:07.901473
+Original Text Each of the course participants was given a celebrity to create two outfits for day and night 
+
+Original Text Noised Each of the course participants was given a celebrity to creute two outfits for day and night 
+
+Key THUDAYEPWNJRKLZSMBCIFVXGQO
+Cipher Text Noised Atup zy ipa uzfbca stbiwuwstlic xtc ewval t uarahbwiq iz ubafia ixz zfiywic yzb dtq tld lwepi 
+
+........10.0%.......20.0%.......30.0%..........40.0%......50.0%........60.0%......70.0%.............80.0%.......90.0%.......100.0%
+6 BEST:  3255.0124695 Each of the course participants was given a celebrity to creute two outfits for day and night 
+
+End Time 2015-12-10 18:45:05.659195
+Duration 0:01:57.757739
+Length, Accuracy, Duration, 95 , 1.0 , 0:01:57.757749
+Baseline Accuracy:  0.103896103896
+Average Accuracy of Baseline:  0.0479744815572
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.88946913126
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6]
+============================
+Iteration  13
+Length  79
+Start Time 2015-12-10 18:45:05.659356
+Original Text We must consider their current appearance their fashion style and figure type 
+
+Original Text Noised We must conkider their cnrrent appearance theic fashion stylq acd figure type 
+
+Key FATHMBEZYSVUXRQKWDIPNJLOGC
+Cipher Text Noised Lm xnip tqrvyhmd pzmyd trddmrp fkkmfdfrtm pzmyt bfizyqr ipguw fth byendm pgkm 
+
+........10.0%..........20.0%.........30.0%.......40.0%......50.0%......60.0%.....70.0%.........80.0%........90.0%.......100.0%
+1 BEST:  2137.17193404 Be just ncomider their norreot appearaone thein fashico stylw and figure type 
+
+End Time 2015-12-10 18:45:41.924859
+Duration 0:00:36.265521
+Length, Accuracy, Duration, 79 , 0.822580645161 , 0:00:36.265532
+Baseline Accuracy:  0.0161290322581
+Average Accuracy of Baseline:  0.0455248316111
+Solver Accuracy:  0.822580645161
+Average Accuracy of Solver:  0.884323863099
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1]
+============================
+Iteration  14
+Length  82
+Start Time 2015-12-10 18:45:41.925217
+Original Text I am to dress Miranda Kerr whom you may know from the Victorias Secret campaigns 
+
+Original Text Noised I am to gress Miranda Kerr whom you may know fvom the Victcrias Secret campaigns 
+
+Key GTYSDOLVBCNPWUXAFIKZEMHQJR
+Cipher Text Noised B gw zx lidkk Wbigusg Ndii hvxw jxe wgj nuxh omxw zvd Mbyzyibgk Kdyidz ygwagbluk 
+
+.......10.0%........20.0%.......30.0%......40.0%......50.0%.......60.0%......70.0%.....80.0%......90.0%.........100.0%
+1 BEST:  2096.88432204 I ot an clemm Tilougo Bell krnt pnd top bunk whnt are Hisasliom Meslea sotfoicum 
+
+End Time 2015-12-10 18:47:02.085853
+Duration 0:01:20.160652
+Length, Accuracy, Duration, 82 , 0.171875 , 0:01:20.160662
+Baseline Accuracy:  0.109375
+Average Accuracy of Baseline:  0.0500855579246
+Solver Accuracy:  0.171875
+Average Accuracy of Solver:  0.833434658592
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1]
+============================
+Iteration  15
+Length  198
+Start Time 2015-12-10 18:47:02.086134
+Original Text Inside I rejoice as she is so much easier to dress than say Britney Spears Christina Aguilera who has recently gained about a ton please understand I am exaggerating or the very young Selena Gomez 
+
+Original Text Noised Inside T rejoice as she ii so muhh easier to drems than say Britney Sperrs Chrbstina Aguilera who tas recently gained about a ton please understand I am exaguerdting or the very young Sqlena Gomez 
+
+Key AISQJCBFXTORPLEUNYVWMKZDHG
+Cipher Text Noised Xlvxqj W yjtexsj av vfj xx ve pmff javxjy we qyjpv wfal vah Iyxwljh Vujyyv Sfyivwxla Abmxrjya zfe wav yjsjlwrh baxljq aiemw a wel urjavj mlqjyvwalq X ap jdabmjyqwxlb ey wfj kjyh hemlb Vnrjla Bepjg 
+
+.......10.0%.......20.0%.....30.0%.......40.0%......50.0%.......60.0%........70.0%.......80.0%......90.0%......100.0%
+4 BEST:  6002.40567314 Inside T refoice as she ii so muhh easier to drems than say Britney Sperrs Chrbstina Aguilera who tas recently gained about a ton please understand I am exaguerdting or the very young Sklena Gomez 
+
+End Time 2015-12-10 18:51:30.037055
+Duration 0:04:27.950939
+Length, Accuracy, Duration, 198 , 0.993464052288 , 0:04:27.950950
+Baseline Accuracy:  0.0457516339869
+Average Accuracy of Baseline:  0.0497966296621
+Solver Accuracy:  0.993464052288
+Average Accuracy of Solver:  0.844103284838
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4]
+============================
+Iteration  16
+Length  110
+Start Time 2015-12-10 18:51:30.037262
+Original Text We must cut the clothes out of magazines or find them on the Internet and print and graphically process them 
+
+Original Text Noised We musq zut tce clothes out of magazines or find them on the Internet and prinz and graphically process them 
+
+Key IEJFLXQCWPHMGRBKTAZNOVDUYS
+Cipher Text Noised Dl gozt son njl jmbnclz bon bx giqiswrlz ba xwrf nclg br ncl Wrnlarln irf kawrs irf qaikcwjimmy kabjlzz nclg 
+
+........10.0%.....20.0%........30.0%......40.0%.....50.0%........60.0%........70.0%......80.0%.......90.0%......100.0%
+1 BEST:  3603.92930326 We musy but tce clothes out of magabines or find them on the Internet and prinb and graphicallv process them 
+
+End Time 2015-12-10 18:53:58.127355
+Duration 0:02:28.090110
+Length, Accuracy, Duration, 110 , 0.976744186047 , 0:02:28.090120
+Baseline Accuracy:  0.0697674418605
+Average Accuracy of Baseline:  0.0510448054245
+Solver Accuracy:  0.976744186047
+Average Accuracy of Solver:  0.852393341164
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1]
+============================
+Iteration  17
+Length  103
+Start Time 2015-12-10 18:53:58.127543
+Original Text Moodboard as the result is called then expresses our personal style and attitude to graphic depiction 
+
+Original Text Noised Moodboyrd as tbq result ik called then eypresses our personal style and attimude to graphic depictiwn 
+
+Key IVWXSBTECYQPDNLFJROZMAGHKU
+Cipher Text Noised Dllxvlkrx io zvj rsompz cq wippsx zesn skfrsooso lmr fsrolnip ozkps inx izzcdmxs zl trifecw xsfcwzcgn 
+
+.....10.0%......20.0%.....30.0%.....40.0%.....50.0%........60.0%.........70.0%............80.0%......90.0%......100.0%
+2 BEST:  2927.15993828 Moodhoyrd as thb result if called twen eypresses our personal style and attimude to grapwic depictivn 
+
+End Time 2015-12-10 18:55:04.511721
+Duration 0:01:06.384196
+Length, Accuracy, Duration, 103 , 0.9625 , 0:01:06.384207
+Baseline Accuracy:  0.0125
+Average Accuracy of Baseline:  0.0487774639289
+Solver Accuracy:  0.9625
+Average Accuracy of Solver:  0.858870203448
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2]
+============================
+Iteration  18
+Length  60
+Start Time 2015-12-10 18:55:04.511866
+Original Text It is important to think about the graphic part of styling 
+
+Original Text Noised It is impockant to think about fhe graphic part of styling 
+
+Key KOMQZNPTYXUGEVSRDALWBCIHJF
+Cipher Text Noised Yw yl yersmukvw ws wtyvu kosbw ntz pakrtym rkaw sn lwjgyvp 
+
+.....10.0%......20.0%.........30.0%......40.0%........50.0%..........60.0%.........70.0%.......80.0%......90.0%.....100.0%
+1 BEST:  1597.7293098 It in ighopleat to trial ecovt fry msehrip hest of ntudiam 
+
+End Time 2015-12-10 18:56:21.121401
+Duration 0:01:16.609552
+Length, Accuracy, Duration, 60 , 0.413043478261 , 0:01:16.609561
+Baseline Accuracy:  0.0217391304348
+Average Accuracy of Baseline:  0.0472753342904
+Solver Accuracy:  0.413043478261
+Average Accuracy of Solver:  0.834102052049
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1]
+============================
+Iteration  19
+Length  153
+Start Time 2015-12-10 18:56:21.121652
+Original Text A stylist does not just dress physical people but creates product pages in magazines based on specific instructions for example trendy purses coats etc 
+
+Original Text Noised A sqylist does not jcst dress physickl ceople but cqeates product pages if aagaziiee bhsed on spewioic iostructions for ekample tietdy purses coats ets 
+
+Key QDLPIEKAGHSXBFZOJCMNTURYVW
+Cipher Text Noised Q mjvxgmn pzim fzn hlmn pcimm oavmglsx lizoxi dtn ljiqnim oczptln oqkim ge qqkqwggii damip zf moirgzgl gzmnctlngzfm ezc isqboxi nginpv otcmim lzqnm inm 
+
+......10.0%.......20.0%.....30.0%.....40.0%.......50.0%.....60.0%............70.0%........80.0%............90.0%........100.0%
+1 BEST:  3760.47471718 I splkhst does not just dress cylshumk ueocke bat upeites crodaut cives hf iivighhee bysed on scewhohu hostrauthons for emixcke thetdl carses uoits ets 
+
+End Time 2015-12-10 18:58:13.160221
+Duration 0:01:52.038585
+Length, Accuracy, Duration, 153 , 0.607142857143 , 0:01:52.038595
+Baseline Accuracy:  0.00892857142857
+Average Accuracy of Baseline:  0.0452570836134
+Solver Accuracy:  0.607142857143
+Average Accuracy of Solver:  0.822156831264
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1]
+============================
+Iteration  20
+Length  71
+Start Time 2015-12-10 18:58:13.160371
+Original Text This is what a stylist and designer Mario Kamenk was telling us about 
+
+Original Text Noised This is whlt a stylist and designer Mario Kamenk was tollinl us about 
+
+Key ROMCSLFNYHZITEVDBAGJXUKQWP
+Cipher Text Noised Jnyg yg knij r gjwiygj rec csgyfesa Trayv Zrtsez krg jviiyei xg rovxj 
+
+......10.0%............20.0%......30.0%......40.0%.....50.0%.......60.0%......70.0%.....80.0%......90.0%.........100.0%
+3 BEST:  2058.91031559 This is whlt a stylist and designer Mario Camenc was tollinl us about 
+
+End Time 2015-12-10 18:59:50.640656
+Duration 0:01:37.480332
+Length, Accuracy, Duration, 71 , 0.963636363636 , 0:01:37.480364
+Baseline Accuracy:  0.0545454545455
+Average Accuracy of Baseline:  0.04572150216
+Solver Accuracy:  0.963636363636
+Average Accuracy of Solver:  0.829230807883
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3]
+============================
+Iteration  21
+Length  31
+Start Time 2015-12-10 18:59:50.640896
+Original Text But that was not until Sunday 
+
+Original Text Noised But chat wai not until Sunday 
+
+Key ZHOTEMXPLGKCBDWVYRNJUQAIFS
+Cipher Text Noised Huj opzj azl dwj udjlc Nudtzf 
+
+.........10.0%......20.0%..........30.0%.......40.0%......50.0%.........60.0%.....70.0%.......80.0%......90.0%.......100.0%
+1 BEST:  924.515587313 Hrd used mei and radio Travel 
+
+End Time 2015-12-10 19:00:28.102119
+Duration 0:00:37.461239
+Length, Accuracy, Duration, 31 , 0.0869565217391 , 0:00:37.461249
+Baseline Accuracy:  0.0869565217391
+Average Accuracy of Baseline:  0.0476850745209
+Solver Accuracy:  0.0869565217391
+Average Accuracy of Solver:  0.793884413305
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1]
+============================
+Iteration  22
+Length  34
+Start Time 2015-12-10 19:00:28.102233
+Original Text A stylist needs general knowledge
+
+Original Text Noised A stylist needs general knoiledge
+
+Key ADHRNPJQCGUKELTIYBSWZMOFVX
+Cipher Text Noised A swvkcsw lnnrs jnlnbak ultcknrjn
+
+......10.0%.......20.0%.....30.0%......40.0%.....50.0%......60.0%.............70.0%......80.0%........90.0%......100.0%
+1 BEST:  864.704443791 I thanoth reelt deresin urconelde
+
+End Time 2015-12-10 19:00:38.263905
+Duration 0:00:10.161688
+Length, Accuracy, Duration, 34 , 0.241379310345 , 0:00:10.161698
+Baseline Accuracy:  0.0344827586207
+Average Accuracy of Baseline:  0.0470849692527
+Solver Accuracy:  0.241379310345
+Average Accuracy of Solver:  0.768770544988
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1]
+============================
+Iteration  23
+Length  105
+Start Time 2015-12-10 19:00:38.264091
+Original Text Saturdays lecture filled with information on figure types was livened up by three guests from the field 
+
+Original Text Noised Saturdays lecture filled witp information on figure types was livened up by thyee guests flom the fiele 
+
+Key BZFXHQYRDGPACMUJKEOIWNSVTL
+Cipher Text Noised Obiwexbto ahfiweh qdaahx sdij dmquecbidum um qdyweh itjho sbo adnhmhx wj zt irthh ywhoio qauc irh qdhah 
+
+.....10.0%........20.0%...............30.0%........40.0%.....50.0%............60.0%.........70.0%.................80.0%..........90.0%......100.0%
+1 BEST:  2902.91485194 Satudyars lectude filley witp infodmation on figude trpes was liveney up jr three guests flom the fiele 
+
+End Time 2015-12-10 19:02:28.676773
+Duration 0:01:50.412737
+Length, Accuracy, Duration, 105 , 0.869047619048 , 0:01:50.412755
+Baseline Accuracy:  0.214285714286
+Average Accuracy of Baseline:  0.0543545668629
+Solver Accuracy:  0.869047619048
+Average Accuracy of Solver:  0.773130417773
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1]
+============================
+Iteration  24
+Length  92
+Start Time 2015-12-10 19:02:28.677108
+Original Text A stylist Honza Pokorn a fashion designer Jakub Polanka and a fashion photographer Ben Ren 
+
+Original Text Noised A stylict Hozzz Pokorn a fashion designeu Pakub Polanka and a fashion photographer Ben Nen 
+
+Key CSEBPLUVWFGQIRZTKMHAONDJYX
+Cipher Text Noised C hayqwea Vzxxx Tzgzmr c lchvwzr bphwurpo Tcgos Tzqcrgc crb c lchvwzr tvzazumctvpm Spr Rpr 
+
+.....10.0%......20.0%......30.0%.....40.0%........50.0%......60.0%.......70.0%.......80.0%.......90.0%........100.0%
+1 BEST:  2444.81217153 A slymikl Hoppp Tocoun a fashion designer Tacrw Tomanca and a fashion thologuatheu Wen Nen 
+
+End Time 2015-12-10 19:04:20.236601
+Duration 0:01:51.559511
+Length, Accuracy, Duration, 92 , 0.732394366197 , 0:01:51.559520
+Baseline Accuracy:  0.0845070422535
+Average Accuracy of Baseline:  0.0556109200042
+Solver Accuracy:  0.732394366197
+Average Accuracy of Solver:  0.771433082291
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1, 1]
+============================
+Iteration  25
+Length  93
+Start Time 2015-12-10 19:04:20.236783
+Original Text Jakub reminded us that fashion is an illusion and a stylist should be able to use this fact 
+
+Original Text Noised Jakub reminded us that fashion fs an illusion and a stylist shouyd be able to uae this fact 
+
+Key TOKBRFZXJIGAPYHEQUMSCLWDNV
+Cipher Text Noised Itgco urpjybrb cm sxts ftmxjhy fm ty jaacmjhy tyb t msnajms mxhcnb or toar sh ctr sxjm ftks 
+
+........10.0%........20.0%.........30.0%.......40.0%......50.0%.....60.0%........70.0%.....80.0%......90.0%..........100.0%
+2 BEST:  3170.84850834 Wagub reminded us that fashion fs an illusion and a stylist shouyd be able to uae this fact 
+
+End Time 2015-12-10 19:06:52.336033
+Duration 0:02:32.099275
+Length, Accuracy, Duration, 93 , 0.972222222222 , 0:02:32.099294
+Baseline Accuracy:  0.0138888888889
+Average Accuracy of Baseline:  0.0539420387595
+Solver Accuracy:  0.972222222222
+Average Accuracy of Solver:  0.779464647888
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1, 1, 2]
+============================
+Iteration  26
+Length  75
+Start Time 2015-12-10 19:06:52.337859
+Original Text A good stylist can work with a single piece of clothing in different ways 
+
+Original Text Noised A mood styhist cak work with a sinule piece of clothing in girferene ways 
+
+Key JQDKOSABEYWGLNXCVMIZFRUTHP
+Cipher Text Noised J lxxk izhbeiz djw uxmw uezb j ienfgo ceodo xs dgxzbena en aemsomono ujhi 
+
+........10.0%.....20.0%......30.0%......40.0%......50.0%.......60.0%........70.0%...........80.0%......90.0%.......100.0%
+1 BEST:  2378.6526221 A boom styhist cak work with a single piece of clothind in dirferene ways 
+
+End Time 2015-12-10 19:08:55.176291
+Duration 0:02:02.838449
+Length, Accuracy, Duration, 75 , 0.962962962963 , 0:02:02.838459
+Baseline Accuracy:  0.0925925925926
+Average Accuracy of Baseline:  0.0554285985224
+Solver Accuracy:  0.962962962963
+Average Accuracy of Solver:  0.786522275391
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1, 1, 2, 1]
+============================
+Iteration  27
+Length  33
+Start Time 2015-12-10 19:08:55.176408
+Original Text In this case variability is key 
+
+Original Text Noised In thns case variabifity is keb 
+
+Key UVGETQIWOBHPKJCFMLXSDAZRNY
+Cipher Text Noised Oj swjx guxt aulouvoqosn ox htv 
+
+......10.0%......20.0%.........30.0%......40.0%........50.0%......60.0%......70.0%........80.0%.....90.0%.....100.0%
+1 BEST:  967.641082907 Tn many whys chothetitmr ty use 
+
+End Time 2015-12-10 19:09:40.264958
+Duration 0:00:45.088568
+Length, Accuracy, Duration, 33 , 0.0833333333333 , 0:00:45.088578
+Baseline Accuracy:  0.0416666666667
+Average Accuracy of Baseline:  0.0549188973425
+Solver Accuracy:  0.0833333333333
+Average Accuracy of Solver:  0.7604782405
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1]
+============================
+Iteration  28
+Length  153
+Start Time 2015-12-10 19:09:40.265240
+Original Text For example a trench coat may be worn in the standard way over jeans and Tshirt as a coat but it may also be worn on naked body with stepins as a dress 
+
+Original Text Noised Foe example a trench coat may ke worn in tqe itandard way over jeand and Tsdirt as a coat but it may xlso be worn on naked body with stephns as a dress 
+
+Key VNHPZYQFSKDWRTOBMXEJAGIULC
+Cipher Text Noised Yoz zuvrbwz v jxzthf hovj rvl dz ioxt st jmz sjvtpvxp ivl ogzx kzvtp vtp Jepsxj ve v hovj naj sj rvl uweo nz ioxt ot tvdzp nopl isjf ejzbfte ve v pxzee 
+
+...........10.0%......20.0%..........30.0%......40.0%......50.0%.......60.0%............70.0%.......80.0%.......90.0%..........100.0%
+3 BEST:  4825.11080493 Foe example a trencu coat may ke worn in the itandard way over jeand and Tsdirt as a coat bgt it may xlso be worn on naked body witu stepuns as a dress 
+
+End Time 2015-12-10 19:16:38.212243
+Duration 0:06:57.947056
+Length, Accuracy, Duration, 153 , 0.973214285714 , 0:06:57.947074
+Baseline Accuracy:  0.00892857142857
+Average Accuracy of Baseline:  0.0532763857027
+Solver Accuracy:  0.973214285714
+Average Accuracy of Solver:  0.768075956401
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1, 3]
+============================
+Iteration  29
+Length  91
+Start Time 2015-12-10 19:16:38.212562
+Original Text Another option is rolling up the sleeves or collar and the entire look changes completely 
+
+Original Text Noised Anouher optxan is rolying up the sleeves or ckllar and the entire look chanres compleuely 
+
+Key COARWXKIYVNHUMQFGZSDBETPLJ
+Cipher Text Noised Cmqbiwz qfdpcm ys zqhlymk bf diw shwwews qz anhhcz cmr diw wmdyzw hqqn aicmzws aqufhwbwhl 
+
+..........10.0%.......20.0%......30.0%.......40.0%......50.0%.........60.0%.........70.0%.....80.0%......90.0%......100.0%
+1 BEST:  2673.3159456 Anowher oftuan is rolying wf the sleeves or ckllar and the entire look chanres comflewely 
+
+End Time 2015-12-10 19:18:05.893512
+Duration 0:01:27.680969
+Length, Accuracy, Duration, 91 , 0.942028985507 , 0:01:27.680979
+Baseline Accuracy:  0.0289855072464
+Average Accuracy of Baseline:  0.0524387692042
+Solver Accuracy:  0.942028985507
+Average Accuracy of Solver:  0.774074336715
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1, 3, 1]
+============================
+Iteration  30
+Length  52
+Start Time 2015-12-10 19:18:05.893671
+Original Text aposThen you can start breaking them Jakub told us 
+
+Original Text Noised aposThin you can start breaking them Jakub tolx us 
+
+Key WIZACMXYKOQHDFNERLGTJVBSPU
+Cipher Text Noised wengTykf pnj zwf gtwlt ilcwqkfx tycd Owqji tnhs jg 
+
+...........10.0%......20.0%.............30.0%.........40.0%.....50.0%......60.0%.......70.0%.........80.0%.........90.0%.....100.0%
+1 BEST:  1519.26009918 abosThin you can start preading them Wadup tolf us 
+
+End Time 2015-12-10 19:18:55.345899
+Duration 0:00:49.452251
+Length, Accuracy, Duration, 52 , 0.853658536585 , 0:00:49.452266
+Baseline Accuracy:  0.219512195122
+Average Accuracy of Baseline:  0.0580078834015
+Solver Accuracy:  0.853658536585
+Average Accuracy of Solver:  0.776727143377
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1]
+============================
+Iteration  31
+Length  162
+Start Time 2015-12-10 19:18:55.346368
+Original Text Here I finally understood why we drill all the definitions and rules of what to combine with what and why while in fashion magazines we often see something else 
+
+Original Text Noised Here I finally understood whu we drill all the definitions aox rules of what to cnmbine with what and why while in fashion magazines we often ser sofetoing else 
+
+Key VDPBFNGMSWECYTZALXUQKJHOIR
+Cipher Text Noised Mfxf S nstvcci ktbfxuqzzb hmk hf bxscc vcc qmf bfnstsqsztu vzo xkcfu zn hmvq qz ptydstf hsqm hmvq vtb hmi hmscf st nvumszt yvgvrstfu hf znqft ufx uznfqzstg fcuf 
+
+......10.0%......20.0%......30.0%.......40.0%.......50.0%.......60.0%......70.0%.......80.0%.......90.0%......100.0%
+1 BEST:  5200.62673181 Here I finally understood whu we drill all the definitions aop rules of what to cnmbine with what and why while in fashion magazines we often ser sofetoing else 
+
+End Time 2015-12-10 19:22:20.732054
+Duration 0:03:25.385704
+Length, Accuracy, Duration, 162 , 1.0 , 0:03:25.385715
+Baseline Accuracy:  0.00793650793651
+Average Accuracy of Baseline:  0.0563926777413
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.783929493591
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1]
+============================
+Iteration  32
+Length  30
+Start Time 2015-12-10 19:22:20.732170
+Original Text Not to mention fashion shows 
+
+Original Text Noised Not to mention fashion shows 
+
+Key BEYHZSGMQFIXNRLKVOTJAPDWUC
+Cipher Text Noised Rlj jl nzrjqlr sbtmqlr tmldt 
+
+.....10.0%.....20.0%.....30.0%.......40.0%.....50.0%.......60.0%........70.0%......80.0%.....90.0%......100.0%
+1 BEST:  932.587763442 Not to mention wharion aroua 
+
+End Time 2015-12-10 19:22:42.103901
+Duration 0:00:21.371754
+Length, Accuracy, Duration, 30 , 0.68 , 0:00:21.371771
+Baseline Accuracy:  0.04
+Average Accuracy of Baseline:  0.0558804065619
+Solver Accuracy:  0.68
+Average Accuracy of Solver:  0.780681696916
+Reached same thing many times [2, 1, 1, 1, 8, 6, 2, 7, 1, 4, 1, 6, 1, 1, 4, 1, 2, 1, 1, 3, 1, 1, 1, 1, 2, 1, 1, 3, 1, 1, 1, 1]
+============================
+Iteration  33
+Length  134
+Start Time 2015-12-10 19:22:42.104280
+Original Text From Ben the photographer I learned that a stylist must have more outfit versions prepared than the number he is to take pictures of 
+
+Original Text Noised From Ben the photograkher I learned that a sgylist must have more outfit vemviony prepared than the number he is to taka picturps of 
+
+Key LSTXRAOKIHDGFNCBWMEPYQVJUZ
+Cipher Text Noised Amcf Srn pkr bkcpcomldkrm I grlmnrx pklp l eougiep fyep klqr fcmr cypaip qrfqicnu bmrblmrx pkln pkr nyfsrm kr ie pc pldl bitpymbe ca 
+
+......10.0%......20.0%.......30.0%.....40.0%......50.0%........60.0%.............70.0%.......80.0%.......
