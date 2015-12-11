@@ -1,0 +1,783 @@
+Learning...
+============================
+Iteration  1
+Length  57
+Start Time 2015-12-10 10:19:23.139572
+Original Text Parliament Does Not Support Amendment Freeing Tymoshenko
+
+Original Text Noised Parliament Does Not Support Amendmewt Freeing Tymoshenko
+
+Key APBWUOJVXDKZESYILFHNQRGTCM
+Cipher Text Noised Iafzxaeusn Wyuh Syn Hqiiyfn Aeusweugn Ofuuxsj Nceyhvusky
+
+......10.0%...........20.0%........30.0%.......40.0%.....50.0%...........60.0%........70.0%...........80.0%.........90.0%...........100.0%
+1 BEST:  1672.33826679 Parclament Does Not Support Amendmewt Freelny Timoshengo
+
+End Time 2015-12-10 10:19:50.603657
+Duration 0:00:27.464126
+Length, Accuracy, Duration, 57 , 0.88 , 0:00:27.528219
+Baseline Accuracy:  0.12
+Average Accuracy of Baseline:  0.12
+Solver Accuracy:  0.88
+Average Accuracy of Solver:  0.88
+Reached same thing many times [1]
+============================
+Iteration  2
+Length  188
+Start Time 2015-12-10 10:19:50.668504
+Original Text Today the Ukraine parliament dismissed within the Code of Criminal Procedure amendment the motion to revoke an article based on which the opposition leader Yulia Tymoshenko was sentenced 
+
+Original Text Noised Today the Ukrainu parliament dismissgd wiehin the Code of Criminal Pgocedurn amendment tte motion to revoke an asticle based on whizh the opposition leader Yulia Tymoshenko qas sentenced 
+
+Key MLAICZTVPWEOGHNQDUSFJXYKBR
+Cipher Text Noised Fnimb fvc Jeumphj qmuopmgchf ipsgpssti ypcvph fvc Anic nz Aupgphmo Qtnacijuh mgchigchf ffc gnfpnh fn ucxnec mh msfpaoc lmsci nh yvprv fvc nqqnspfpnh ocmicu Bjopm Fbgnsvchen dms schfchaci 
+
+........10.0%...........20.0%........30.0%.......40.0%......50.0%.........60.0%.........70.0%......80.0%.....90.0%......100.0%
+1 BEST:  5608.52066729 Today the Uvrainu parliament dismisskd wiehin the Code of Criminal Pkocedurn amendment tte motion to regove an asticle based on whizh the opposition leader Yulia Tymoshenvo qas sentenced 
+
+End Time 2015-12-10 10:23:22.748171
+Duration 0:03:32.079732
+Length, Accuracy, Duration, 188 , 0.973509933775 , 0:03:32.079746
+Baseline Accuracy:  0.00662251655629
+Average Accuracy of Baseline:  0.0633112582781
+Solver Accuracy:  0.973509933775
+Average Accuracy of Solver:  0.926754966887
+Reached same thing many times [1, 1]
+============================
+Iteration  3
+Length  179
+Start Time 2015-12-10 10:23:22.748603
+Original Text The amendment that would lead to freeing the imprisoned former Prime Minister was revoked during second reading of the proposal for mitigation of sentences for economic offences 
+
+Original Text Noised The amendment that womld lead to freeing the imprusoned former Prime Ministef was revoked during second readink of the xroppsal for mitigation of sentences for economic offences 
+
+Key EJQATLPKGUCIYZFNWDRMSBVHOX
+Cipher Text Noised Mkt eytzaytzm mkem vfyia itea mf ldttgzp mkt gyndsrfzta lfdytd Ndgyt Ygzgrmtl ver dtbfcta asdgzp rtqfza dteagzc fl mkt hdfnnrei lfd ygmgpemgfz fl rtzmtzqtr lfd tqfzfygq flltzqtr 
+
+.......10.0%......20.0%........30.0%......40.0%............50.0%.......60.0%......70.0%.......80.0%......90.0%.......100.0%
+7 BEST:  5474.57675593 The amendment that womld lead to freeinv the imprusoned former Prime Ministef was reyoged durinv second reading of the broppsal for mitivation of sentences for economic offences 
+
+End Time 2015-12-10 10:26:46.910115
+Duration 0:03:24.161578
+Length, Accuracy, Duration, 179 , 0.965753424658 , 0:03:24.161591
+Baseline Accuracy:  0.0890410958904
+Average Accuracy of Baseline:  0.0718878708156
+Solver Accuracy:  0.965753424658
+Average Accuracy of Solver:  0.939754452811
+Reached same thing many times [1, 1, 7]
+============================
+Iteration  4
+Length  143
+Start Time 2015-12-10 10:26:46.910474
+Original Text In October Tymoshenko was sentenced to seven years in prison for entering into what was reported to be a disadvantageous gas deal with Russia 
+
+Original Text Noised In October Tymoshenko was sentencgd to seven years in prison for entering into that was reported to be a disadvantageous gas deal with Russia 
+
+Key UOTEJQWPBFRYLNMVKHDGCSXIZA
+Cipher Text Noised Bn Mtgmojh Gzlmdpjnrm xud djngjntwe gm djsjn zjuhd bn vhbdmn qmh jngjhbnw bngm gpug xud hjvmhgje gm oj u ebduesunguwjmcd wud ejuy xbgp Hcddbu 
+
+.....10.0%.........20.0%......30.0%.....40.0%........50.0%.......60.0%......70.0%.......80.0%......90.0%......100.0%
+6 BEST:  4993.04071372 In October Tymoshenjo was sentencgd to seven years in prison for entering into that was reported to be a disadvantageous gas deal with Russia 
+
+End Time 2015-12-10 10:30:46.887818
+Duration 0:03:59.977408
+Length, Accuracy, Duration, 143 , 0.991452991453 , 0:03:59.977431
+Baseline Accuracy:  0.111111111111
+Average Accuracy of Baseline:  0.0816936808895
+Solver Accuracy:  0.991452991453
+Average Accuracy of Solver:  0.952679087471
+Reached same thing many times [1, 1, 7, 6]
+============================
+Iteration  5
+Length  81
+Start Time 2015-12-10 10:30:46.888187
+Original Text The verdict is not yet final the court will hear Tymoshenkos appeal in December 
+
+Original Text Noised The verdict is not yet final the court will hear Tyaoshenkos appeal in December 
+
+Key KGIWFDYUQXNLBAJOEHVSCTMPRZ
+Cipher Text Noised Suf tfhwqis qv ajs rfs dqakl suf ijchs mqll ufkh Srkjvufanjv koofkl qa Wfifbgfh 
+
+.......10.0%......20.0%........30.0%.......40.0%..........50.0%........60.0%.......70.0%.......80.0%.......90.0%.....100.0%
+2 BEST:  2709.38992215 The verdict is not get final the court will hear Tgaoshenyos appeal in December 
+
+End Time 2015-12-10 10:32:52.136731
+Duration 0:02:05.248624
+Length, Accuracy, Duration, 81 , 0.954545454545 , 0:02:05.248648
+Baseline Accuracy:  0.0606060606061
+Average Accuracy of Baseline:  0.0774761568328
+Solver Accuracy:  0.954545454545
+Average Accuracy of Solver:  0.953052360886
+Reached same thing many times [1, 1, 7, 6, 2]
+============================
+Iteration  6
+Length  132
+Start Time 2015-12-10 10:32:52.137228
+Original Text Tymoshenko claims the verdict is a political revenge of the regime in the West the trial has also evoked suspicion of being biased 
+
+Original Text Noised Tymoshenko claims the vyrdict is a polgtizal revenge of thu regime xn the Rest the trial has also evoked mkspicion of beint biuseh 
+
+Key BHMKIFORDPYXCNEZUALQSGJTWV
+Cipher Text Noised Qwcelrinye mxbdcl qri gwakdmq dl b zexoqdvbx aiginoi ef qrs aiodci tn qri Ailq qri qadbx rbl bxle igeyik cylzdmden ef hidnq hdslir 
+
+........10.0%......20.0%......30.0%..........40.0%...........50.0%..........60.0%.......70.0%......80.0%......90.0%......100.0%
+2 BEST:  4108.37800113 Tymoshenuo claims the vyrdict is a polgtizal revenge of thk regime wn the Rest the trial has also evoued muspicion of beint bikseh 
+
+End Time 2015-12-10 10:36:19.924475
+Duration 0:03:27.787316
+Length, Accuracy, Duration, 132 , 0.979591836735 , 0:03:27.787338
+Baseline Accuracy:  0.0408163265306
+Average Accuracy of Baseline:  0.0713661851157
+Solver Accuracy:  0.979591836735
+Average Accuracy of Solver:  0.957475606861
+Reached same thing many times [1, 1, 7, 6, 2, 2]
+============================
+Iteration  7
+Length  15
+Start Time 2015-12-10 10:36:19.924740
+Original Text Libyas Victory
+
+Original Text Noised Libyas Fictory
+
+Key FWNLCXPYKBUZAOHSVTRDIMEJGQ
+Cipher Text Noised Zkwgfr Xkndhtg
+
+.....10.0%......20.0%......30.0%.....40.0%.......50.0%.........60.0%.........70.0%........80.0%....90.0%.......100.0%
+1 BEST:  404.504707462 Waters Machine
+
+End Time 2015-12-10 10:36:23.757226
+Duration 0:00:03.832503
+Length, Accuracy, Duration, 15 , 0.230769230769 , 0:00:03.832516
+Baseline Accuracy:  0.0769230769231
+Average Accuracy of Baseline:  0.0721600268025
+Solver Accuracy:  0.230769230769
+Average Accuracy of Solver:  0.853660410276
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1]
+============================
+Iteration  8
+Length  70
+Start Time 2015-12-10 10:36:23.757441
+Original Text The story of Libyas liberation or rebellion already has its defeated 
+
+Original Text Noised The story of Libyas liberation or rebellion already has its defeapee 
+
+Key HIXBYQCVGTKZMJLRDPOUWSNAEF
+Cipher Text Noised Uvy oulpe lq Zgieho zgiyphuglj lp pyiyzzglj hzpyhbe vho guo byqyhryy 
+
+......10.0%......20.0%.............30.0%......40.0%.......50.0%.......60.0%........70.0%........80.0%.........90.0%.....100.0%
+2 BEST:  2152.54202771 The story of Libyas liberation or rebellion already has its defeacee 
+
+End Time 2015-12-10 10:38:05.880897
+Duration 0:01:42.123536
+Length, Accuracy, Duration, 70 , 1.0 , 0:01:42.123559
+Baseline Accuracy:  0.0701754385965
+Average Accuracy of Baseline:  0.0719119532768
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.871952858992
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2]
+============================
+Iteration  9
+Length  89
+Start Time 2015-12-10 10:38:05.881294
+Original Text Muammar Kaddafi is buried at an unknown place in the desert Without him the war is over 
+
+Original Text Noised Muammar Kaddafi il buried at an unknown place in the desert Withouu him thp war is over 
+
+Key YLADVTSUEORKWXZPJNCIQHFGBM
+Cipher Text Noised Wqywwyn Ryddyte ek lqnevd yi yx qxrxzfx pkyav ex iuv dvcvni Feiuzqq uew iup fyn ec zhvn 
+
+.....10.0%............20.0%......30.0%........40.0%.....50.0%......60.0%.......70.0%........80.0%......90.0%.......100.0%
+1 BEST:  2514.31779569 Ciaccan Warrago ol dinoer at as iswsums blaye os the refent Mothuii hoc thb man of upen 
+
+End Time 2015-12-10 10:41:01.697378
+Duration 0:02:55.816147
+Length, Accuracy, Duration, 89 , 0.36231884058 , 0:02:55.816170
+Baseline Accuracy:  0.0144927536232
+Average Accuracy of Baseline:  0.0655320422041
+Solver Accuracy:  0.36231884058
+Average Accuracy of Solver:  0.815326856946
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1]
+============================
+Iteration  10
+Length  34
+Start Time 2015-12-10 10:41:01.697623
+Original Text It is time to define the winners 
+
+Original Text Noised It is time to define the winners 
+
+Key LZJTROPHXNMVCWBYFUEIDGKSAQ
+Cipher Text Noised Xi xe ixcr ib troxwr ihr kxwwrue 
+
+......10.0%.......20.0%.....30.0%.....40.0%......50.0%.....60.0%......70.0%.....80.0%......90.0%.....100.0%
+1 BEST:  1069.04033152 At as tave to recale the malleus 
+
+End Time 2015-12-10 10:42:01.166919
+Duration 0:00:59.469326
+Length, Accuracy, Duration, 34 , 0.518518518519 , 0:00:59.469340
+Baseline Accuracy:  0.037037037037
+Average Accuracy of Baseline:  0.0626825416874
+Solver Accuracy:  0.518518518519
+Average Accuracy of Solver:  0.785646023103
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1]
+============================
+Iteration  11
+Length  106
+Start Time 2015-12-10 10:42:01.167226
+Original Text As a rule Islamists win in the country the question is whether they are the moderate or the radical ones 
+
+Original Text Noised As a rule Islamists win in the countiy the question ms whether they are the moderate or thn radical ones 
+
+Key HDBXWFJTPGNEUMCQAIRYVOSZKL
+Cipher Text Noised Hr h ivew Prehupryr spm pm ytw bcvmypk ytw avwrypcm ur stwytwi ytwk hiw ytw ucxwihyw ci ytm ihxpbhe cmwr 
+
+.......10.0%......20.0%.......30.0%.......40.0%........50.0%.......60.0%......70.0%.......80.0%.....90.0%.......100.0%
+2 BEST:  3797.06948404 As a rule Islamists win in the countiy the question ms whether they are the moderate or thn radical ones 
+
+End Time 2015-12-10 10:45:39.575490
+Duration 0:03:38.408328
+Length, Accuracy, Duration, 106 , 1.0 , 0:03:38.408344
+Baseline Accuracy:  0.0843373493976
+Average Accuracy of Baseline:  0.0646511605702
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.805132748276
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2]
+============================
+Iteration  12
+Length  112
+Start Time 2015-12-10 10:45:39.575817
+Original Text The transitional cabinet declared itself a follower of the customary Sharia law of which we have already heard 
+
+Original Text Noised The transitional cabinet declbred itself a foldower of the custodjry Sharia law of which we have already heard 
+
+Key LZSMUTDRKAPECXHYBWGOQIFJNV
+Cipher Text Noised Oru owlxgkokhxle slzkxuo musezwum koguet l themhfuw ht oru sqgohmawn Grlwkl elf ht frksr fu rliu lewulmn rulwm 
+
+........10.0%......20.0%........30.0%.....40.0%.....50.0%.......60.0%..........70.0%......80.0%.......90.0%......100.0%
+2 BEST:  3691.47219678 The transitional cabinet declbred itself a foldower of the custodgry Sharia law of which we have already heard 
+
+End Time 2015-12-10 10:48:00.767618
+Duration 0:02:21.191834
+Length, Accuracy, Duration, 112 , 1.0 , 0:02:21.191848
+Baseline Accuracy:  0.0777777777778
+Average Accuracy of Baseline:  0.0657450453375
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.821371685919
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2]
+============================
+Iteration  13
+Length  101
+Start Time 2015-12-10 10:48:00.767877
+Original Text Libya will become a crime free country as the punishment for stealing is having ones hand amputated 
+
+Original Text Noised Libya will beceme a chime free country as the puwishment for steating is having ones hand amputated 
+
+Key QXCEDMIZTRULBNJKWVHSGAOPFY
+Cipher Text Noised Ltxfq otll xdcdbd q cztbd mvdd cjgnsvf qh szd kgothzbdns mjv hsdqstni th zqatni jndh zqne qbkgsqsde 
+
+......10.0%.......20.0%.....30.0%........40.0%.......50.0%.......60.0%......70.0%......80.0%.....90.0%.........100.0%
+1 BEST:  2989.57495006 Libya will beceme a chime free country as the puwishment for steating is having ones hand amputated 
+
+End Time 2015-12-10 10:49:46.939473
+Duration 0:01:46.171666
+Length, Accuracy, Duration, 101 , 1.0 , 0:01:46.171692
+Baseline Accuracy:  0.0625
+Average Accuracy of Baseline:  0.0654954264654
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.835112325464
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1]
+============================
+Iteration  14
+Length  88
+Start Time 2015-12-10 10:49:46.939867
+Original Text Women can forget about emancipation potential religious renegades will be executed etc 
+
+Original Text Noised Womer can forget about nmancqpatpon powential religious renegades will be execuwed etc 
+
+Key PCRYXGFVSLUZTIEJOABMKWQHND
+Cipher Text Noised Qetxa rpi geafxm pcekm itpirojpmjei jeqximspz axzsfsekb axixfpyxb qszz cx xhxrkqxy xmr 
+
+.....10.0%.......20.0%.......30.0%.......40.0%........50.0%........60.0%......70.0%.....80.0%.........90.0%.......100.0%
+1 BEST:  2506.84043971 Womer can forget about nmanckhathon howential religious renegaves will be edecuwev etc 
+
+End Time 2015-12-10 10:50:55.303767
+Duration 0:01:08.363966
+Length, Accuracy, Duration, 88 , 0.928571428571 , 0:01:08.363980
+Baseline Accuracy:  0.0142857142857
+Average Accuracy of Baseline:  0.0618375898811
+Solver Accuracy:  0.928571428571
+Average Accuracy of Solver:  0.841787975686
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1]
+============================
+Iteration  15
+Length  88
+Start Time 2015-12-10 10:50:55.304066
+Original Text Instead of a dictator a society consisting of competing tribes will be united by Koran 
+
+Original Text Noised Instead of a dictatox p society einsisting of iompeting tribes will be united by Koran 
+
+Key YEMADNUTSQLJRFKXPWZGOIBCHV
+Cipher Text Noised Sfzgdya kn y asmgygkc x zkmsdgh dsfzszgsfu kn skrxdgsfu gwsedz bsjj ed ofsgda eh Lkwyf 
+
+......10.0%......20.0%......30.0%......40.0%..........50.0%.......60.0%.......70.0%.........80.0%......90.0%......100.0%
+1 BEST:  2631.72060396 Instead of a dictator p society einsisting of iompeting thibes will be united by Johan 
+
+End Time 2015-12-10 10:53:25.349476
+Duration 0:02:30.045469
+Length, Accuracy, Duration, 88 , 0.955882352941 , 0:02:30.045491
+Baseline Accuracy:  0.0588235294118
+Average Accuracy of Baseline:  0.0616366525165
+Solver Accuracy:  0.955882352941
+Average Accuracy of Solver:  0.849394267503
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1]
+============================
+Iteration  16
+Length  74
+Start Time 2015-12-10 10:53:25.349815
+Original Text Libya will be in an order we cannot imagine and surely would not ask for 
+
+Original Text Noised Libya will be in an order we annnot imagine and surely oould not ask for 
+
+Key AZNKDRUMYXBLTVIPFOSJWGQHCE
+Cipher Text Noised Lyzca qyll zd yv av iokdo qd avvvij ytauyvd avk swodlc iiwlk vij asb rio 
+
+.......10.0%.......20.0%........30.0%.........40.0%.....50.0%..........60.0%......70.0%......80.0%......90.0%......100.0%
+1 BEST:  2489.76081291 Libya mill be in an order me annnot icagine and surely oould not ask for 
+
+End Time 2015-12-10 10:55:55.348740
+Duration 0:02:29.998987
+Length, Accuracy, Duration, 74 , 0.946428571429 , 0:02:29.999011
+Baseline Accuracy:  0.0535714285714
+Average Accuracy of Baseline:  0.0611325760199
+Solver Accuracy:  0.946428571429
+Average Accuracy of Solver:  0.855458911498
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1]
+============================
+Iteration  17
+Length  134
+Start Time 2015-12-10 10:55:55.349213
+Original Text However our lifestyle is neither unique nor the best one and would not most probably be suitable for for example the people of Libya 
+
+Original Text Noised However olr lrfkstyle iw neither unique nor the best one ann would not most probably be suitable for fou example the people of Libya 
+
+Key VSQEIXNPDHLFYJRUOGTAKBCWMZ
+Cipher Text Noised Prcibig rfg fgxltamfi dc jidapig kjdoki jrg api sita rji vjj crkfe jra yrta ugrsvsfm si tkdavsfi xrg xrk iwvyufi api uirufi rx Fdsmv 
+
+.......10.0%........20.0%......30.0%.......40.0%.......50.0%.......60.0%........70.0%.......80.0%...........90.0%.............100.0%
+5 BEST:  4356.88905463 However olr lrfgstyle iw neither unicue nor the best one ann would not most probably be suitable for fou example the people of Libya 
+
+End Time 2015-12-10 11:00:08.534678
+Duration 0:04:13.185547
+Length, Accuracy, Duration, 134 , 0.990384615385 , 0:04:13.185574
+Baseline Accuracy:  0.0288461538462
+Average Accuracy of Baseline:  0.0592333747156
+Solver Accuracy:  0.990384615385
+Average Accuracy of Solver:  0.863395717609
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5]
+============================
+Iteration  18
+Length  86
+Start Time 2015-12-10 11:00:08.535075
+Original Text In fact it is a wonder that the Islamic fighters accepted help from the nonbelievers 
+
+Original Text Noised In fact it is a wonder that the Islamic aighzeru accepted help frrm the nonbelievers 
+
+Key SUTJRZQPHDACMNFOGKLVEXIWYB
+Cipher Text Noised Hn zstv hv hl s ifnjrk vpsv vpr Hlcsmht shqpbrke sttrovrj prco zkkm vpr nfnurchrxrkl 
+
+........10.0%......20.0%.......30.0%.......40.0%.........50.0%.......60.0%........70.0%.......80.0%......90.0%.......100.0%
+3 BEST:  3002.42525772 In fact it is a wonder that the Islamic aighbery accepted help frrm the nonuelievers 
+
+End Time 2015-12-10 11:03:15.574502
+Duration 0:03:07.039496
+Length, Accuracy, Duration, 86 , 0.985074626866 , 0:03:07.039519
+Baseline Accuracy:  0.0298507462687
+Average Accuracy of Baseline:  0.0576010064685
+Solver Accuracy:  0.985074626866
+Average Accuracy of Solver:  0.870155657012
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3]
+============================
+Iteration  19
+Length  171
+Start Time 2015-12-10 11:03:15.575081
+Original Text Their only excuse is that from their point of view NATO raids were not controlled by an American general but Allah the greatness of whom they celebrated with each strike 
+
+Original Text Noised Their only evcuse is that from tveir ptint of view NATO raids qere not controlled by an Americwn general bxt Allah the grektness of whom they celebrated with each strike 
+
+Key ZBKNQJEUTPVSOLMGFWYCIHARDX
+Cipher Text Noised Cuqtw mlsd qhkiyq ty cuzc jwmo chqtw gctlc mj htqa LZCM wztny fqwq lmc kmlcwmssqn bd zl Zoqwtkal eqlqwzs brc Zsszu cuq ewqvclqyy mj aumo cuqd kqsqbwzcqn atcu qzku ycwtvq 
+
+.......10.0%.......20.0%........30.0%...........40.0%........50.0%........60.0%.....70.0%......80.0%.......90.0%........100.0%
+2 BEST:  5343.32900403 Their only evckse is that from tveir ptint of view NATO raids jere not controlled by an Americwn general but Allah the grextness of whom they celebrated with each strixe 
+
+End Time 2015-12-10 11:06:55.758696
+Duration 0:03:40.183688
+Length, Accuracy, Duration, 171 , 0.985074626866 , 0:03:40.183716
+Baseline Accuracy:  0.0522388059701
+Average Accuracy of Baseline:  0.0573187853897
+Solver Accuracy:  0.985074626866
+Average Accuracy of Solver:  0.876204023847
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2]
+============================
+Iteration  20
+Length  66
+Start Time 2015-12-10 11:06:55.759085
+Original Text When winners are sought for in Libya the West is not on the list 
+
+Original Text Noised When winners are sought fow in Libyj tie Eest is not oz the list 
+
+Key RPOJGLUZQNXHKVYDFCIBEMTASW
+Cipher Text Noised Tzgv tqvvgci rcg iyeuzb lyt qv Hqpsn bqg Ggib qi vyb yw bzg hqib 
+
+......10.0%.......20.0%......30.0%.....40.0%.....50.0%.........60.0%.......70.0%.........80.0%............90.0%.....100.0%
+1 BEST:  2206.71150329 When winners are sought yow in Likpd tie Eest is not of the list 
+
+End Time 2015-12-10 11:09:35.549468
+Duration 0:02:39.790445
+Length, Accuracy, Duration, 66 , 0.936170212766 , 0:02:39.790471
+Baseline Accuracy:  0.0212765957447
+Average Accuracy of Baseline:  0.0555166759074
+Solver Accuracy:  0.936170212766
+Average Accuracy of Solver:  0.879202333293
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1]
+============================
+Iteration  21
+Length  139
+Start Time 2015-12-10 11:09:35.549949
+Original Text We participated in a shooting served Islam and our politicians got rid of a dictator their political ally without any guarantee of profit 
+
+Original Text Noised We participated in a shooting served Islam and our politicians got rid of a dictator wheir loliticjl allh without any guarantee of profit 
+
+Key YRBEWOGXIHMATPZJSLCUFDVQKN
+Cipher Text Noised Vw jyluibijyuwe ip y cxzzuipg cwldwe Icayt ype zfl jzaiuibiypc gzu lie zo y eibuyuzl vxwil azaiuibha yaax viuxzfu ypk gfylypuww zo jlzoiu 
+
+.......10.0%........20.0%.......30.0%.....40.0%.......50.0%........60.0%.......70.0%.......80.0%............90.0%......100.0%
+3 BEST:  4528.94679837 We participated in a shooting served Islam and our politicians got rid of a dictator wheir lolitickl allh without any guarantee of profit 
+
+End Time 2015-12-10 11:15:04.445996
+Duration 0:05:28.896118
+Length, Accuracy, Duration, 139 , 1.0 , 0:05:28.896140
+Baseline Accuracy:  0.00892857142857
+Average Accuracy of Baseline:  0.0532981947418
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.884954603136
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3]
+============================
+Iteration  22
+Length  107
+Start Time 2015-12-10 11:15:04.446416
+Original Text Given the recent bad experience from Afghanistan and Iraq we decided against military occupation of Libya 
+
+Original Text Noised Gigen the recent bad experiwnce from Afghanisxan and Iraq we decided against military occupation of Liboa 
+
+Key NMGFUDCOVPSIXYTAERKLBZHJQW
+Cipher Text Noised Cvcuy lou ruguyl mnf ujaurvhygu drtx Ndconyvkjny nyf Vrne hu fugvfuf ncnvykl xvivlnrq tggbanlvty td Ivmtn 
+
+............10.0%............20.0%........30.0%......40.0%............50.0%.......60.0%......70.0%.......80.0%........90.0%.......100.0%
+2 BEST:  3245.40718735 Gigen the recent bad experiwnce from Afghanisxan and Iraq we decided against military occupation of Liboa 
+
+End Time 2015-12-10 11:19:07.827598
+Duration 0:04:03.381251
+Length, Accuracy, Duration, 107 , 1.0 , 0:04:03.381276
+Baseline Accuracy:  0.0689655172414
+Average Accuracy of Baseline:  0.0540103457645
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.890183939357
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2]
+============================
+Iteration  23
+Length  96
+Start Time 2015-12-10 11:19:07.827999
+Original Text Without the occupation will the oil companies get Libyas black gold for next to nothing though 
+
+Original Text Noised Without the occupation will the oil companies met Libyas jlack gold for next ta nmthing though 
+
+Key UHLDAFQNIERZTOWYPXJBVCKMGS
+Cipher Text Noised Kibnwvb bna wllvyubiwo kizz bna wiz lwtyuoiaj tab Zihguj ezulr qwzd fwx oamb bu otbnioq bnwvqn 
+
+......10.0%......20.0%.......30.0%.........40.0%........50.0%.......60.0%.......70.0%...........80.0%......90.0%...........100.0%
+1 BEST:  2938.62508743 Without the occupation will the oil companies met Livyas black gold for next ta nmthing though 
+
+End Time 2015-12-10 11:21:34.776071
+Duration 0:02:26.948147
+Length, Accuracy, Duration, 96 , 0.986842105263 , 0:02:26.948173
+Baseline Accuracy:  0.0789473684211
+Average Accuracy of Baseline:  0.0550945641408
+Solver Accuracy:  0.986842105263
+Average Accuracy of Solver:  0.89438646831
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1]
+============================
+Iteration  24
+Length  129
+Start Time 2015-12-10 11:21:34.776529
+Original Text It is quite likely that they will not The West will then finally be able to boast about its selfless protection of human rights 
+
+Original Text Noised It is quite likely than they will not Khe West will then finally be able to boast cbout its sjlfless protection of human rights 
+
+Key ZQETXDIVNMYUGLPHBWSOFJCRAK
+Cipher Text Noised No ns bfnox unyxua ovzl ovxa cnuu lpo Yvx Cxso cnuu ovxl dnlzuua qx zqux op qpzso eqpfo nos smuduxss hwpoxeonpl pd vfgzl wnivos 
+
+.......10.0%......20.0%............30.0%.....40.0%.......50.0%...........60.0%........70.0%.............80.0%......90.0%......100.0%
+2 BEST:  4573.71776648 It is quite likely than they will not Khe West will then finally be able to boast cbout its splfless drotection of human rights 
+
+End Time 2015-12-10 11:26:05.159814
+Duration 0:04:30.383347
+Length, Accuracy, Duration, 129 , 0.990099009901 , 0:04:30.383369
+Baseline Accuracy:  0.0693069306931
+Average Accuracy of Baseline:  0.0556867460805
+Solver Accuracy:  0.990099009901
+Average Accuracy of Solver:  0.898374490876
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2]
+============================
+Iteration  25
+Length  59
+Start Time 2015-12-10 11:26:05.160213
+Original Text Unless the followers of the Sharia law put a stop to that 
+
+Original Text Noised Unless the rollowers of the Ezarka lzw put a stop to that 
+
+Key YCITWFDZSUPKBLRXJNGOHAQVEM
+Cipher Text Noised Hlkwgg ozw nrkkrqwng rf ozw Wmynpy kmq xho y gorx or ozyo 
+
+......10.0%.......20.0%.......30.0%.....40.0%.......50.0%......60.0%......70.0%......80.0%.......90.0%..........100.0%
+2 BEST:  2016.78080722 Unless the rollowers of the Eiarda liw put a stop to that 
+
+End Time 2015-12-10 11:28:32.306589
+Duration 0:02:27.146439
+Length, Accuracy, Duration, 59 , 1.0 , 0:02:27.146463
+Baseline Accuracy:  0.119047619048
+Average Accuracy of Baseline:  0.0582211809992
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.902439511241
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2]
+============================
+Iteration  26
+Length  28
+Start Time 2015-12-10 11:28:32.306818
+Original Text New Era of Crisis Commences
+
+Original Text Noised New Era of Crisis Commences
+
+Key ZCKHAMDREJPFGWYLXQNSTUBVIO
+Cipher Text Noised Wab Aqz ym Kqenen Kyggawkan
+
+.....10.0%.....20.0%......30.0%.....40.0%.........50.0%......60.0%.....70.0%.....80.0%.......90.0%......100.0%
+1 BEST:  874.805521143 Car And to Ineses Itllacias
+
+End Time 2015-12-10 11:29:11.950904
+Duration 0:00:39.644165
+Length, Accuracy, Duration, 28 , 0.166666666667 , 0:00:39.644192
+Baseline Accuracy:  0.0833333333333
+Average Accuracy of Baseline:  0.059187033012
+Solver Accuracy:  0.166666666667
+Average Accuracy of Solver:  0.87414055568
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2, 1]
+============================
+Iteration  27
+Length  49
+Start Time 2015-12-10 11:29:11.951252
+Original Text A statistical storm blew over Europe on Tuesday 
+
+Original Text Noised A statisticzl storm blew over Europe on Tuesdry 
+
+Key MDKUBSYCLXQGWPNZFJIREVAHOT
+Cipher Text Noised M irmrlirlktg irnjw dgba nvbj Bejnzb np Rebiujo 
+
+.......10.0%.....20.0%....30.0%.........40.0%.............50.0%.........60.0%........70.0%.........80.0%..........90.0%........100.0%
+1 BEST:  1228.06367826 M tamaitaidgl taseu blow scoe Onespo sf Another 
+
+End Time 2015-12-10 11:30:08.051452
+Duration 0:00:56.100258
+Length, Accuracy, Duration, 49 , 0.205128205128 , 0:00:56.100280
+Baseline Accuracy:  0.025641025641
+Average Accuracy of Baseline:  0.0579445882946
+Solver Accuracy:  0.205128205128
+Average Accuracy of Solver:  0.849362320475
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2, 1, 1]
+============================
+Iteration  28
+Length  77
+Start Time 2015-12-10 11:30:08.051796
+Original Text Between quarters the Czech economy stagnated Germany and France are growing 
+
+Original Text Noised Bptween quacters the Czzch economy stagnated Germany and France are grpwing 
+
+Key JZGWUMIEPOAHKRYTXVDBCQSFNL
+Cipher Text Noised Ztbsuur xcjgbuvd beu Gllge ugyrykn dbjirjbuw Iuvkjrn jrw Mvjrgu jvu ivtspri 
+
+.............10.0%...........20.0%.......30.0%........40.0%.........50.0%.......60.0%..........70.0%....80.0%.....90.0%.....100.0%
+1 BEST:  2008.61682888 Buiteen spacierw ive Cllcv economy wiagnaied Germany and France are gruthng 
+
+End Time 2015-12-10 11:30:57.261320
+Duration 0:00:49.209598
+Length, Accuracy, Duration, 77 , 0.758064516129 , 0:00:49.209621
+Baseline Accuracy:  0.0806451612903
+Average Accuracy of Baseline:  0.0587553230444
+Solver Accuracy:  0.758064516129
+Average Accuracy of Solver:  0.846101684605
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2, 1, 1, 1]
+============================
+Iteration  29
+Length  48
+Start Time 2015-12-10 11:30:57.261600
+Original Text Yet the debit market is breaking records today 
+
+Original Text Noised Yet the debit market is breaking records today 
+
+Key GSUKJCPQVNZHIDOYAEWTMXBFRL
+Cipher Text Noised Rjt tqj kjsvt igezjt vw sejgzvdp ejuoekw tokgr 
+
+.......10.0%.....20.0%......30.0%.....40.0%.........50.0%.......60.0%......70.0%........80.0%...........90.0%.........100.0%
+1 BEST:  1444.67720368 Yet the debit market is breaking repords today 
+
+End Time 2015-12-10 11:38:44.993313
+Duration 0:07:47.731848
+Length, Accuracy, Duration, 48 , 0.975 , 0:07:47.731892
+Baseline Accuracy:  0.15
+Average Accuracy of Baseline:  0.0619016912153
+Solver Accuracy:  0.975
+Average Accuracy of Solver:  0.850546454102
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1]
+============================
+Iteration  30
+Length  97
+Start Time 2015-12-10 11:38:44.993979
+Original Text Investors are no longer looking at only Italy they now focus on Spain France Austria and others 
+
+Original Text Noised Investorn are no longer looking at only Italy they now focus on Spain France Austyia anl others 
+
+Key GYWFPDMVBCAZSOQNHEXILKJUTR
+Cipher Text Noised Bokpxiqeo gep oq zqompe zqqabom gi qozt Bigzt ivpt oqj dqwlx qo Xngbo Degowp Glxitbg goz qivpex 
+
+..........10.0%......20.0%......30.0%.......40.0%......50.0%............60.0%......70.0%.......80.0%.......90.0%..........100.0%
+2 BEST:  3124.94363519 Investorn are no longer looking at only Italy they now focus on Spain France Austyia anl others 
+
+End Time 2015-12-10 11:41:50.377331
+Duration 0:03:05.383421
+Length, Accuracy, Duration, 97 , 1.0 , 0:03:05.383443
+Baseline Accuracy:  0.0779220779221
+Average Accuracy of Baseline:  0.0624357041056
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.855528238965
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 2]
+============================
+Iteration  31
+Length  163
+Start Time 2015-12-10 11:41:50.399499
+Original Text Eurozone statistical offices in Germany Czech Republic and some other countries released their preliminary estimates of economic development in the third quarter 
+
+Original Text Noised Eurozone statistical offices in Permany Cvech Republic and some other countries released their preliminary nstimates of economic devexopment in the third quaotgr 
+
+Key AYGUOSMNJLCKWFQERIXVDPHZBT
+Cipher Text Noised Odiqtqfo xvavjxvjgak qssjgox jf Eoiwafb Gpogn Ioedykjg afu xqwo qvnoi gqdfvijox iokoaxou vnoji eiokjwjfaib fxvjwavox qs ogqfqwjg uopozqewofv jf vno vnjiu rdaqvmi 
+
+......10.0%........20.0%......30.0%.......40.0%.....50.0%......60.0%.......70.0%......80.0%......90.0%........100.0%
+6 BEST:  5171.36600517 Eurowone statistical offices in Permany Cvech Republic and some other countries released their preliminary nstimates of economic devegopment in the third quaotkr 
+
+End Time 2015-12-10 11:44:21.263210
+Duration 0:02:30.863782
+Length, Accuracy, Duration, 163 , 0.992592592593 , 0:02:30.863806
+Baseline Accuracy:  0.0962962962963
+Average Accuracy of Baseline:  0.063527981273
+Solver Accuracy:  0.992592592593
+Average Accuracy of Solver:  0.859949669727
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 2, 6]
+============================
+Iteration  32
+Length  154
+Start Time 2015-12-10 11:44:21.263759
+Original Text Between the quarters though the GDP stagnated According to the Czech Statistical Office this confirmed the trend of a gradual slowing of economic growth 
+
+Original Text Noised Between the wuarters though the GDP stagnatek Acczrdieg to the Czeco Statistical Office tnis confirmee the trend ff a gradual slowing of gconomic growth 
+
+Key WOBGMEVCSNLJRZFXQKTYHDIUPA
+Cipher Text Noised Omyimmz ycm ihwkymkt ycfhvc ycm VGX tywvzwyml Wbbakgsmv yf ycm Bambf Tywystysbwj Feesbm yzst bfzeskrmm ycm ykmzg ee w vkwghwj tjfiszv fe vbfzfrsb vkfiyc 
+
+........10.0%......20.0%..........30.0%......40.0%.......50.0%......60.0%.......70.0%.........80.0%...........90.0%........100.0%
+4 BEST:  4640.74670787 Between the wuarters though the GDP stagnatey Acckrdieg to the Ckeco Statistical Office tnis confirmee the trend ff a gradual slowing of gconomic growth 
+
+End Time 2015-12-10 11:51:44.632960
+Duration 0:07:23.369270
+Length, Accuracy, Duration, 154 , 0.99173553719 , 0:07:23.369300
+Baseline Accuracy:  0.115702479339
+Average Accuracy of Baseline:  0.0651584343376
+Solver Accuracy:  0.99173553719
+Average Accuracy of Solver:  0.864067978085
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 2, 6, 4]
+============================
+Iteration  33
+Length  50
+Start Time 2015-12-10 11:51:44.633349
+Original Text The results are worse than estimates by analysts 
+
+Original Text Noised The resuxts are worse than estimates by analtsts 
+
+Key QBRVSACJDNIGLHOFMWUXZYKTEP
+Cipher Text Noised Xjs wsuztxu qws kowus xjqh suxdlqxsu be qhqgxuxu 
+
+........10.0%........20.0%........30.0%......40.0%.......50.0%.......60.0%.......70.0%........80.0%.......90.0%........100.0%
+1 BEST:  1647.33562697 The results are worse than estimates by anactsts 
+
+End Time 2015-12-10 11:53:37.497934
+Duration 0:01:52.894286
+Length, Accuracy, Duration, 50 , 0.975 , 0:01:52.894433
+Baseline Accuracy:  0.025
+Average Accuracy of Baseline:  0.0639415120849
+Solver Accuracy:  0.975
+Average Accuracy of Solver:  0.867429554507
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 2, 6, 4, 1]
+============================
+Iteration  34
+Length  12
+Start Time 2015-12-10 11:53:37.528715
+Original Text Key events 
+
+Original Text Noised Key events 
+
+Key RKVCTNSHMPBDIFEJLWZXOYGUQA
+Cipher Text Noised Btq tytfxz 
+
+.........10.0%.....20.0%....30.0%.......40.0%....50.0%.....60.0%......70.0%....80.0%....90.0%.....100.0%
+1 BEST:  308.566918945 And ninety 
+
+End Time 2015-12-10 11:54:05.952195
+Duration 0:00:28.423592
+Length, Accuracy, Duration, 12 , 0.2 , 0:00:28.423660
+Baseline Accuracy:  0.1
+Average Accuracy of Baseline:  0.0650020558471
+Solver Accuracy:  0.2
+Average Accuracy of Solver:  0.847799273492
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 2, 6, 4, 1, 1]
+============================
+Iteration  35
+Length  80
+Start Time 2015-12-10 11:54:05.952743
+Original Text Earnings of both Italian and Spanish bonds are growing towards critical limits 
+
+Original Text Noised Earnirgs of both Italian and Spanish bonds are growtng towards critical limits 
+
+Key FSXEJBLHTINGCZDWMPKUAQRVYO
+Cipher Text Noised Jfpztplk db sduh Tufgtfz fze Kwfztkh sdzek fpj lpdruzl udrfpek xptutxfg gtctuk 
+
+........10.0%........20.0%......30.0%.......40.0%.......50.0%.......60.0%......70.0%.....80.0%......90.0%.......100.0%
+1 BEST:  2071.12239267 Earnirgy of most Isalian and Ypaniyt mondy are growsng sowardy crisical livisy 
+
+End Time 2015-12-10 12:08:38.348613
+Duration 0:14:32.396259
+Length, Accuracy, Duration, 80 , 0.757575757576 , 0:14:32.396370
+Baseline Accuracy:  0.0151515151515
+Average Accuracy of Baseline:  0.0635777546844
+Solver Accuracy:  0.757575757576
+Average Accuracy of Solver:  0.845221458752
+Reached same thing many times [1, 1, 7, 6, 2, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 5, 3, 2, 1, 3, 2, 1, 2, 2, 1, 1, 1, 1, 2, 6, 4, 1, 1, 1]
+============================
+Iteration  36
+Length  86
+Start Time 2015-12-10 12:08:38.350071
+Original Text Even Austria Netherlands France and Belgium etc are beginning to experience problems 
+
+Original Text Noised Even Austria Netherlands France and Bklgcum etc are beginning to vxperience prcblems 
+
+Key JFRBPQUWENTSDZGVHACXKMOLYI
+Cipher Text Noised Pmpz Jkcxaej Zpxwpasjzbc Qajzrp jzb Ftsurkd pxr jap fpuezzezu xg mlvpaepzrp varfspdc 
+
+...........10.0%......20.0%........30.0%...........40.0%.....50.0%.

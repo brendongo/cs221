@@ -19,7 +19,8 @@ def main(argv):
     verbose = False
     noise = 0.05
     numIterations = 0
-    minLength = 0
+    minLength = 10
+    maxLength = 60
 
     def printHelpMessage():
         print 'decryptor.py [-i <n-gram file> -t <testfile> -n <noise level>]'
@@ -52,6 +53,7 @@ def main(argv):
 
     for original_text in original_text_file:
         if len(original_text) < minLength: continue
+        if len(original_text) > maxLength: continue
         numIterations += 1
         encryption_key = util.generateKey()
         original_text_noised = util.add_noise(original_text, noise)

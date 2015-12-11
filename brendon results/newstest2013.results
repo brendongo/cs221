@@ -1,0 +1,937 @@
+Learning...
+============================
+Iteration  1
+Length  57
+Start Time 2015-12-10 10:19:23.133782
+Original Text A Republican strategy to counter the reelection of Obama
+
+Original Text Noised A Oepublican strategy to counger the reeldction of Obama
+
+Key JWVXYKCOSABIPFGNMDHRZQETLU
+Cipher Text Noised J Gynzwisvjf hrdjrycl rg vgzfcyd roy dyyixvrsgf gk Gwjpj
+
+........10.0%.....20.0%.........30.0%......40.0%......50.0%.......60.0%.....70.0%........80.0%..........90.0%......100.0%
+1 BEST:  1388.16283015 E Otrubildeg wayeathm ao doughty act yttindalog of Obese
+
+End Time 2015-12-10 10:20:33.893365
+Duration 0:01:10.759626
+Length, Accuracy, Duration, 57 , 0.239130434783 , 0:01:10.759643
+Baseline Accuracy:  0.0217391304348
+Average Accuracy of Baseline:  0.0217391304348
+Solver Accuracy:  0.239130434783
+Average Accuracy of Solver:  0.239130434783
+Reached same thing many times [1]
+============================
+Iteration  2
+Length  81
+Start Time 2015-12-10 10:20:33.893684
+Original Text Republican leaders justified their policy by the need to combat electoral fraud 
+
+Original Text Noised Repubyican leaders justified their policy by the njed to combat ellctoral fraud 
+
+Key MSNBYZGQVJLODUKIXHAWTRFCEP
+Cipher Text Noised Hyitsevnmu oymbyha jtawvzvyb wqyvh ikovne se wqy ujyb wk nkdsmw yoonwkhmo zhmtb 
+
+.....10.0%....20.0%.......30.0%......40.0%......50.0%......60.0%.......70.0%........80.0%.....90.0%......100.0%
+1 BEST:  2152.52309246 Lemunfaidp sedyelc ructabaey theal mosaif nf the prey to iowndt essitolds blduy 
+
+End Time 2015-12-10 10:21:24.155585
+Duration 0:00:50.261918
+Length, Accuracy, Duration, 81 , 0.363636363636 , 0:00:50.261931
+Baseline Accuracy:  0.0909090909091
+Average Accuracy of Baseline:  0.0563241106719
+Solver Accuracy:  0.363636363636
+Average Accuracy of Solver:  0.301383399209
+Reached same thing many times [1, 1]
+============================
+Iteration  3
+Length  155
+Start Time 2015-12-10 10:21:24.155915
+Original Text However the Brennan Centre considers this a myth stating that electoral fraud is rarer in the United States than the number of people killed by lightning 
+
+Original Text Noised Hoyever the Brennan Centre consideos this a myth stating that elecaotal fraud is rarer in ehe Cnittd States than the number of peopli killed by lightnong 
+
+Key FNIBVAKULMDPZXRCQGYOHJWTES
+Cipher Text Noised Urevjvg ouv Ngvxxfx Ivxogv irxylbvry ouly f zeou yofolxk oufo vpvifrofp agfhb ly gfgvg lx vuv Ixloob Yofovy oufx ouv xhznvg ra cvrcpl dlppvb ne plkuoxrxk 
+
+...........10.0%......20.0%.........30.0%......40.0%........50.0%......60.0%........70.0%......80.0%.........90.0%.......100.0%
+1 BEST:  4616.80041048 Hoyever the Brennan Centre consideos this a myth stating that elecaotal fraud is rarer in ehe Cnittd States than the number of peopli killed by lightnong 
+
+End Time 2015-12-10 10:25:15.613294
+Duration 0:03:51.457465
+Length, Accuracy, Duration, 155 , 1.0 , 0:03:51.457488
+Baseline Accuracy:  0.0416666666667
+Average Accuracy of Baseline:  0.0514382960035
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.534255599473
+Reached same thing many times [1, 1, 1]
+============================
+Iteration  4
+Length  88
+Start Time 2015-12-10 10:25:15.613688
+Original Text One thing is certain these new provisions will have a negative impact on voter turnout 
+
+Original Text Noised One thinh rs cmrtain these ncw provisions will have a negative impact on voter turnout 
+
+Key ZNAKPSECITBGOVFMHJQXUDYLRW
+Cipher Text Noised Fvp xcivc jq aojxziv xcpqp vay mjfdiqifvq yigg czdp z vpezxidp iomzax fv dfxpj xujvfux 
+
+........10.0%......20.0%............30.0%........40.0%...........50.0%.......60.0%......70.0%........80.0%......90.0%......100.0%
+4 BEST:  2727.82546686 One thinh rs cmrtain these ncw provisions will have a negative impact on voter turnout 
+
+End Time 2015-12-10 10:27:27.804479
+Duration 0:02:12.190860
+Length, Accuracy, Duration, 88 , 1.0 , 0:02:12.190875
+Baseline Accuracy:  0.0144927536232
+Average Accuracy of Baseline:  0.0422019104084
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.650691699605
+Reached same thing many times [1, 1, 1, 4]
+============================
+Iteration  5
+Length  84
+Start Time 2015-12-10 10:27:27.804762
+Original Text In this sense the measures will partially undermine the American democratic system 
+
+Original Text Noised In this sense the ceasures will partially undermine the American democratic system 
+
+Key UWBZAFPCXOENMDQLSHRJIYKGVT
+Cipher Text Noised Xd jcxr radra jca baurihar kxnn luhjxunnv idzahmxda jca Umahxbud zamqbhujxb rvrjam 
+
+.......10.0%......20.0%........30.0%......40.0%.......50.0%......60.0%........70.0%........80.0%......90.0%.......100.0%
+4 BEST:  2795.95619438 In this sense the ceasures will partially undermine the American democratic system 
+
+End Time 2015-12-10 10:28:29.466078
+Duration 0:01:01.661408
+Length, Accuracy, Duration, 84 , 1.0 , 0:01:01.661438
+Baseline Accuracy:  0.112676056338
+Average Accuracy of Baseline:  0.0562967395944
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.720553359684
+Reached same thing many times [1, 1, 1, 4, 4]
+============================
+Iteration  6
+Length  117
+Start Time 2015-12-10 10:28:29.466604
+Original Text Unlike in Canada the American States are responsible for the organisation of federal elections in the United States 
+
+Original Text Noised Unlike in Canada the Alerican States are responsible for the organisation of federal elections in the United States 
+
+Key JQYBSNWKVCFLDIUMAEXOHPTZGR
+Cipher Text Noised Hilvfs vi Yjijbj oks Jlsevyji Xojosx jes esxmuixvqls nue oks uewjivxjovui un nsbsejl slsyovuix vi oks Hivosb Xojosx 
+
+.............10.0%.......20.0%.......30.0%.....40.0%.........50.0%.......60.0%.......70.0%.........80.0%......90.0%......100.0%
+1 BEST:  4349.33214423 Unlike in Canada the Alerican States are responsible for the organisation of federal elections in the United States 
+
+End Time 2015-12-10 10:31:05.878657
+Duration 0:02:36.412145
+Length, Accuracy, Duration, 117 , 1.0 , 0:02:36.412171
+Baseline Accuracy:  0.163265306122
+Average Accuracy of Baseline:  0.0741248340157
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.767127799736
+Reached same thing many times [1, 1, 1, 4, 4, 1]
+============================
+Iteration  7
+Length  90
+Start Time 2015-12-10 10:31:05.879076
+Original Text The new election laws require voters to show a photo ID card and proof of US citizenship 
+
+Original Text Noised The new election laws require voters to show a photo ID card and proof of UF citizenship 
+
+Key AIZNOSXFMCQDGTVLEWRBJKHPUY
+Cipher Text Noised Bfo toh odozbmvt dahr woejmwo kvbowr bv rfvh a lfvbv MN zawn atn lwvvs vs JS zmbmyotrfml 
+
+......10.0%.....20.0%......30.0%.......40.0%.....50.0%.......60.0%.......70.0%.......80.0%.........90.0%........100.0%
+2 BEST:  2903.1294279 The new election laws require moters to show a photo ID card and proof of UF citizenship 
+
+End Time 2015-12-10 10:34:00.285687
+Duration 0:02:54.406701
+Length, Accuracy, Duration, 90 , 0.986111111111 , 0:02:54.406728
+Baseline Accuracy:  0.0694444444444
+Average Accuracy of Baseline:  0.0734562069341
+Solver Accuracy:  0.986111111111
+Average Accuracy of Solver:  0.798411129933
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2]
+============================
+Iteration  8
+Length  183
+Start Time 2015-12-10 10:34:00.286420
+Original Text Furthermore these laws also reduce early voting periods invalidate the right to register as a voter on election day and withdraw the right to vote of citizens with a criminal record 
+
+Original Text Noised Furghermore these laws also reduce eacly voting periods invawidate the ripht to register as a voter on election day and withdraw the right to vots of citizens with a criminal recprd 
+
+Key AJHOIUWCEQVMSDZBYPFGLRXTNK
+Cipher Text Noised Ulpwcipszpi gcifi maxf amfz piolhi iahmn rzgedw bipezof edraxeoagi gci pebcg gz piwefgip af a rzgip zd imihgezd oan ado xegcopax gci pewcg gz rzgf zu hegekidf xegc a hpesedam pihbpo 
+
+.......10.0%.......20.0%......30.0%.......40.0%.......50.0%.............60.0%......70.0%.......80.0%......90.0%........100.0%
+4 BEST:  5982.14232841 Furghermore these laws also reduce eacly voting periods invawidate the ripht to register as a voter on election day and withdraw the right to vots of citizens with a criminal recprd 
+
+End Time 2015-12-10 10:39:01.628158
+Duration 0:05:01.341805
+Length, Accuracy, Duration, 183 , 1.0 , 0:05:01.341818
+Baseline Accuracy:  0.102739726027
+Average Accuracy of Baseline:  0.0771166468208
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.823609738691
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4]
+============================
+Iteration  9
+Length  58
+Start Time 2015-12-10 10:39:01.628410
+Original Text Indiana was the first State to impose such a requirement 
+
+Original Text Noised Indiana was the first State to impose such a requirebent 
+
+Key ZBTQYFKRVAPHILUDMGJEOXWCSN
+Cipher Text Noised Vlqvzlz wzj ery fvgje Jezey eu vidujy jotr z gymovgybyle 
+
+.......10.0%..........20.0%........30.0%......40.0%.......50.0%......60.0%......70.0%......80.0%.......90.0%......100.0%
+4 BEST:  2023.30406885 Indiana las the first State to impose such a requirevent 
+
+End Time 2015-12-10 10:40:18.826865
+Duration 0:01:17.198474
+Length, Accuracy, Duration, 58 , 0.978723404255 , 0:01:17.198487
+Baseline Accuracy:  0.127659574468
+Average Accuracy of Baseline:  0.0827325276705
+Solver Accuracy:  0.978723404255
+Average Accuracy of Solver:  0.840844590421
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4]
+============================
+Iteration  10
+Length  79
+Start Time 2015-12-10 10:40:18.827084
+Original Text The Republican authorities were quick to extend this practice to other States 
+
+Original Text Noised The Republitan authorities wtre quick tb extend this practice to other States 
+
+Key HCOZRWFKEJNGYITDPSMQXUBLVA
+Cipher Text Noised Qkr Srdxcgeqhi hxqktseqerm bqsr pxeon qc rlqriz qkem dshoqeor qt tqkrs Mqhqrm 
+
+........10.0%.......20.0%...........30.0%.......40.0%......50.0%......60.0%........70.0%......80.0%..........90.0%.........100.0%
+1 BEST:  2481.92897178 The Repulfitan authorities wtre quick tl extend this practice to other States 
+
+End Time 2015-12-10 10:41:41.059915
+Duration 0:01:22.232850
+Length, Accuracy, Duration, 79 , 0.96875 , 0:01:22.232863
+Baseline Accuracy:  0.078125
+Average Accuracy of Baseline:  0.0822717749034
+Solver Accuracy:  0.96875
+Average Accuracy of Solver:  0.853635131379
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1]
+============================
+Iteration  11
+Length  128
+Start Time 2015-12-10 10:41:41.060204
+Original Text It is important to note that unlike Quebec American citizens do not have a universal ID card such as the health insurance card 
+
+Original Text Noised It is impgrtant to note that unlike Quebec American citizens do not have b uriversal ID card xuch as the health insurance cmrd 
+
+Key HCYZATKRMBQDGWXPNEIOSFUJLV
+Cipher Text Noised Mo mi mgpkeohwo ox wxoa orho swdmqa Nsacay Hgaemyhw ymomvawi zx wxo rhfa c semfaeihd MZ yhez jsyr hi ora rahdor mwisehwya ygez 
+
+...........10.0%.......20.0%.......30.0%........40.0%......50.0%.......60.0%......70.0%...........80.0%......90.0%......100.0%
+4 BEST:  4168.93856581 It is ibyprtant to note that unlike Guefec Aberican citizens do not have f uriversal ID card much as the health insurance cbrd 
+
+End Time 2015-12-10 10:45:53.725954
+Duration 0:04:12.665837
+Length, Accuracy, Duration, 128 , 0.95 , 0:04:12.665861
+Baseline Accuracy:  0.01
+Average Accuracy of Baseline:  0.0757016135486
+Solver Accuracy:  0.95
+Average Accuracy of Solver:  0.86239557398
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4]
+============================
+Iteration  12
+Length  80
+Start Time 2015-12-10 10:45:53.726349
+Original Text And it often costs over a hundred dollars to obtain the required identity card 
+
+Original Text Noised And it ofden costs over a hundred dollaws to obtain the required idemtity card 
+
+Key VGLMDANQEJKHXZRSPBYCOTWIUF
+Cipher Text Noised Vzm ec ramdz lrycy rtdb v qozmbdm mrhhvwy cr rgcvez cqd bdpoebdm emdxcecu lvbm 
+
+......10.0%.....20.0%.......30.0%........40.0%......50.0%........60.0%.......70.0%.....80.0%.........90.0%......100.0%
+1 BEST:  2575.87871468 And it ofden costs over a hundred dollays to obtain the required ideptitm card 
+
+End Time 2015-12-10 10:47:37.425118
+Duration 0:01:43.698788
+Length, Accuracy, Duration, 80 , 0.984126984127 , 0:01:43.698801
+Baseline Accuracy:  0.015873015873
+Average Accuracy of Baseline:  0.0707158970756
+Solver Accuracy:  0.984126984127
+Average Accuracy of Solver:  0.872539858159
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1]
+============================
+Iteration  13
+Length  100
+Start Time 2015-12-10 10:47:37.425355
+Original Text The new restrictions disproportionately affect young people minorities and people with low incomes 
+
+Original Text Noised The new restrictions disproportimnately affect young people minorities and people wcjh low incoces 
+
+Key IXLZMTPDHYEFKCNJSRAWOVBUQG
+Cipher Text Noised Wdm cmb rmawrhlwhnca zhajrnjnrwhkciwmfq ittmlw qnocp jmnjfm khcnrhwhma icz jmnjfm blyd fnb hclnlma 
+
+......10.0%............20.0%.........30.0%........40.0%..........50.0%...............60.0%.....70.0%.....80.0%.......90.0%.....100.0%
+1 BEST:  2535.38309812 Tho low rontristieln mindrederticlatogb appost befly doedgo cilerition alm doedgo wsuh gew ilseson 
+
+End Time 2015-12-10 10:48:53.038092
+Duration 0:01:15.612805
+Length, Accuracy, Duration, 100 , 0.349397590361 , 0:01:15.612820
+Baseline Accuracy:  0.0120481927711
+Average Accuracy of Baseline:  0.0662029967445
+Solver Accuracy:  0.349397590361
+Average Accuracy of Solver:  0.832298145252
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1]
+============================
+Iteration  14
+Length  19
+Start Time 2015-12-10 10:48:53.038272
+Original Text And thats not all 
+
+Original Text Noised And thats not all 
+
+Key EKJTIQMYAHUXBVPOCDGSRZFLWN
+Cipher Text Noised Evt syesg vps exx 
+
+....10.0%......20.0%....30.0%.....40.0%......50.0%........60.0%........70.0%....80.0%........90.0%.....100.0%
+2 BEST:  668.294004808 And thats not all 
+
+End Time 2015-12-10 10:49:16.598554
+Duration 0:00:23.560300
+Length, Accuracy, Duration, 19 , 1.0 , 0:00:23.560312
+Baseline Accuracy:  0.4
+Average Accuracy of Baseline:  0.0900456398342
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.844276849162
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2]
+============================
+Iteration  15
+Length  159
+Start Time 2015-12-10 10:49:16.598903
+Original Text Students voters considered to be voting more for Democratic candidates are not allowed in several States to use the photo ID card issued by their institution 
+
+Original Text Noised Students voters considered to be votixg more for Democratic candijates are nob allowed in several States to use the photo ID card issued by their institution 
+
+Key DEYJZLCITPQVNGRKUSBXMAHOWF
+Cipher Text Noised Bxmjzgxb arxzsb yrgbtjzszj xr ez arxtoc nrsz lrs Jznrysdxty ydgjtpdxzb dsz gre dvvrhzj tg bzazsdv Bxdxzb xr mbz xiz kirxr TJ ydsj tbbmzj ew xizts tgbxtxmxtrg 
+
+.......10.0%.......20.0%........30.0%.......40.0%.......50.0%.....60.0%.......70.0%......80.0%.......90.0%.......100.0%
+1 BEST:  5318.48622591 Students voters considered to be votikg more for Democratic candizates are nob allowed in several States to use the photo ID card issued by their institution 
+
+End Time 2015-12-10 10:53:00.527635
+Duration 0:03:43.928869
+Length, Accuracy, Duration, 159 , 1.0 , 0:03:43.928984
+Baseline Accuracy:  0.0153846153846
+Average Accuracy of Baseline:  0.0850682382042
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.854658392552
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1]
+============================
+Iteration  16
+Length  154
+Start Time 2015-12-10 10:53:00.530592
+Original Text On the other hand these same States allow fishing or hunting club members who vote more Republican to use the cards issued by these clubs when they vote 
+
+Original Text Noised On the other hand these same States allow fibhing mr hunting club members who vote more Republican to usx the cards issued by these clubs when they dote 
+
+Key MWBERIUSACZQLYDXVGPJONFHKT
+Cipher Text Noised Dy jsr djsrg smye jsrpr pmlr Pjmjrp mqqdf iawsayu lg soyjayu bqow lrlwrgp fsd ndjr ldgr Grxowqabmy jd oph jsr bmgep appore wk jsrpr bqowp fsry jsrk edjr 
+
+......10.0%.......20.0%........30.0%......40.0%......50.0%........60.0%......70.0%......80.0%......90.0%.............100.0%
+3 BEST:  4870.13480454 On the other hand these same States allow fibhing mr hunting club members who vote more Republican to usk the cards issued by these clubs when they dote 
+
+End Time 2015-12-10 10:56:22.040021
+Duration 0:03:21.509500
+Length, Accuracy, Duration, 154 , 1.0 , 0:03:21.509524
+Baseline Accuracy:  0.00819672131148
+Average Accuracy of Baseline:  0.0802637683984
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.863742243017
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3]
+============================
+Iteration  17
+Length  55
+Start Time 2015-12-10 10:56:22.040351
+Original Text Arizona was the first to introduce such a requirement 
+
+Original Text Noised Aricona was the first tx introduce such a requirement 
+
+Key AMTLWUGJVNIFBPOKCYDZERQXSH
+Cipher Text Noised Ayvtopa qad zjw uvydz zx vpzyoletw detj a ywcevywbwpz 
+
+......10.0%......20.0%......30.0%.....40.0%.........50.0%....60.0%......70.0%..............80.0%......90.0%...........100.0%
+1 BEST:  1892.80601787 Aricona was the first tv introduce such a requirement 
+
+End Time 2015-12-10 10:58:06.929084
+Duration 0:01:44.888797
+Length, Accuracy, Duration, 55 , 1.0 , 0:01:44.888823
+Baseline Accuracy:  0.0227272727273
+Average Accuracy of Baseline:  0.076879268653
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.871757405193
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1]
+============================
+Iteration  18
+Length  64
+Start Time 2015-12-10 10:58:06.929415
+Original Text These measures are clearly intended to limit the Hispanic vote 
+
+Original Text Noised These measures are clearly intended to limit tre Hispanic vote 
+
+Key JUCXZRFTYHEQNKODMWAGSBPLIV
+Cipher Text Noised Gtzaz nzjaswza jwz cqzjwqi ykgzkxzx go qynyg gwz Tyadjkyc bogz 
+
+.......10.0%.........20.0%.....30.0%........40.0%......50.0%......60.0%.....70.0%........80.0%........90.0%......100.0%
+3 BEST:  2162.71089434 These measures are clearly intended to limit tre Hispanic vote 
+
+End Time 2015-12-10 10:59:03.540452
+Duration 0:00:56.611056
+Length, Accuracy, Duration, 64 , 1.0 , 0:00:56.611069
+Baseline Accuracy:  0.11320754717
+Average Accuracy of Baseline:  0.0788975063484
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.878881993793
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3]
+============================
+Iteration  19
+Length  86
+Start Time 2015-12-10 10:59:03.540727
+Original Text However it appears that two out of three Hispanic voters favour the Democratic party 
+
+Original Text Noised However it appears that two out of three Vivpunic voters fadour the Democratic party 
+
+Key NWREOAXYSUIHVPBZMKDCQGTLFJ
+Cipher Text Noised Ybtogok sc nzzonkd cync ctb bqc ba cykoo Gsgzqpsr gbcokd anebqk cyo Eovbrkncsr znkcf 
+
+.........10.0%......20.0%.........30.0%.....40.0%........50.0%......60.0%......70.0%........80.0%......90.0%.....100.0%
+5 BEST:  2878.86273134 Howener it appears that two out of three Ninpulic noters fadour the Democratic party 
+
+End Time 2015-12-10 11:00:23.839959
+Duration 0:01:20.299253
+Length, Accuracy, Duration, 86 , 0.955882352941 , 0:01:20.299265
+Baseline Accuracy:  0.0735294117647
+Average Accuracy of Baseline:  0.0786149750545
+Solver Accuracy:  0.955882352941
+Average Accuracy of Solver:  0.882934644274
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5]
+============================
+Iteration  20
+Length  114
+Start Time 2015-12-10 11:00:23.840231
+Original Text In addition they limited the right of individuals and groups to provide assistance to voters wishing to register 
+
+Original Text Noised In addition they limited the right of individhals and groups to provide jssistance ta voters wikhing to registee 
+
+Key KSIADHXUTJQCNMWBYLZOEGFVPR
+Cipher Text Noised Tm kaatotwm oudp ctntoda oud ltxuo wh tmatgtaukcz kma xlwebz ow blwgtad jzztzokmid ok gwodlz ftqutmx ow ldxtzodd 
+
+.......10.0%......20.0%..........30.0%.......40.0%.........50.0%......60.0%......70.0%.......80.0%.....90.0%........100.0%
+4 BEST:  3674.88396391 In addition they limited the right of individhals and groups to provide bssistance ta voters wixhing to registee 
+
+End Time 2015-12-10 11:02:55.231864
+Duration 0:02:31.391733
+Length, Accuracy, Duration, 114 , 1.0 , 0:02:31.391759
+Baseline Accuracy:  0.0879120879121
+Average Accuracy of Baseline:  0.0790798306974
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.888787912061
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4]
+============================
+Iteration  21
+Length  48
+Start Time 2015-12-10 11:02:55.232233
+Original Text These restrictions are not without consequence 
+
+Original Text Noised These restrictions are not without cynsequence 
+
+Key UFAQZKGXIYDRPOMWJLHTSENVBC
+Cipher Text Noised Txzhz lzhtliatimoh ulz omt nitxmst abohzjszoaz 
+
+......10.0%.....20.0%.....30.0%.......40.0%......50.0%........60.0%......70.0%.....80.0%........90.0%.........100.0%
+1 BEST:  1303.83999883 Scene henshidsioln the los wiscors dulnearelde 
+
+End Time 2015-12-10 11:03:19.480252
+Duration 0:00:24.248037
+Length, Accuracy, Duration, 48 , 0.365853658537 , 0:00:24.248050
+Baseline Accuracy:  0.268292682927
+Average Accuracy of Baseline:  0.0880899665179
+Solver Accuracy:  0.365853658537
+Average Accuracy of Solver:  0.863886280941
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1]
+============================
+Iteration  22
+Length  117
+Start Time 2015-12-10 11:03:19.495521
+Original Text In addition Republican legislators have enacted laws in five other States aimed at reducing the early voting period 
+
+Original Text Noised In addwtikn Republican legislacors have enacted laws un five vther States aimed at redccing the early voting periyd 
+
+Key BGKAVQCZXJYLUNDIMPETSHRWFO
+Cipher Text Noised Xn baartxyn Pvisglxkbn lvcxelbkdpe zbhv vnbktva lbre sn qxhv htzvp Etbtve bxuva bt pvakkxnc tzv vbplf hdtxnc ivpxfa 
+
+.......10.0%.......20.0%............30.0%.......40.0%.....50.0%.......60.0%.........70.0%.......80.0%.....90.0%.......100.0%
+1 BEST:  3301.82922167 In addwtivn Republican legislackrs haoe enacted laws un fioe other States aimed at redccing the early okting periyd 
+
+End Time 2015-12-10 11:05:44.918592
+Duration 0:02:25.423151
+Length, Accuracy, Duration, 117 , 0.945652173913 , 0:02:25.423167
+Baseline Accuracy:  0.0108695652174
+Average Accuracy of Baseline:  0.0845799482769
+Solver Accuracy:  0.945652173913
+Average Accuracy of Solver:  0.867602912439
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1]
+============================
+Iteration  23
+Length  31
+Start Time 2015-12-10 11:05:44.918826
+Original Text The same applied to Hispanics 
+
+Original Text Noised The same applied to Hispanics 
+
+Key DAPHIJFRXLGCYVTEUQSNBZOMWK
+Cipher Text Noised Nri sdyi deecxih nt Rxsedvxps 
+
+.......10.0%......20.0%......30.0%..........40.0%......50.0%.....60.0%.....70.0%.......80.0%......90.0%.......100.0%
+1 BEST:  974.376957703 The same applied to Hispanics 
+
+End Time 2015-12-10 11:06:22.684055
+Duration 0:00:37.765347
+Length, Accuracy, Duration, 31 , 1.0 , 0:00:37.765383
+Baseline Accuracy:  0.0384615384615
+Average Accuracy of Baseline:  0.0825748000241
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.873359307551
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1]
+============================
+Iteration  24
+Length  126
+Start Time 2015-12-10 11:06:22.684614
+Original Text Of course Democratic legislators and their supporters vigorously opposed the adoption of laws restricting voter registration 
+
+Original Text Noised Of course Democratic legislarors and their supporters vigorously opposed the sdoption of raws festricting voter registeation 
+
+Key IATLWMZDRJCVOKSYXGUNEBHFQP
+Cipher Text Noised Sm tseguw Lwostginrt vwzruvigsgu ikl ndwrg ueyysgnwgu brzsgseuvq syysuwl ndw ulsynrsk sm gihu mwungrtnrkz bsnwg gwzrunwinrsk 
+
+........10.0%..........20.0%.......30.0%........40.0%.....50.0%......60.0%...............70.0%......80.0%......90.0%.......100.0%
+4 BEST:  3737.96185454 Of course Democratic belisbarors and their supporters wilorousbg opposed the sdoption of rays festrictinl woter relisteation 
+
+End Time 2015-12-10 11:07:55.375901
+Duration 0:01:32.691363
+Length, Accuracy, Duration, 126 , 0.895238095238 , 0:01:32.691386
+Baseline Accuracy:  0.00952380952381
+Average Accuracy of Baseline:  0.0795310087532
+Solver Accuracy:  0.895238095238
+Average Accuracy of Solver:  0.874270923704
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4]
+============================
+Iteration  25
+Length  62
+Start Time 2015-12-10 11:07:55.376265
+Original Text Several bills were blocked by vetoes of Democratic governors 
+
+Original Text Noised Several bills were blocued by vetoes of Uemocrdtic gqvernors 
+
+Key YXOZPRTVDWJAHCBQGNISFLKUEM
+Cipher Text Noised Iplpnya xdaai kpnp xabofpz xe lpsbpi br Fphbonzsdo tglpncbni 
+
+.....10.0%......20.0%.........30.0%......40.0%......50.0%.........60.0%........70.0%...........80.0%........90.0%........100.0%
+1 BEST:  1538.37987418 Enintyg augge wntn agorkns am incone of Kndortscur plinthote 
+
+End Time 2015-12-10 11:08:40.304814
+Duration 0:00:44.928585
+Length, Accuracy, Duration, 62 , 0.163265306122 , 0:00:44.928598
+Baseline Accuracy:  0.0204081632653
+Average Accuracy of Baseline:  0.0771660949337
+Solver Accuracy:  0.163265306122
+Average Accuracy of Solver:  0.845830699001
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1]
+============================
+Iteration  26
+Length  86
+Start Time 2015-12-10 11:08:40.305056
+Original Text The United States Attorney General intervened to suspend the most controversial laws 
+
+Original Text Noised The United States Attorney General intervened to suspend the most controversial laws 
+
+Key ZBVDPRYUHISLWJQKFXGMNETAOC
+Cipher Text Noised Mup Njhmpd Gmzmpg Zmmqxjpo Ypjpxzl hjmpxepjpd mq gngkpjd mup wqgm vqjmxqepxghzl lztg 
+
+.........10.0%.......20.0%......30.0%......40.0%.....50.0%......60.0%.......70.0%........80.0%......90.0%......100.0%
+3 BEST:  2961.01776165 The United States Attorney General intervened to suspend the most controversial laws 
+
+End Time 2015-12-10 11:09:43.246699
+Duration 0:01:02.941721
+Length, Accuracy, Duration, 86 , 1.0 , 0:01:02.941745
+Baseline Accuracy:  0.027027027027
+Average Accuracy of Baseline:  0.075237669245
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.851760287501
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3]
+============================
+Iteration  27
+Length  46
+Start Time 2015-12-10 11:09:43.247041
+Original Text They were able to partially limit the damage 
+
+Original Text Noised They were able to partaalle limit the damage 
+
+Key GOKDYCUJAPRISTENBZHWLVXMQF
+Cipher Text Noised Wjyq xyzy goiy we ngzwggiiy iasaw wjy dgsguy 
+
+.....10.0%.....20.0%.....30.0%.......40.0%......50.0%......60.0%.....70.0%.........80.0%......90.0%........100.0%
+1 BEST:  1603.83165572 They were able to cartaalle limit the damage 
+
+End Time 2015-12-10 11:11:26.069483
+Duration 0:01:42.822502
+Length, Accuracy, Duration, 46 , 0.972222222222 , 0:01:42.822516
+Baseline Accuracy:  0.0555555555556
+Average Accuracy of Baseline:  0.0745087020713
+Solver Accuracy:  0.972222222222
+Average Accuracy of Solver:  0.856221840639
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1]
+============================
+Iteration  28
+Length  90
+Start Time 2015-12-10 11:11:26.069792
+Original Text But one thing is certain these new provisions will have a negative impact on the turnout 
+
+Original Text Noised But one thing ib cerdain these new ppovisions will have a negative impact on the turtout 
+
+Key AJPTIZHKSBVFEYXDMNWCULOGRQ
+Cipher Text Noised Juc xyi cksyh sj pintasy ckiwi yio ddxlswsxyw osff kali a yihacsli sedapc xy cki cuncxuc 
+
+........10.0%.........20.0%.......30.0%............40.0%.......50.0%........60.0%......70.0%.........80.0%........90.0%.......100.0%
+2 BEST:  3127.01467584 Fut one thing if cerdain these new ppovisions will have a negative impact on the turtout 
+
+End Time 2015-12-10 11:14:22.363541
+Duration 0:02:56.293847
+Length, Accuracy, Duration, 90 , 0.985714285714 , 0:02:56.293875
+Baseline Accuracy:  0.114285714286
+Average Accuracy of Baseline:  0.0759293096504
+Solver Accuracy:  0.985714285714
+Average Accuracy of Solver:  0.86084657082
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2]
+============================
+Iteration  29
+Length  84
+Start Time 2015-12-10 11:14:22.363974
+Original Text In this sense the measures will partially undermine the American democratic system 
+
+Original Text Noised In this senss thi measures kill partiallw undermine the American democratic syseem 
+
+Key NAPGHLIVXMCSEZJTWYQBUKRDOF
+Cipher Text Noised Xz bvxq qhzqq bvx ehnquyhq cxss tnybxnssr uzghyexzh bvh Nehyxpnz ghejpynbxp qoqhhe 
+
+..........10.0%.........20.0%......30.0%......40.0%........50.0%.......60.0%.....70.0%......80.0%.....90.0%.....100.0%
+3 BEST:  2666.52506127 In this senss thi measures will partiallf undermine the American democratic syseem 
+
+End Time 2015-12-10 11:15:21.164759
+Duration 0:00:58.800873
+Length, Accuracy, Duration, 84 , 1.0 , 0:00:58.800898
+Baseline Accuracy:  0.0149253731343
+Average Accuracy of Baseline:  0.0738257256326
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.86564496493
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3]
+============================
+Iteration  30
+Length  48
+Start Time 2015-12-10 11:15:21.165112
+Original Text Prostate cancer screening take the test or not 
+
+Original Text Noised Prostate caicer screeqing take the test or not 
+
+Key VXBASYOUTIGQKWDPZNFLRCHMJE
+Cipher Text Noised Pndflvls bvtbsn fbnssztwo lvgs lus lsfl dn wdl 
+
+......10.0%........20.0%......30.0%......40.0%.....50.0%.....60.0%.......70.0%.....80.0%........90.0%.........100.0%
+2 BEST:  1541.81998786 Prostate caicer screeding take the test or not 
+
+End Time 2015-12-10 11:16:30.775694
+Duration 0:01:09.612019
+Length, Accuracy, Duration, 48 , 1.0 , 0:01:09.612357
+Baseline Accuracy:  0.0263157894737
+Average Accuracy of Baseline:  0.072242061094
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.870123466099
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2]
+============================
+Iteration  31
+Length  154
+Start Time 2015-12-10 11:16:30.870486
+Original Text Indeed the PSA test sometimes shows erroneous results with false negative or even false positive results which involve unnecessary medical interventions 
+
+Original Text Noised Indeed the PSA test sometimes shows erroneous results wiwh false negative or even zalse positibn results whsch involve unnecessary medical interventions 
+
+Key GBNKCSQPRAMZJEDOXFYLVHWITU
+Cipher Text Noised Rekcck lpc OYG lcyl ydjclrjcy ypdwy cffdecdvy fcyvzly wrwp sgzyc ecqglrhc df chce ugzyc odyrlrbe fcyvzly wpynp rehdzhc veecncyygft jckrngz relcfhcelrdey 
+
+......10.0%........20.0%........30.0%......40.0%........50.0%.....60.0%.........70.0%..........80.0%......90.0%.......100.0%
+7 BEST:  4276.53310723 Indeed the PSA test sometimes shows erroneous results wiwh false negative or even balse positizn results whsch involve unnecessary medical interventions 
+
+End Time 2015-12-10 11:19:37.635346
+Duration 0:03:06.765022
+Length, Accuracy, Duration, 154 , 1.0 , 0:03:06.765067
+Baseline Accuracy:  0.078125
+Average Accuracy of Baseline:  0.0724318333168
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.874313031708
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7]
+============================
+Iteration  32
+Length  71
+Start Time 2015-12-10 11:19:37.636035
+Original Text Enough to make already reluctant men hesitate to take screening tests 
+
+Original Text Noised Enough to kake already reluctant men hesitath to take screening kests 
+
+Key UQFHLKTZGCRSDOYBIJVWMEXNAP
+Cipher Text Noised Loymtz wy rurl usjluha jlsmfwuow dlo zlvgwuwz wy wurl vfjllogot rlvwv 
+
+...........10.0%............20.0%......30.0%.....40.0%......50.0%.....60.0%......70.0%......80.0%........90.0%......100.0%
+1 BEST:  2085.10531051 Enough to kake already reluctant men hesitath to take screening kests 
+
+End Time 2015-12-10 11:21:43.372345
+Duration 0:02:05.736408
+Length, Accuracy, Duration, 71 , 1.0 , 0:02:05.736433
+Baseline Accuracy:  0.0175438596491
+Average Accuracy of Baseline:  0.0707165841396
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.878240749468
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1]
+============================
+Iteration  33
+Length  22
+Start Time 2015-12-10 11:21:43.372670
+Original Text Take the test or not 
+
+Original Text Noised Tade the test or not 
+
+Key TGQPJRVUDZMOCWXAHNKSILEYBF
+Cipher Text Noised Stpj suj sjks xn wxs 
+
+.....10.0%.....20.0%.....30.0%.....40.0%....50.0%......60.0%....70.0%.....80.0%.....90.0%......100.0%
+1 BEST:  846.820964633 Take the test of not 
+
+End Time 2015-12-10 11:22:49.446155
+Duration 0:01:06.073572
+Length, Accuracy, Duration, 22 , 0.9375 , 0:01:06.073607
+Baseline Accuracy:  0.0625
+Average Accuracy of Baseline:  0.0704675967415
+Solver Accuracy:  0.9375
+Average Accuracy of Solver:  0.880036484332
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1, 1]
+============================
+Iteration  34
+Length  44
+Start Time 2015-12-10 11:22:49.446513
+Original Text We asked two specialists for their opinion 
+
+Original Text Noised We akaee two specialists for their opinion 
+
+Key XZGOITESJUCHVKYLMWNRPDFQBA
+Cipher Text Noised Fi xcxii rfy nligjxhjnrn tyw rsijw yljkjyk 
+
+......10.0%......20.0%............30.0%......40.0%........50.0%.....60.0%...........70.0%.....80.0%........90.0%......100.0%
+1 BEST:  1252.54172663 We agaee two specialists for their opinion 
+
+End Time 2015-12-10 11:23:53.021043
+Duration 0:01:03.574646
+Length, Accuracy, Duration, 44 , 1.0 , 0:01:03.574672
+Baseline Accuracy:  0.0588235294118
+Average Accuracy of Baseline:  0.0701251241729
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.883564823028
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1, 1, 1]
+============================
+Iteration  35
+Length  170
+Start Time 2015-12-10 11:23:53.116700
+Original Text In studies conducted in the United States there was a lot of contamination between control groups so it is difficult to interpret the data and make firm recommendations 
+
+Original Text Noised In sturies condmcted in the United Svates there was a loc of lontamination between control groups so it is difficult to interpret the data mnd make firm rhcrmmendktions 
+
+Key CAJZUNMKWSYQEROHBTXVDLPGIF
+Cipher Text Noised Wr xvdtwux jorzejvuz wr vku Drwvuz Xlcvux vkutu pcx c qoj on qorvcewrcvwor auvpuur jorvtoq mtodhx xo wv wx zwnnwjdqv vo wrvuthtuv vku zcvc erz ecyu nwte tkjteeurzyvworx 
+
+.......10.0%.......20.0%.........30.0%..........40.0%......50.0%......60.0%.......70.0%.......80.0%........90.0%..........100.0%
+4 BEST:  5927.80014227 In sturies condmcted in the United Syates there was a loc of lontamination between control groups so it is difficult to interpret the data mnd make firm rhcrmmendktions 
+
+End Time 2015-12-10 12:17:10.355103
+Duration 0:53:17.238487
+Length, Accuracy, Duration, 170 , 1.0 , 0:53:17.238516
+Baseline Accuracy:  0.00751879699248
+Average Accuracy of Baseline:  0.0683363719678
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.88689154237
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1, 1, 1, 4]
+============================
+Iteration  36
+Length  149
+Start Time 2015-12-10 12:17:10.355650
+Original Text Another study this time a European one concluded that there was a difference in mortality between patients who were screened and those who were not 
+
+Original Text Noised Mnother study this time a European one cxncluded that there was s difference in mortality berween hatients who wire screened and tbose who were not 
+
+Key GSPHOCRIYNZDWXBQMTVUALEJKF
+Cipher Text Noised Wxbuiot vuahk uiyv uywo g Oatbqogx bxo pjxpdahoh uigu uioto egv v hyccotoxpo yx wbtugdyuk soteoox iguyoxuv eib eyto vptooxoh gxh usbvo eib eoto xbu 
+
+........10.0%.......20.0%......30.0%........40.0%.......50.0%.......60.0%.........70.0%.......80.0%.......90.0%......100.0%
+7 BEST:  5135.84286415 Mnother study this time a European one ckncluded that there was s difference in mortality berween hatients who wire screened and tbose who were not 
+
+End Time 2015-12-10 12:30:12.786245
+Duration 0:13:02.430695
+Length, Accuracy, Duration, 149 , 1.0 , 0:13:02.430728
+Baseline Accuracy:  0.00854700854701
+Average Accuracy of Baseline:  0.0666755563172
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.890033443971
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1, 1, 1, 4, 7]
+============================
+Iteration  37
+Length  43
+Start Time 2015-12-10 12:30:12.786656
+Original Text AfricanAmerican men are also more at risk 
+
+Original Text Noised AfrucanAmerican men are also more at risk 
+
+Key GCTJMNPADQXKOWHURFEVBZSLYI
+Cipher Text Noised GnfbtgwGomfdtgw omw gfm gkeh ohfm gv fdex 
+
+.........10.0%..........20.0%.....30.0%........40.0%......50.0%......60.0%.....70.0%.......80.0%.....90.0%......100.0%
+1 BEST:  1294.27823735 AfrumanAteriman ten are alco tore as rich 
+
+End Time 2015-12-10 12:40:18.067233
+Duration 0:10:05.280853
+Length, Accuracy, Duration, 43 , 0.742857142857 , 0:10:05.280976
+Baseline Accuracy:  0.0285714285714
+Average Accuracy of Baseline:  0.0656457150268
+Solver Accuracy:  0.742857142857
+Average Accuracy of Solver:  0.886055706103
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1, 1, 1, 4, 7, 1]
+============================
+Iteration  38
+Length  69
+Start Time 2015-12-10 12:40:18.068754
+Original Text The key is to make the right decision once cancer has been detected 
+
+Original Text Noised The key gs to maku the rdght decision once cancer has been detected 
+
+Key GKQRAXLUHDBPWSYMOVTJNCEFZI
+Cipher Text Noised Jua baz lt jy wgbn jua vrluj raqhthys ysqa qgsqav ugt kaas rajaqjar 
+
+.....10.0%.....20.0%.....30.0%......40.0%.....50.0%......60.0%.....70.0%.....80.0%......90.0%.....100.0%
+1 BEST:  1909.63653865 Ito you be in ways ito chbti hormemnd ndro radroc tae good hoiorioh 
+
+End Time 2015-12-10 12:48:24.794062
+Duration 0:08:06.725381
+Length, Accuracy, Duration, 69 , 0.0754716981132 , 0:08:06.725401
+Baseline Accuracy:  0.0188679245283
+Average Accuracy of Baseline:  0.06441472054
+Solver Accuracy:  0.0754716981132
+Average Accuracy of Solver:  0.864724547998
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1, 1, 1, 4, 7, 1, 1]
+============================
+Iteration  39
+Length  59
+Start Time 2015-12-10 12:48:24.794441
+Original Text There are aggressive cancers and others that are indolent 
+
+Original Text Noised Theue are aggressive canceps amd others that are indollft 
+
+Key FNRUHIZCGALJSXOTPMVQKYBWED
+Cipher Text Noised Qchkh fmh fzzmhvvgyh rfxrhtv fsu oqchmv qcfq fmh gxuojjiq 
+
+........10.0%.......20.0%.........30.0%..........40.0%.......50.0%......60.0%........70.0%...........80.0%......90.0%........100.0%
+1 BEST:  1929.75161011 Theme are aggressive canceps abd others that are indollyt 
+
+End Time 2015-12-10 12:52:16.408681
+Duration 0:03:51.614391
+Length, Accuracy, Duration, 59 , 1.0 , 0:03:51.614446
+Baseline Accuracy:  0.0222222222222
+Average Accuracy of Baseline:  0.0633328616088
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.868193149332
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1, 1, 1, 4, 7, 1, 1, 1]
+============================
+Iteration  40
+Length  273
+Start Time 2015-12-10 12:52:16.831857
+Original Text The patient really needs to be made to understand the degree of risk of his cancer by offering him the options available not necessarily treating prostate cancers that are not longterm life threatening and opting instead in such cases for active monitoring of the disease 
+
+Original Text Noised The patient rellly needs to be made to understand the degree of risq of his canqer by offering him tye options available not necessarily tregting prostatz cancers that are not longterm life threatening and opting insteaf in such cases for active monitoring of the wiseasd 
+
+Key RYEQODFBHNKWTLIGZJSAMUCVPX
+Cipher Text Noised Abo grahola jowwwp looqs ai yo trqo ai mlqojsarlq abo qofjoo id jhsz id bhs erlzoj yp iddojhlf bht apo igahils rurhwrywo lia loeossrjhwp ajofahlf gjisarax erleojs abra rjo lia wilfaojt whdo abjoraolhlf rlq igahlf hlsaord hl smeb ersos dij reahuo tilhaijhlf id abo chsorsq 
+
+.......10.0%......20.0%......30.0%......40.0%.......50.0%.......60.0%.......70.0%........80.0%.....90.0%......100.0%
+5 BEST:  9289.49729367 The patient rellly needs to be made to understand the degree of risk of his canker by offering him tye options available not necessarily tregting prostatx cancers that are not longterm life threatening and opting insteaf in such cases for active monitoring of the wiseasd 
+
+End Time 2015-12-10 13:18:07.373432
+Duration 0:25:50.542367
+Length, Accuracy, Duration, 273 , 1.0 , 0:25:50.542484
+Baseline Accuracy:  0.0365296803653
+Average Accuracy of Baseline:  0.0626627820777
+Solver Accuracy:  1.0
+Average Accuracy of Solver:  0.871488320598
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1, 1, 1, 4, 7, 1, 1, 1, 5]
+============================
+Iteration  41
+Length  136
+Start Time 2015-12-10 13:18:07.376190
+Original Text Today many men in whom cancer has been detected will not be treated because their cancer is not aggressive and is not life threatening 
+
+Original Text Noised Today mani men in whom cancer has been dettcted will not be treated because their cancer is jot aggressive and ms not life threafening 
+
+Key VXGEKSCAUPDFIQJRTMYZWOBLHN
+Cipher Text Noised Zjevh ivqu ikq uq baji gvqgkm avy xkkq ekzzgzke buff qjz xk zmkvzke xkgvwyk zakum gvqgkm uy pjz vccmkyyuok vqe iy qjz fusk zamkvskquqc 
+
+.......10.0%......20.0%.......30.0%......40.0%.......50.0%......60.0%........70.0%......80.0%.......90.0%......100.0%
+3 BEST:  4541.98044624 Today mani men in whom cancer has been dettcted will not be treated because their cancer is pot aggressive and ms not like threakening 
+
+End Time 2015-12-10 13:38:16.116700
+Duration 0:20:08.740594
+Length, Accuracy, Duration, 136 , 0.990654205607 , 0:20:08.740623
+Baseline Accuracy:  0.280373831776
+Average Accuracy of Baseline:  0.0679728076801
+Solver Accuracy:  0.990654205607
+Average Accuracy of Solver:  0.874394805599
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1, 1, 1, 4, 7, 1, 1, 1, 5, 3]
+============================
+Iteration  42
+Length  98
+Start Time 2015-12-10 13:38:16.117187
+Original Text Active monitoring will be suggested and if the disease progresses they will be offered treatment 
+
+Original Text Noised Active monitoring will be suggestnd and if phe dilvase plogresses thes will be offered treatment 
+
+Key TEZIXSJYNGRCFMBAQWDVKPHOLU
+Cipher Text Noised Tzvnpx fbmnvbwnmj hncc ex dkjjxdvmi tmi ns ayx incptdx acbjwxddxd vyxd hncc ex bssxwxi vwxtvfxmv 
+
+.........10.0%.....20.0%............30.0%......40.0%......50.0%.......60.0%.......70.0%.....80.0%.....90.0%.......100.0%
+1 BEST:  3037.85992184 Active monitoring will be puggeptnd and if she dilvape slogreppep thep will be offered treatment 
+
+End Time 2015-12-10 13:44:12.638391
+Duration 0:05:56.521278
+Length, Accuracy, Duration, 98 , 0.909090909091 , 0:05:56.521298
+Baseline Accuracy:  0.038961038961
+Average Accuracy of Baseline:  0.067282051282
+Solver Accuracy:  0.909090909091
+Average Accuracy of Solver:  0.875220903301
+Reached same thing many times [1, 1, 1, 4, 4, 1, 2, 4, 4, 1, 4, 1, 1, 2, 1, 3, 1, 3, 5, 4, 1, 1, 1, 4, 1, 3, 1, 2, 3, 2, 7, 1, 1, 1, 4, 7, 1, 1, 1, 5, 3, 1]
+============================
+Iteration  43
+Length  109
+Start Time 2015-12-10 13:44:12.638830
+Original Text More and more specific criteria are being determined in order to decide who should or should not be treated 
+
+Original Text Noised Mtre and msrh specific criteria xre being determined cn order to decide who spould or shnuud not be treated 
+
+Key TYODQUJAFIGZMXVWCNHLREKPSB
+Cipher Text Noised Mlnq txd mhna hwqofufo onflqnft pnq yqfxj dqlqnmfxqd ox vndqn lv dqofdq kav hwvrzd vn haxrrd xvl yq lnqtlqd 
+
+......10.0%........20.0%......30.0%...........40.0%......50.0%.......60.0%.......70.0%.....80.0%.
